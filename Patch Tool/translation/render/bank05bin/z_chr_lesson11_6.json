@@ -1,0 +1,73 @@
+{
+ "png": "bank05bin/z_chr_lesson11_6.png",
+ "ops": [
+  {
+   "clear": [
+    0,
+    0,
+    128,
+    152
+   ],
+   "keep": [
+    1,
+    0
+   ],
+   "idx": 1
+  },
+  {
+   "text": "이렇게",
+   "at": [
+    1,
+    11
+   ],
+   "w": 38,
+   "align": "left",
+   "font": "g11b",
+   "fill": 15
+  },
+  {
+   "text": "적",
+   "at": [
+    76,
+    27
+   ],
+   "w": 51,
+   "align": "left",
+   "font": "g11b",
+   "fill": 11
+  },
+  {
+   "text": "을 한꺼",
+   "at": [
+    87,
+    27
+   ],
+   "w": 40,
+   "align": "left",
+   "font": "g11b",
+   "fill": 15
+  },
+  {
+   "text": "번에",
+   "at": [
+    1,
+    43
+   ],
+   "w": 24,
+   "align": "left",
+   "font": "g11b",
+   "fill": 15
+  },
+  {
+   "text": "쓰러뜨릴 수 있어요",
+   "at": [
+    9,
+    59
+   ],
+   "w": 119,
+   "align": "left",
+   "font": "g11b",
+   "fill": 15
+  }
+ ]
+}

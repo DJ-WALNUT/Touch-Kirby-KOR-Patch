@@ -1,0 +1,84 @@
+{
+ "png": "bank05bin/z_chr_lesson41_0.png",
+ "ops": [
+  {
+   "clear": [
+    0,
+    0,
+    128,
+    152
+   ],
+   "keep": [
+    1,
+    0
+   ],
+   "idx": 1
+  },
+  {
+   "text": "트레이닝: 그 넷째",
+   "at": [
+    1,
+    11
+   ],
+   "w": 127,
+   "align": "left",
+   "font": "g11b",
+   "fill": 15
+  },
+  {
+   "text": "『",
+   "at": [
+    16,
+    75
+   ],
+   "w": 6,
+   "align": "left",
+   "font": "g11b",
+   "fill": 15
+  },
+  {
+   "text": "무지개의 라인",
+   "at": [
+    32,
+    75
+   ],
+   "w": 96,
+   "align": "left",
+   "font": "g11b",
+   "fill": 11
+  },
+  {
+   "text": "을",
+   "at": [
+    108,
+    75
+   ],
+   "w": 20,
+   "align": "left",
+   "font": "g11b",
+   "fill": 15
+  },
+  {
+   "text": "타자",
+   "at": [
+    53,
+    107
+   ],
+   "w": 40,
+   "align": "center",
+   "font": "g11b",
+   "fill": 15
+  },
+  {
+   "text": "』",
+   "at": [
+    103,
+    107
+   ],
+   "w": 6,
+   "align": "left",
+   "font": "g11b",
+   "fill": 15
+  }
+ ]
+}

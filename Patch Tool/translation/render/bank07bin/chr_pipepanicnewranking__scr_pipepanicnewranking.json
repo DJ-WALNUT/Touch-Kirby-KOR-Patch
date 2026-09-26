@@ -1,0 +1,50 @@
+{
+ "png": "bank07bin/chr_pipepanicnewranking__scr_pipepanicnewranking.png",
+ "ops": [
+  {
+   "fill": [
+    0,
+    82,
+    256,
+    26
+   ],
+   "idx": 15
+  },
+  {
+   "text": "랭킹 갱신!",
+   "font": "g14",
+   "bold": 1,
+   "spacing": 4,
+   "w": 142,
+   "align": "center",
+   "at": [
+    58,
+    0
+   ],
+   "valign_box": [
+    90,
+    13
+   ],
+   "fill": 3,
+   "outline": 3
+  },
+  {
+   "text": "랭킹 갱신!",
+   "font": "g14",
+   "bold": 1,
+   "spacing": 4,
+   "w": 142,
+   "align": "center",
+   "at": [
+    56,
+    0
+   ],
+   "valign_box": [
+    88,
+    13
+   ],
+   "fill": 2,
+   "outline": 3
+  }
+ ]
+}

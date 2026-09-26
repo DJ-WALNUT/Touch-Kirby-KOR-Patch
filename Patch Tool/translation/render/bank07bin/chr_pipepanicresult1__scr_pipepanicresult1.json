@@ -1,0 +1,59 @@
+{
+ "png": "bank07bin/chr_pipepanicresult1__scr_pipepanicresult1.png",
+ "ops": [
+  {
+   "fill": [
+    32,
+    40,
+    48,
+    8
+   ],
+   "idx": 81
+  },
+  {
+   "text": "점수",
+   "at": [
+    34,
+    40
+   ],
+   "font": "g7",
+   "fill": 85
+  },
+  {
+   "fill": [
+    32,
+    88,
+    48,
+    8
+   ],
+   "idx": 81
+  },
+  {
+   "text": "정답 수",
+   "at": [
+    34,
+    88
+   ],
+   "font": "g7",
+   "fill": 85
+  },
+  {
+   "fill": [
+    32,
+    136,
+    48,
+    8
+   ],
+   "idx": 81
+  },
+  {
+   "text": "평가",
+   "at": [
+    34,
+    136
+   ],
+   "font": "g7",
+   "fill": 85
+  }
+ ]
+}

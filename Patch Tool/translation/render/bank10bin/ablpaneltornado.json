@@ -1,0 +1,4 @@
+{"png": "bank10bin/ablpaneltornado.png", "ops": [
+ {"fill": [1, 1, 38, 13], "idx": 7},
+ {"text": "토네이도", "at": [1, 0], "w": 38, "align": "center", "valign_box": [1, 13], "font": "g11c", "fill": 3, "outline": 4}
+]}

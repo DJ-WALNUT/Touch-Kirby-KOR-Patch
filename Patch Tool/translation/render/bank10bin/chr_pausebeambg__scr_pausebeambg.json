@@ -1,0 +1,89 @@
+{
+ "png": "bank10bin/chr_pausebeambg__scr_pausebeambg.png",
+ "ops": [
+  {
+   "fill": [
+    16,
+    10,
+    48,
+    17
+   ],
+   "idx": 0
+  },
+  {
+   "fill": [
+    24,
+    32,
+    217,
+    16
+   ],
+   "idx": 0
+  },
+  {
+   "fill": [
+    24,
+    47,
+    211,
+    17
+   ],
+   "idx": 0
+  },
+  {
+   "fill": [
+    17,
+    11,
+    14,
+    15
+   ],
+   "idx": 31
+  },
+  {
+   "text": "빔",
+   "at": [
+    17,
+    0
+   ],
+   "w": 14,
+   "align": "center",
+   "valign_box": [
+    12,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 24
+  },
+  {
+   "text": "빙글 한 바퀴 빔 채찍이다",
+   "at": [
+    25,
+    0
+   ],
+   "valign_box": [
+    33,
+    14
+   ],
+   "fill": 31,
+   "w": 227,
+   "font": "g14",
+   "bold": 1,
+   "spacing": 1
+  },
+  {
+   "text": "계속 터치하면 공중 정지!",
+   "at": [
+    25,
+    0
+   ],
+   "valign_box": [
+    48,
+    15
+   ],
+   "fill": 31,
+   "w": 227,
+   "font": "g14",
+   "bold": 1,
+   "spacing": 1
+  }
+ ]
+}

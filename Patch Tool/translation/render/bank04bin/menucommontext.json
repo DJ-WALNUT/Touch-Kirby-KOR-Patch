@@ -1,0 +1,114 @@
+{
+ "png": "bank04bin/menucommontext.png",
+ "ops": [
+  {
+   "fill": [
+    368,
+    0,
+    48,
+    16
+   ],
+   "idx": 0
+  },
+  {
+   "fill": [
+    428,
+    0,
+    32,
+    16
+   ],
+   "idx": 0
+  },
+  {
+   "fill": [
+    472,
+    0,
+    24,
+    16
+   ],
+   "idx": 0
+  },
+  {
+   "text": "플레이시간",
+   "at": [
+    368,
+    0
+   ],
+   "w": 47,
+   "align": "right",
+   "font": "g11c",
+   "fill": 2,
+   "outline": 1,
+   "valign_box": [
+    1,
+    12
+   ]
+  },
+  {
+   "text": "메달",
+   "at": [
+    428,
+    0
+   ],
+   "w": 31,
+   "align": "right",
+   "font": "g11c",
+   "fill": 2,
+   "outline": 1,
+   "valign_box": [
+    1,
+    12
+   ]
+  },
+  {
+   "text": "클리어",
+   "at": [
+    472,
+    0
+   ],
+   "w": 23,
+   "align": "right",
+   "font": "g11c",
+   "fill": 2,
+   "outline": 1,
+   "spacing": -1,
+   "valign_box": [
+    1,
+    12
+   ]
+  },
+  {
+   "fill": [
+    20,
+    20,
+    148,
+    16
+   ],
+   "idx": 0
+  },
+  {
+   "text": "@L005",
+   "at": [
+    21,
+    21
+   ],
+   "w": 70,
+   "align": "center",
+   "font": "g9",
+   "fill": 3,
+   "outline": 1
+  },
+  {
+   "text": "@L005",
+   "at": [
+    97,
+    21
+   ],
+   "w": 70,
+   "align": "center",
+   "font": "g9",
+   "fill": 4,
+   "outline": 1
+  }
+ ]
+}

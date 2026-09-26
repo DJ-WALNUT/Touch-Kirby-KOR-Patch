@@ -1,0 +1,84 @@
+{
+ "png": "bank05bin/z_chr_lesson31_1.png",
+ "ops": [
+  {
+   "clear": [
+    0,
+    0,
+    128,
+    152
+   ],
+   "keep": [
+    1,
+    0
+   ],
+   "idx": 1
+  },
+  {
+   "text": "이대로는",
+   "at": [
+    2,
+    11
+   ],
+   "w": 76,
+   "align": "left",
+   "font": "g11b",
+   "fill": 15
+  },
+  {
+   "text": "커비가",
+   "at": [
+    48,
+    27
+   ],
+   "w": 64,
+   "align": "left",
+   "font": "g11b",
+   "fill": 15
+  },
+  {
+   "text": "떨",
+   "at": [
+    117,
+    27
+   ],
+   "w": 11,
+   "align": "right",
+   "font": "g11b",
+   "fill": 15
+  },
+  {
+   "text": "어지고 말아요",
+   "at": [
+    1,
+    43
+   ],
+   "w": 93,
+   "align": "left",
+   "font": "g11b",
+   "fill": 15
+  },
+  {
+   "text": "그럴 때는",
+   "at": [
+    18,
+    75
+   ],
+   "w": 72,
+   "align": "right",
+   "font": "g11b",
+   "fill": 15
+  },
+  {
+   "text": "…",
+   "at": [
+    100,
+    75
+   ],
+   "w": 16,
+   "align": "left",
+   "font": "g11b",
+   "fill": 15
+  }
+ ]
+}

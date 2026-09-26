@@ -1,0 +1,395 @@
+{
+ "png": "bank04bin/configswitch.png",
+ "ops": [
+  {
+   "fill": [
+    1,
+    1,
+    78,
+    14
+   ],
+   "idx": 4
+  },
+  {
+   "text": "라인 타입",
+   "at": [
+    1,
+    0
+   ],
+   "w": 78,
+   "align": "center",
+   "valign_box": [
+    1,
+    14
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 2,
+   "outline": 7
+  },
+  {
+   "fill": [
+    87,
+    1,
+    78,
+    14
+   ],
+   "idx": 4
+  },
+  {
+   "text": "라인 타입",
+   "at": [
+    87,
+    0
+   ],
+   "w": 78,
+   "align": "center",
+   "valign_box": [
+    1,
+    14
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 2,
+   "outline": 7
+  },
+  {
+   "fill": [
+    171,
+    1,
+    78,
+    14
+   ],
+   "idx": 20
+  },
+  {
+   "text": "라인 타입",
+   "at": [
+    171,
+    0
+   ],
+   "w": 78,
+   "align": "center",
+   "valign_box": [
+    1,
+    14
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 18,
+   "outline": 23
+  },
+  {
+   "fill": [
+    255,
+    1,
+    78,
+    14
+   ],
+   "idx": 20
+  },
+  {
+   "text": "라인 타입",
+   "at": [
+    255,
+    0
+   ],
+   "w": 78,
+   "align": "center",
+   "valign_box": [
+    1,
+    14
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 18,
+   "outline": 23
+  },
+  {
+   "fill": [
+    341,
+    1,
+    78,
+    14
+   ],
+   "idx": 36
+  },
+  {
+   "text": "라인 타입",
+   "at": [
+    341,
+    0
+   ],
+   "w": 78,
+   "align": "center",
+   "valign_box": [
+    1,
+    14
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 34,
+   "outline": 39
+  },
+  {
+   "fill": [
+    427,
+    1,
+    62,
+    14
+   ],
+   "idx": 8
+  },
+  {
+   "text": "사운드",
+   "at": [
+    427,
+    0
+   ],
+   "w": 62,
+   "align": "center",
+   "valign_box": [
+    1,
+    14
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 2,
+   "outline": 11
+  },
+  {
+   "fill": [
+    1,
+    23,
+    62,
+    14
+   ],
+   "idx": 8
+  },
+  {
+   "text": "사운드",
+   "at": [
+    1,
+    0
+   ],
+   "w": 62,
+   "align": "center",
+   "valign_box": [
+    23,
+    14
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 2,
+   "outline": 11
+  },
+  {
+   "fill": [
+    69,
+    23,
+    62,
+    14
+   ],
+   "idx": 24
+  },
+  {
+   "text": "사운드",
+   "at": [
+    69,
+    0
+   ],
+   "w": 62,
+   "align": "center",
+   "valign_box": [
+    23,
+    14
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 18,
+   "outline": 27
+  },
+  {
+   "fill": [
+    137,
+    23,
+    62,
+    14
+   ],
+   "idx": 24
+  },
+  {
+   "text": "사운드",
+   "at": [
+    137,
+    0
+   ],
+   "w": 62,
+   "align": "center",
+   "valign_box": [
+    23,
+    14
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 18,
+   "outline": 27
+  },
+  {
+   "fill": [
+    207,
+    23,
+    62,
+    14
+   ],
+   "idx": 40
+  },
+  {
+   "text": "사운드",
+   "at": [
+    207,
+    0
+   ],
+   "w": 62,
+   "align": "center",
+   "valign_box": [
+    23,
+    14
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 34,
+   "outline": 43
+  },
+  {
+   "fill": [
+    277,
+    23,
+    78,
+    14
+   ],
+   "idx": 12
+  },
+  {
+   "text": "픽토챗",
+   "at": [
+    277,
+    0
+   ],
+   "w": 78,
+   "align": "center",
+   "valign_box": [
+    23,
+    14
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 2,
+   "outline": 15
+  },
+  {
+   "fill": [
+    363,
+    23,
+    78,
+    14
+   ],
+   "idx": 12
+  },
+  {
+   "text": "픽토챗",
+   "at": [
+    363,
+    0
+   ],
+   "w": 78,
+   "align": "center",
+   "valign_box": [
+    23,
+    14
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 2,
+   "outline": 15
+  },
+  {
+   "fill": [
+    1,
+    45,
+    78,
+    14
+   ],
+   "idx": 28
+  },
+  {
+   "text": "픽토챗",
+   "at": [
+    1,
+    0
+   ],
+   "w": 78,
+   "align": "center",
+   "valign_box": [
+    45,
+    14
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 18,
+   "outline": 31
+  },
+  {
+   "fill": [
+    85,
+    45,
+    78,
+    14
+   ],
+   "idx": 28
+  },
+  {
+   "text": "픽토챗",
+   "at": [
+    85,
+    0
+   ],
+   "w": 78,
+   "align": "center",
+   "valign_box": [
+    45,
+    14
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 18,
+   "outline": 31
+  },
+  {
+   "fill": [
+    171,
+    45,
+    78,
+    14
+   ],
+   "idx": 44
+  },
+  {
+   "text": "픽토챗",
+   "at": [
+    171,
+    0
+   ],
+   "w": 78,
+   "align": "center",
+   "valign_box": [
+    45,
+    14
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 34,
+   "outline": 47
+  }
+ ]
+}

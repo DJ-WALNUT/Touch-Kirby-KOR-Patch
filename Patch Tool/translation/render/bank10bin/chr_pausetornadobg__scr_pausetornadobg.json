@@ -1,0 +1,164 @@
+{
+ "png": "bank10bin/chr_pausetornadobg__scr_pausetornadobg.png",
+ "ops": [
+  {
+   "fill": [
+    16,
+    10,
+    80,
+    17
+   ],
+   "idx": 0
+  },
+  {
+   "fill": [
+    24,
+    31,
+    216,
+    17
+   ],
+   "idx": 0
+  },
+  {
+   "fill": [
+    24,
+    48,
+    179,
+    16
+   ],
+   "idx": 0
+  },
+  {
+   "fill": [
+    17,
+    11,
+    14,
+    15
+   ],
+   "idx": 31
+  },
+  {
+   "text": "토",
+   "at": [
+    17,
+    0
+   ],
+   "w": 14,
+   "align": "center",
+   "valign_box": [
+    12,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 24
+  },
+  {
+   "fill": [
+    33,
+    11,
+    14,
+    15
+   ],
+   "idx": 31
+  },
+  {
+   "text": "네",
+   "at": [
+    33,
+    0
+   ],
+   "w": 14,
+   "align": "center",
+   "valign_box": [
+    12,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 24
+  },
+  {
+   "fill": [
+    49,
+    11,
+    14,
+    15
+   ],
+   "idx": 31
+  },
+  {
+   "text": "이",
+   "at": [
+    49,
+    0
+   ],
+   "w": 14,
+   "align": "center",
+   "valign_box": [
+    12,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 24
+  },
+  {
+   "fill": [
+    65,
+    11,
+    14,
+    15
+   ],
+   "idx": 31
+  },
+  {
+   "text": "도",
+   "at": [
+    65,
+    0
+   ],
+   "w": 14,
+   "align": "center",
+   "valign_box": [
+    12,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 24
+  },
+  {
+   "text": "터치로 점점 날아올라요",
+   "at": [
+    25,
+    0
+   ],
+   "valign_box": [
+    32,
+    15
+   ],
+   "fill": 31,
+   "w": 227,
+   "font": "g14",
+   "bold": 1,
+   "spacing": 1
+  },
+  {
+   "text": "하늘 높이 날아가요!",
+   "at": [
+    25,
+    0
+   ],
+   "valign_box": [
+    49,
+    14
+   ],
+   "fill": 31,
+   "w": 227,
+   "font": "g14",
+   "bold": 1,
+   "spacing": 1
+  }
+ ]
+}

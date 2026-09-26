@@ -1,0 +1,76 @@
+{
+ "png": "bank05bin/z_chr_lesson11_7.png",
+ "ops": [
+  {
+   "clear": [
+    0,
+    0,
+    128,
+    152
+   ],
+   "keep": [
+    1,
+    0
+   ],
+   "idx": 1
+  },
+  {
+   "text": "이름하여",
+   "at": [
+    1,
+    11
+   ],
+   "w": 50,
+   "align": "left",
+   "font": "g11b",
+   "fill": 15
+  },
+  {
+   "text": "「터치 대시」",
+   "at": [
+    58,
+    11
+   ],
+   "w": 70,
+   "align": "left",
+   "font": "g11b",
+   "fill": 11
+  },
+  {
+   "text": "그럼",
+   "at": [
+    17,
+    72
+   ],
+   "w": 44,
+   "align": "left",
+   "font": "g14",
+   "fill": 11,
+   "bold": 1
+  },
+  {
+   "text": "해",
+   "at": [
+    96,
+    104
+   ],
+   "w": 31,
+   "align": "right",
+   "font": "g14",
+   "fill": 11,
+   "bold": 1
+  },
+  {
+   "text": " 볼까요!",
+   "at": [
+    1,
+    120
+   ],
+   "w": 127,
+   "align": "left",
+   "font": "g14",
+   "fill": 11,
+   "bold": 1
+  }
+ ]
+}

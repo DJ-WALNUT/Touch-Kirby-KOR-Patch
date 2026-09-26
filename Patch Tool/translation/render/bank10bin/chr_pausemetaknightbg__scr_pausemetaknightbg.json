@@ -1,0 +1,189 @@
+{
+ "png": "bank10bin/chr_pausemetaknightbg__scr_pausemetaknightbg.png",
+ "ops": [
+  {
+   "fill": [
+    16,
+    10,
+    80,
+    17
+   ],
+   "idx": 0
+  },
+  {
+   "fill": [
+    23,
+    31,
+    193,
+    17
+   ],
+   "idx": 0
+  },
+  {
+   "fill": [
+    24,
+    47,
+    219,
+    17
+   ],
+   "idx": 0
+  },
+  {
+   "fill": [
+    17,
+    11,
+    14,
+    15
+   ],
+   "idx": 31
+  },
+  {
+   "text": "메",
+   "at": [
+    17,
+    0
+   ],
+   "w": 14,
+   "align": "center",
+   "valign_box": [
+    12,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 24
+  },
+  {
+   "fill": [
+    33,
+    11,
+    14,
+    15
+   ],
+   "idx": 31
+  },
+  {
+   "text": "타",
+   "at": [
+    33,
+    0
+   ],
+   "w": 14,
+   "align": "center",
+   "valign_box": [
+    12,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 24
+  },
+  {
+   "fill": [
+    49,
+    11,
+    14,
+    15
+   ],
+   "idx": 31
+  },
+  {
+   "text": "나",
+   "at": [
+    49,
+    0
+   ],
+   "w": 14,
+   "align": "center",
+   "valign_box": [
+    12,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 24
+  },
+  {
+   "fill": [
+    65,
+    11,
+    14,
+    15
+   ],
+   "idx": 31
+  },
+  {
+   "text": "이",
+   "at": [
+    65,
+    0
+   ],
+   "w": 14,
+   "align": "center",
+   "valign_box": [
+    12,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 24
+  },
+  {
+   "fill": [
+    81,
+    11,
+    14,
+    15
+   ],
+   "idx": 31
+  },
+  {
+   "text": "트",
+   "at": [
+    81,
+    0
+   ],
+   "w": 14,
+   "align": "center",
+   "valign_box": [
+    12,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 24
+  },
+  {
+   "text": "푸른 번개 가면의 전사",
+   "at": [
+    25,
+    0
+   ],
+   "valign_box": [
+    32,
+    15
+   ],
+   "fill": 31,
+   "w": 227,
+   "font": "g14",
+   "bold": 1,
+   "spacing": 1
+  },
+  {
+   "text": "고속 대시로 스워드 공격",
+   "at": [
+    25,
+    0
+   ],
+   "valign_box": [
+    48,
+    15
+   ],
+   "fill": 31,
+   "w": 227,
+   "font": "g14",
+   "bold": 1,
+   "spacing": 1
+  }
+ ]
+}

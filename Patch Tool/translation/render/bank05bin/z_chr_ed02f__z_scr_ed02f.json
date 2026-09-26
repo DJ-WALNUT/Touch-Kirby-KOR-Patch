@@ -1,0 +1,314 @@
+{
+ "png": "bank05bin/z_chr_ed02f__z_scr_ed02f.png",
+ "ops": [
+  {
+   "fill": [
+    0,
+    0,
+    512,
+    256
+   ],
+   "idx": 0
+  },
+  {
+   "text": "하지만 도로시아가",
+   "at": [
+    10,
+    21
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 2,
+   "outline": 2
+  },
+  {
+   "text": "예상하지 못한 것은",
+   "at": [
+    10,
+    53
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 2,
+   "outline": 2
+  },
+  {
+   "text": "커비가 그림 세계에",
+   "at": [
+    10,
+    85
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 2,
+   "outline": 2
+  },
+  {
+   "text": "와 버린 것",
+   "at": [
+    10,
+    118
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 2,
+   "outline": 2
+  },
+  {
+   "text": "그리고 당신이",
+   "at": [
+    10,
+    173
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 2,
+   "outline": 2
+  },
+  {
+   "text": "「마법의 붓」을",
+   "at": [
+    10,
+    206
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 2,
+   "outline": 2
+  },
+  {
+   "text": "손에 넣은 것",
+   "at": [
+    10,
+    238
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 2,
+   "outline": 2
+  },
+  {
+   "text": "마법의 붓은",
+   "at": [
+    266,
+    94
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 2,
+   "outline": 2
+  },
+  {
+   "text": "폭주하는 도로시아의",
+   "at": [
+    266,
+    126
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 2,
+   "outline": 2
+  },
+  {
+   "text": "봉인을 바라며",
+   "at": [
+    266,
+    158
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 2,
+   "outline": 2
+  },
+  {
+   "text": "커비와 당신 앞에",
+   "at": [
+    266,
+    189
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 2,
+   "outline": 2
+  },
+  {
+   "text": "나타났던 거겠지요",
+   "at": [
+    266,
+    221
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 2,
+   "outline": 2
+  },
+  {
+   "text": "하지만 도로시아가",
+   "at": [
+    9,
+    19
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 1,
+   "outline": 2,
+   "w": 239
+  },
+  {
+   "text": "예상하지 못한 것은",
+   "at": [
+    9,
+    51
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 1,
+   "outline": 2,
+   "w": 239
+  },
+  {
+   "text": "커비가 그림 세계에",
+   "at": [
+    9,
+    83
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 1,
+   "outline": 2,
+   "w": 239
+  },
+  {
+   "text": "와 버린 것",
+   "at": [
+    9,
+    116
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 1,
+   "outline": 2,
+   "w": 239
+  },
+  {
+   "text": "그리고 당신이",
+   "at": [
+    9,
+    171
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 1,
+   "outline": 2,
+   "w": 239
+  },
+  {
+   "text": "「마법의 붓」을",
+   "at": [
+    9,
+    204
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 1,
+   "outline": 2,
+   "w": 239
+  },
+  {
+   "text": "손에 넣은 것",
+   "at": [
+    9,
+    236
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 1,
+   "outline": 2,
+   "w": 239
+  },
+  {
+   "text": "마법의 붓은",
+   "at": [
+    265,
+    92
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 1,
+   "outline": 2,
+   "w": 239
+  },
+  {
+   "text": "폭주하는 도로시아의",
+   "at": [
+    265,
+    124
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 1,
+   "outline": 2,
+   "w": 239
+  },
+  {
+   "text": "봉인을 바라며",
+   "at": [
+    265,
+    156
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 1,
+   "outline": 2,
+   "w": 239
+  },
+  {
+   "text": "커비와 당신 앞에",
+   "at": [
+    265,
+    187
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 1,
+   "outline": 2,
+   "w": 239
+  },
+  {
+   "text": "나타났던 거겠지요",
+   "at": [
+    265,
+    219
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 1,
+   "outline": 2,
+   "w": 239
+  }
+ ]
+}

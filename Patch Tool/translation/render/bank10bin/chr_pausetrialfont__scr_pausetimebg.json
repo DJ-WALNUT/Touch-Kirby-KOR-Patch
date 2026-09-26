@@ -1,0 +1,197 @@
+{
+ "png": "bank10bin/chr_pausetrialfont__scr_pausetimebg.png",
+ "ops": [
+  {
+   "fill": [
+    121,
+    9,
+    31,
+    14
+   ],
+   "idx": 0
+  },
+  {
+   "fill": [
+    25,
+    9,
+    14,
+    14
+   ],
+   "idx": 15
+  },
+  {
+   "text": "타",
+   "at": [
+    25,
+    0
+   ],
+   "w": 14,
+   "align": "center",
+   "valign_box": [
+    9,
+    14
+   ],
+   "font": "g11b",
+   "fill": 3
+  },
+  {
+   "fill": [
+    41,
+    9,
+    14,
+    14
+   ],
+   "idx": 15
+  },
+  {
+   "text": "임",
+   "at": [
+    41,
+    0
+   ],
+   "w": 14,
+   "align": "center",
+   "valign_box": [
+    9,
+    14
+   ],
+   "font": "g11b",
+   "fill": 3
+  },
+  {
+   "fill": [
+    57,
+    9,
+    14,
+    14
+   ],
+   "idx": 15
+  },
+  {
+   "text": "트",
+   "at": [
+    57,
+    0
+   ],
+   "w": 14,
+   "align": "center",
+   "valign_box": [
+    9,
+    14
+   ],
+   "font": "g11b",
+   "fill": 3
+  },
+  {
+   "fill": [
+    73,
+    9,
+    14,
+    14
+   ],
+   "idx": 15
+  },
+  {
+   "text": "라",
+   "at": [
+    73,
+    0
+   ],
+   "w": 14,
+   "align": "center",
+   "valign_box": [
+    9,
+    14
+   ],
+   "font": "g11b",
+   "fill": 3
+  },
+  {
+   "fill": [
+    89,
+    9,
+    14,
+    14
+   ],
+   "idx": 15
+  },
+  {
+   "text": "이",
+   "at": [
+    89,
+    0
+   ],
+   "w": 14,
+   "align": "center",
+   "valign_box": [
+    9,
+    14
+   ],
+   "font": "g11b",
+   "fill": 3
+  },
+  {
+   "fill": [
+    105,
+    9,
+    14,
+    14
+   ],
+   "idx": 15
+  },
+  {
+   "text": "얼",
+   "at": [
+    105,
+    0
+   ],
+   "w": 14,
+   "align": "center",
+   "valign_box": [
+    9,
+    14
+   ],
+   "font": "g11b",
+   "fill": 3
+  },
+  {
+   "fill": [
+    20,
+    30,
+    230,
+    44
+   ],
+   "idx": 0
+  },
+  {
+   "text": "100분의 1초의 드라마",
+   "at": [
+    25,
+    0
+   ],
+   "valign_box": [
+    33,
+    14
+   ],
+   "font": "g14",
+   "bold": 1,
+   "fill": 15,
+   "w": 214
+  },
+  {
+   "text": "대시로 골을 노려라",
+   "at": [
+    25,
+    0
+   ],
+   "valign_box": [
+    57,
+    14
+   ],
+   "font": "g14",
+   "bold": 1,
+   "fill": 15,
+   "w": 214
+  }
+ ]
+}

@@ -1,0 +1,6 @@
+{"png": "bank10bin/trialupinfo.png", "ops": [
+ {"fill": [242, 0, 222, 14], "idx": 0},
+ {"text": "적게 그릴수록 고득점!", "at": [244, 0], "w": 218, "valign_box": [0, 14], "font": "g11b", "spacing": 2, "fill": 1},
+ {"fill": [0, 20, 224, 22], "idx": 0},
+ {"text": "무조건 빨리 골로 향해요!", "at": [2, 0], "w": 220, "valign_box": [21, 13], "font": "g11b", "spacing": 2, "fill": 1}
+]}

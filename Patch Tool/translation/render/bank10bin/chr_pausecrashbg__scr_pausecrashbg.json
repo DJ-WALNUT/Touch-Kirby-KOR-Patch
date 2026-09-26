@@ -1,0 +1,139 @@
+{
+ "png": "bank10bin/chr_pausecrashbg__scr_pausecrashbg.png",
+ "ops": [
+  {
+   "fill": [
+    16,
+    10,
+    78,
+    17
+   ],
+   "idx": 0
+  },
+  {
+   "fill": [
+    24,
+    31,
+    216,
+    17
+   ],
+   "idx": 0
+  },
+  {
+   "fill": [
+    24,
+    48,
+    215,
+    16
+   ],
+   "idx": 0
+  },
+  {
+   "fill": [
+    17,
+    11,
+    14,
+    15
+   ],
+   "idx": 31
+  },
+  {
+   "text": "크",
+   "at": [
+    17,
+    0
+   ],
+   "w": 14,
+   "align": "center",
+   "valign_box": [
+    12,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 24
+  },
+  {
+   "fill": [
+    33,
+    11,
+    14,
+    15
+   ],
+   "idx": 31
+  },
+  {
+   "text": "래",
+   "at": [
+    33,
+    0
+   ],
+   "w": 14,
+   "align": "center",
+   "valign_box": [
+    12,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 24
+  },
+  {
+   "fill": [
+    49,
+    11,
+    14,
+    15
+   ],
+   "idx": 31
+  },
+  {
+   "text": "시",
+   "at": [
+    49,
+    0
+   ],
+   "w": 14,
+   "align": "center",
+   "valign_box": [
+    12,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 24
+  },
+  {
+   "text": "터치하면 폭발해요",
+   "at": [
+    25,
+    0
+   ],
+   "valign_box": [
+    32,
+    15
+   ],
+   "fill": 31,
+   "w": 227,
+   "font": "g14",
+   "bold": 1,
+   "spacing": 1
+  },
+  {
+   "text": "화면의 적을 모두 해치워요!",
+   "at": [
+    25,
+    0
+   ],
+   "valign_box": [
+    49,
+    14
+   ],
+   "fill": 31,
+   "w": 227,
+   "font": "g14",
+   "bold": 1,
+   "spacing": 1
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "png": "bank05bin/z_chr_lesson41_1.png",
+ "ops": [
+  {
+   "clear": [
+    0,
+    0,
+    128,
+    152
+   ],
+   "keep": [
+    1,
+    0
+   ],
+   "idx": 1
+  },
+  {
+   "text": "건너편으로",
+   "at": [
+    49,
+    27
+   ],
+   "w": 63,
+   "align": "left",
+   "font": "g11b",
+   "fill": 15
+  },
+  {
+   "text": "가",
+   "at": [
+    117,
+    27
+   ],
+   "w": 11,
+   "align": "right",
+   "font": "g11b",
+   "fill": 15
+  },
+  {
+   "text": "고 싶어!!",
+   "at": [
+    1,
+    43
+   ],
+   "w": 53,
+   "align": "left",
+   "font": "g11b",
+   "fill": 15
+  },
+  {
+   "text": "그럴 때는",
+   "at": [
+    17,
+    75
+   ],
+   "w": 85,
+   "align": "right",
+   "font": "g11b",
+   "fill": 15
+  },
+  {
+   "text": "…",
+   "at": [
+    112,
+    75
+   ],
+   "w": 16,
+   "align": "left",
+   "font": "g11b",
+   "fill": 15
+  }
+ ]
+}

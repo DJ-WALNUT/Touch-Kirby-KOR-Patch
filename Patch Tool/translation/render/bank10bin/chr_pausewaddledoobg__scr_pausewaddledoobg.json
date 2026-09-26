@@ -1,0 +1,164 @@
+{
+ "png": "bank10bin/chr_pausewaddledoobg__scr_pausewaddledoobg.png",
+ "ops": [
+  {
+   "fill": [
+    16,
+    10,
+    80,
+    17
+   ],
+   "idx": 0
+  },
+  {
+   "fill": [
+    25,
+    32,
+    175,
+    16
+   ],
+   "idx": 0
+  },
+  {
+   "fill": [
+    24,
+    48,
+    187,
+    16
+   ],
+   "idx": 0
+  },
+  {
+   "fill": [
+    17,
+    11,
+    14,
+    15
+   ],
+   "idx": 31
+  },
+  {
+   "text": "웨",
+   "at": [
+    17,
+    0
+   ],
+   "w": 14,
+   "align": "center",
+   "valign_box": [
+    12,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 24
+  },
+  {
+   "fill": [
+    33,
+    11,
+    14,
+    15
+   ],
+   "idx": 31
+  },
+  {
+   "text": "이",
+   "at": [
+    33,
+    0
+   ],
+   "w": 14,
+   "align": "center",
+   "valign_box": [
+    12,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 24
+  },
+  {
+   "fill": [
+    49,
+    11,
+    14,
+    15
+   ],
+   "idx": 31
+  },
+  {
+   "text": "들",
+   "at": [
+    49,
+    0
+   ],
+   "w": 14,
+   "align": "center",
+   "valign_box": [
+    12,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 24
+  },
+  {
+   "fill": [
+    72,
+    11,
+    14,
+    15
+   ],
+   "idx": 31
+  },
+  {
+   "text": "두",
+   "at": [
+    72,
+    0
+   ],
+   "w": 14,
+   "align": "center",
+   "valign_box": [
+    12,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 24
+  },
+  {
+   "text": "빔 능력은 나의 것",
+   "at": [
+    25,
+    0
+   ],
+   "valign_box": [
+    33,
+    14
+   ],
+   "fill": 31,
+   "w": 227,
+   "font": "g14",
+   "bold": 1,
+   "spacing": 1
+  },
+  {
+   "text": "드디어 등장 두 대장!!",
+   "at": [
+    25,
+    0
+   ],
+   "valign_box": [
+    49,
+    14
+   ],
+   "fill": 31,
+   "w": 227,
+   "font": "g14",
+   "bold": 1,
+   "spacing": 1
+  }
+ ]
+}

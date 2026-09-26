@@ -1,0 +1,84 @@
+{
+ "png": "bank07bin/chr_blockattackmedal__scr_blockattackmedal.png",
+ "ops": [
+  {
+   "fill": [
+    60,
+    52,
+    136,
+    46
+   ],
+   "idx": 143
+  },
+  {
+   "text": "블록 어택!",
+   "at": [
+    61,
+    0
+   ],
+   "font": "g14",
+   "fill": 131,
+   "outline": 131,
+   "valign_box": [
+    56,
+    15
+   ],
+   "w": 134,
+   "align": "center",
+   "bold": 1,
+   "spacing": 2
+  },
+  {
+   "text": "블록 어택!",
+   "at": [
+    60,
+    0
+   ],
+   "font": "g14",
+   "fill": 130,
+   "valign_box": [
+    55,
+    15
+   ],
+   "w": 134,
+   "align": "center",
+   "bold": 1,
+   "spacing": 2
+  },
+  {
+   "text": "메달 획득",
+   "at": [
+    61,
+    0
+   ],
+   "font": "g14",
+   "fill": 131,
+   "outline": 131,
+   "valign_box": [
+    81,
+    15
+   ],
+   "w": 134,
+   "align": "center",
+   "bold": 1,
+   "spacing": 2
+  },
+  {
+   "text": "메달 획득",
+   "at": [
+    60,
+    0
+   ],
+   "font": "g14",
+   "fill": 130,
+   "valign_box": [
+    80,
+    15
+   ],
+   "w": 134,
+   "align": "center",
+   "bold": 1,
+   "spacing": 2
+  }
+ ]
+}

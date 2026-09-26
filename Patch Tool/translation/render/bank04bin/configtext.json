@@ -1,0 +1,118 @@
+{
+ "png": "bank04bin/configtext.png",
+ "ops": [
+  {
+   "fill": [
+    0,
+    0,
+    492,
+    76
+   ],
+   "idx": 0
+  },
+  {
+   "text": "평소 곡으로 플레이해요",
+   "at": [
+    1,
+    0
+   ],
+   "w": 190,
+   "font": "g14",
+   "bold": 1,
+   "fill": 2,
+   "outline": 1,
+   "spacing": 1
+  },
+  {
+   "text": "추억의 곡으로 플레이해요",
+   "at": [
+    197,
+    0
+   ],
+   "w": 206,
+   "font": "g14",
+   "bold": 1,
+   "fill": 2,
+   "outline": 1,
+   "spacing": 1
+  },
+  {
+   "text": "이어폰으로 할 때",
+   "at": [
+    1,
+    20
+   ],
+   "w": 158,
+   "font": "g14",
+   "bold": 1,
+   "fill": 2,
+   "outline": 1,
+   "spacing": 1
+  },
+  {
+   "text": "가장 추천!",
+   "at": [
+    165,
+    20
+   ],
+   "w": 110,
+   "font": "g14",
+   "bold": 1,
+   "fill": 2,
+   "outline": 1,
+   "spacing": 1
+  },
+  {
+   "text": "헤드폰으로도 귀가 편안해요",
+   "at": [
+    281,
+    20
+   ],
+   "w": 206,
+   "font": "g14",
+   "bold": 1,
+   "fill": 2,
+   "outline": 1,
+   "spacing": 1
+  },
+  {
+   "text": "입체감 있는 소리를 즐겨요",
+   "at": [
+    1,
+    40
+   ],
+   "w": 206,
+   "font": "g14",
+   "bold": 1,
+   "fill": 2,
+   "outline": 1,
+   "spacing": 1
+  },
+  {
+   "text": "픽토챗을 찾아요",
+   "at": [
+    213,
+    40
+   ],
+   "w": 206,
+   "font": "g14",
+   "bold": 1,
+   "fill": 2,
+   "outline": 1,
+   "spacing": 1
+  },
+  {
+   "text": "픽토챗을 찾지 않아요",
+   "at": [
+    1,
+    60
+   ],
+   "w": 222,
+   "font": "g14",
+   "bold": 1,
+   "fill": 2,
+   "outline": 1,
+   "spacing": 1
+  }
+ ]
+}

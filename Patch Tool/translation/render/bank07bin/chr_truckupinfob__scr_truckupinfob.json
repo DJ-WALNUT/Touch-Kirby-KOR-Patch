@@ -1,0 +1,41 @@
+{
+ "png": "bank07bin/chr_truckupinfob__scr_truckupinfob.png",
+ "ops": [
+  {
+   "fill": [
+    17,
+    9,
+    22,
+    6
+   ],
+   "idx": 14
+  },
+  {
+   "text": "코스",
+   "at": [
+    17,
+    8
+   ],
+   "font": "g7",
+   "fill": 15
+  },
+  {
+   "fill": [
+    17,
+    39,
+    39,
+    7
+   ],
+   "idx": 3
+  },
+  {
+   "text": "디디디 대왕",
+   "at": [
+    17,
+    38
+   ],
+   "font": "g7",
+   "fill": 15
+  }
+ ]
+}

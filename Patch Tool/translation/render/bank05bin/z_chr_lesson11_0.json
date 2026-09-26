@@ -1,0 +1,84 @@
+{
+ "png": "bank05bin/z_chr_lesson11_0.png",
+ "ops": [
+  {
+   "clear": [
+    0,
+    0,
+    128,
+    152
+   ],
+   "keep": [
+    1,
+    0
+   ],
+   "idx": 1
+  },
+  {
+   "text": "트레이닝: 그 첫째",
+   "at": [
+    1,
+    11
+   ],
+   "w": 127,
+   "align": "left",
+   "font": "g11b",
+   "fill": 15
+  },
+  {
+   "text": "『",
+   "at": [
+    16,
+    75
+   ],
+   "w": 6,
+   "align": "left",
+   "font": "g11b",
+   "fill": 15
+  },
+  {
+   "text": "터치 대시",
+   "at": [
+    33,
+    75
+   ],
+   "w": 95,
+   "align": "left",
+   "font": "g11b",
+   "fill": 11
+  },
+  {
+   "text": "를",
+   "at": [
+    85,
+    75
+   ],
+   "w": 43,
+   "align": "left",
+   "font": "g11b",
+   "fill": 15
+  },
+  {
+   "text": "익히자",
+   "at": [
+    25,
+    107
+   ],
+   "w": 68,
+   "align": "right",
+   "font": "g11b",
+   "fill": 15
+  },
+  {
+   "text": "』",
+   "at": [
+    103,
+    107
+   ],
+   "w": 6,
+   "align": "left",
+   "font": "g11b",
+   "fill": 15
+  }
+ ]
+}

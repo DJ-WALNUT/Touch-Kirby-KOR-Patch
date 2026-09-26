@@ -1,0 +1,69 @@
+{
+ "png": "bank05bin/z_chr_trainingend__z_scr_trainingend.png",
+ "ops": [
+  {
+   "clear": [
+    40,
+    11,
+    176,
+    13
+   ],
+   "keep": [
+    7
+   ],
+   "idx": 7
+  },
+  {
+   "text": "보너스",
+   "at": [
+    41,
+    0
+   ],
+   "font": "g11b",
+   "fill": 10,
+   "w": 56,
+   "align": "center",
+   "valign_box": [
+    12,
+    11
+   ]
+  },
+  {
+   "text": "~물속으로 잠수~",
+   "at": [
+    99,
+    0
+   ],
+   "font": "g11b",
+   "fill": 10,
+   "w": 110,
+   "align": "center",
+   "valign_box": [
+    12,
+    11
+   ]
+  },
+  {
+   "clear": [
+    16,
+    34,
+    224,
+    30
+   ],
+   "keep": [
+    11
+   ],
+   "idx": 11
+  },
+  {
+   "text": "떠오르는 커비를 무지개의 라인으로\n눌러 주듯이 옮겨 봐요",
+   "at": [
+    20,
+    35
+   ],
+   "font": "g11b",
+   "fill": 10,
+   "line_h": 14
+  }
+ ]
+}

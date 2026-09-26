@@ -1,0 +1,61 @@
+{
+ "png": "bank05bin/z_chr_trainingend_s__z_scr_trainingend_s.png",
+ "ops": [
+  {
+   "clear": [
+    46,
+    86,
+    166,
+    20
+   ],
+   "keep": [
+    4,
+    10,
+    6,
+    12,
+    14,
+    5,
+    2,
+    3,
+    9
+   ],
+   "idx": 1
+  },
+  {
+   "text": "트레이닝 종료",
+   "at": [
+    47,
+    0
+   ],
+   "font": "g14",
+   "fill": 1,
+   "outline": 7,
+   "valign_box": [
+    89,
+    15
+   ],
+   "spacing": 4,
+   "w": 166,
+   "align": "center",
+   "bold": 2
+  },
+  {
+   "text": "트레이닝 종료",
+   "at": [
+    46,
+    0
+   ],
+   "font": "g14",
+   "fill": 15,
+   "outline": 1,
+   "valign_box": [
+    88,
+    15
+   ],
+   "spacing": 4,
+   "w": 166,
+   "align": "center",
+   "bold": 2
+  }
+ ]
+}

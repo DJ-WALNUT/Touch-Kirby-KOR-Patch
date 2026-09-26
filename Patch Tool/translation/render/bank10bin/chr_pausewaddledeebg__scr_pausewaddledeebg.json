@@ -1,0 +1,164 @@
+{
+ "png": "bank10bin/chr_pausewaddledeebg__scr_pausewaddledeebg.png",
+ "ops": [
+  {
+   "fill": [
+    16,
+    10,
+    80,
+    17
+   ],
+   "idx": 0
+  },
+  {
+   "fill": [
+    23,
+    32,
+    177,
+    16
+   ],
+   "idx": 0
+  },
+  {
+   "fill": [
+    24,
+    48,
+    217,
+    16
+   ],
+   "idx": 0
+  },
+  {
+   "fill": [
+    17,
+    11,
+    14,
+    15
+   ],
+   "idx": 31
+  },
+  {
+   "text": "웨",
+   "at": [
+    17,
+    0
+   ],
+   "w": 14,
+   "align": "center",
+   "valign_box": [
+    12,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 25
+  },
+  {
+   "fill": [
+    33,
+    11,
+    14,
+    15
+   ],
+   "idx": 31
+  },
+  {
+   "text": "이",
+   "at": [
+    33,
+    0
+   ],
+   "w": 14,
+   "align": "center",
+   "valign_box": [
+    12,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 25
+  },
+  {
+   "fill": [
+    49,
+    11,
+    14,
+    15
+   ],
+   "idx": 31
+  },
+  {
+   "text": "들",
+   "at": [
+    49,
+    0
+   ],
+   "w": 14,
+   "align": "center",
+   "valign_box": [
+    12,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 25
+  },
+  {
+   "fill": [
+    72,
+    11,
+    14,
+    15
+   ],
+   "idx": 31
+  },
+  {
+   "text": "디",
+   "at": [
+    72,
+    0
+   ],
+   "w": 14,
+   "align": "center",
+   "valign_box": [
+    12,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 25
+  },
+  {
+   "text": "터치 대시로 몸통 박치기",
+   "at": [
+    25,
+    0
+   ],
+   "valign_box": [
+    33,
+    14
+   ],
+   "fill": 31,
+   "w": 227,
+   "font": "g14",
+   "bold": 1,
+   "spacing": 1
+  },
+  {
+   "text": "풍선같이 바운드 합니다",
+   "at": [
+    25,
+    0
+   ],
+   "valign_box": [
+    49,
+    14
+   ],
+   "fill": 31,
+   "w": 227,
+   "font": "g14",
+   "bold": 1,
+   "spacing": 1
+  }
+ ]
+}

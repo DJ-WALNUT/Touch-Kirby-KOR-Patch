@@ -1,0 +1,114 @@
+{
+ "png": "bank10bin/chr_pauseneedlebg__scr_pauseneedlebg.png",
+ "ops": [
+  {
+   "fill": [
+    16,
+    10,
+    64,
+    17
+   ],
+   "idx": 0
+  },
+  {
+   "fill": [
+    24,
+    32,
+    216,
+    16
+   ],
+   "idx": 0
+  },
+  {
+   "fill": [
+    24,
+    47,
+    211,
+    17
+   ],
+   "idx": 0
+  },
+  {
+   "fill": [
+    17,
+    11,
+    14,
+    15
+   ],
+   "idx": 31
+  },
+  {
+   "text": "니",
+   "at": [
+    17,
+    0
+   ],
+   "w": 14,
+   "align": "center",
+   "valign_box": [
+    12,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 24
+  },
+  {
+   "fill": [
+    33,
+    11,
+    14,
+    15
+   ],
+   "idx": 31
+  },
+  {
+   "text": "들",
+   "at": [
+    33,
+    0
+   ],
+   "w": 14,
+   "align": "center",
+   "valign_box": [
+    12,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 24
+  },
+  {
+   "text": "어떤 곳이든 푹푹 꽂혀요",
+   "at": [
+    25,
+    0
+   ],
+   "valign_box": [
+    33,
+    14
+   ],
+   "fill": 31,
+   "w": 227,
+   "font": "g14",
+   "bold": 1,
+   "spacing": 1
+  },
+  {
+   "text": "무지개를 타면 스피드 업!",
+   "at": [
+    25,
+    0
+   ],
+   "valign_box": [
+    48,
+    15
+   ],
+   "fill": 31,
+   "w": 227,
+   "font": "g14",
+   "bold": 1,
+   "spacing": 1
+  }
+ ]
+}

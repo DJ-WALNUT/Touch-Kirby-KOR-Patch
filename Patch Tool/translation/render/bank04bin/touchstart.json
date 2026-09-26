@@ -1,0 +1,164 @@
+{
+ "png": "bank04bin/touchstart.png",
+ "ops": [
+  {
+   "fill": [
+    7,
+    6,
+    18,
+    19
+   ],
+   "idx": 4
+  },
+  {
+   "text": "화",
+   "at": [
+    7,
+    0
+   ],
+   "w": 18,
+   "align": "center",
+   "valign_box": [
+    6,
+    19
+   ],
+   "font": "g14",
+   "bold": 1,
+   "fill": 8
+  },
+  {
+   "fill": [
+    43,
+    6,
+    18,
+    19
+   ],
+   "idx": 1
+  },
+  {
+   "text": "면",
+   "at": [
+    43,
+    0
+   ],
+   "w": 18,
+   "align": "center",
+   "valign_box": [
+    6,
+    19
+   ],
+   "font": "g14",
+   "bold": 1,
+   "fill": 8
+  },
+  {
+   "fill": [
+    79,
+    6,
+    18,
+    19
+   ],
+   "idx": 2
+  },
+  {
+   "text": "을",
+   "at": [
+    79,
+    0
+   ],
+   "w": 18,
+   "align": "center",
+   "valign_box": [
+    6,
+    19
+   ],
+   "font": "g14",
+   "bold": 1,
+   "fill": 8
+  },
+  {
+   "fill": [
+    115,
+    6,
+    18,
+    19
+   ],
+   "idx": 5
+  },
+  {
+   "fill": [
+    151,
+    6,
+    18,
+    19
+   ],
+   "idx": 3
+  },
+  {
+   "text": "터",
+   "at": [
+    151,
+    0
+   ],
+   "w": 18,
+   "align": "center",
+   "valign_box": [
+    6,
+    19
+   ],
+   "font": "g14",
+   "bold": 1,
+   "fill": 8
+  },
+  {
+   "fill": [
+    187,
+    6,
+    18,
+    19
+   ],
+   "idx": 7
+  },
+  {
+   "text": "치",
+   "at": [
+    187,
+    0
+   ],
+   "w": 18,
+   "align": "center",
+   "valign_box": [
+    6,
+    19
+   ],
+   "font": "g14",
+   "bold": 1,
+   "fill": 8
+  },
+  {
+   "fill": [
+    223,
+    6,
+    18,
+    19
+   ],
+   "idx": 6
+  },
+  {
+   "text": "!",
+   "at": [
+    223,
+    0
+   ],
+   "w": 18,
+   "align": "center",
+   "valign_box": [
+    6,
+    19
+   ],
+   "font": "g14",
+   "bold": 1,
+   "fill": 8
+  }
+ ]
+}

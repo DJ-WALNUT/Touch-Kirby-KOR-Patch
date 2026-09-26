@@ -1,0 +1,114 @@
+{
+ "png": "bank05bin/z_chr_ed04f__z_scr_ed04bf.png",
+ "ops": [
+  {
+   "fill": [
+    0,
+    0,
+    256,
+    256
+   ],
+   "idx": 0
+  },
+  {
+   "text": "마법의 붓이",
+   "at": [
+    10,
+    14
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 2,
+   "outline": 2
+  },
+  {
+   "text": "보낸 답례일까요",
+   "at": [
+    10,
+    44
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 2,
+   "outline": 2
+  },
+  {
+   "text": "하늘에는 커다란 무지개가",
+   "at": [
+    10,
+    100
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 2,
+   "outline": 2
+  },
+  {
+   "text": "그려져 있었어요",
+   "at": [
+    10,
+    132
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 2,
+   "outline": 2
+  },
+  {
+   "text": "마법의 붓이",
+   "at": [
+    9,
+    12
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 1,
+   "outline": 2,
+   "w": 239
+  },
+  {
+   "text": "보낸 답례일까요",
+   "at": [
+    9,
+    42
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 1,
+   "outline": 2,
+   "w": 239
+  },
+  {
+   "text": "하늘에는 커다란 무지개가",
+   "at": [
+    9,
+    98
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 1,
+   "outline": 2,
+   "w": 239
+  },
+  {
+   "text": "그려져 있었어요",
+   "at": [
+    9,
+    130
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 1,
+   "outline": 2,
+   "w": 239
+  }
+ ]
+}

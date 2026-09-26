@@ -1,0 +1,55 @@
+{
+ "png": "bank05bin/z_obj_selsubgame_m_obj.png",
+ "ops": [
+  {
+   "fill": [
+    457,
+    1,
+    50,
+    14
+   ],
+   "idx": 108
+  },
+  {
+   "text": "설명",
+   "at": [
+    457,
+    0
+   ],
+   "font": "g11b",
+   "fill": 101,
+   "w": 50,
+   "align": "center",
+   "valign_box": [
+    2,
+    12
+   ],
+   "spacing": 3
+  },
+  {
+   "fill": [
+    253,
+    151,
+    50,
+    14
+   ],
+   "idx": 114
+  },
+  {
+   "text": "설명",
+   "at": [
+    253,
+    0
+   ],
+   "font": "g11b",
+   "fill": 124,
+   "w": 50,
+   "align": "center",
+   "valign_box": [
+    152,
+    12
+   ],
+   "spacing": 3
+  }
+ ]
+}

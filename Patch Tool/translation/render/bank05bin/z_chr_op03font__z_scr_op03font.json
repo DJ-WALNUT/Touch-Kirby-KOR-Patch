@@ -1,0 +1,182 @@
+{
+ "png": "bank05bin/z_chr_op03font__z_scr_op03font.png",
+ "ops": [
+  {
+   "fill": [
+    0,
+    0,
+    512,
+    256
+   ],
+   "idx": 0
+  },
+  {
+   "text": "커비를",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    11,
+    18
+   ],
+   "fill": 2
+  },
+  {
+   "text": "커비를",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    9,
+    16
+   ],
+   "fill": 1
+  },
+  {
+   "text": "눈치챈 마녀는",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    11,
+    50
+   ],
+   "fill": 2
+  },
+  {
+   "text": "눈치챈 마녀는",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    9,
+    48
+   ],
+   "fill": 1
+  },
+  {
+   "text": "하늘에 떠있는",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    11,
+    82
+   ],
+   "fill": 2
+  },
+  {
+   "text": "하늘에 떠있는",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    9,
+    80
+   ],
+   "fill": 1
+  },
+  {
+   "text": "이상한 액자로",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    11,
+    114
+   ],
+   "fill": 2
+  },
+  {
+   "text": "이상한 액자로",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    9,
+    112
+   ],
+   "fill": 1
+  },
+  {
+   "text": "도망쳐 들어갔습니다.",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    11,
+    146
+   ],
+   "fill": 2
+  },
+  {
+   "text": "도망쳐 들어갔습니다.",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    9,
+    144
+   ],
+   "fill": 1
+  },
+  {
+   "text": "커비도",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    11,
+    226
+   ],
+   "fill": 2
+  },
+  {
+   "text": "커비도",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    9,
+    224
+   ],
+   "fill": 1
+  },
+  {
+   "text": "서둘러 뒤를 쫓습니다.",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    267,
+    2
+   ],
+   "fill": 2
+  },
+  {
+   "text": "서둘러 뒤를 쫓습니다.",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    265,
+    0
+   ],
+   "fill": 1
+  }
+ ]
+}

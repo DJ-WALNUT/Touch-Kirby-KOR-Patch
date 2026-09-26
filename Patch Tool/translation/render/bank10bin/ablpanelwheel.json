@@ -1,0 +1,4 @@
+{"png": "bank10bin/ablpanelwheel.png", "ops": [
+ {"fill": [1, 1, 38, 13], "idx": 10},
+ {"text": "휠", "at": [1, 0], "w": 38, "align": "center", "valign_box": [2, 11], "font": "g9", "bold": 1, "fill": 3, "outline": 5}
+]}

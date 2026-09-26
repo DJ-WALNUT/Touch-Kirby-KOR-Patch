@@ -1,0 +1,490 @@
+{
+ "png": "bank04bin/chgmedalprizelist.png",
+ "ops": [
+  {
+   "fill": [
+    0,
+    0,
+    480,
+    116
+   ],
+   "idx": 0
+  },
+  {
+   "text": "디디디 볼",
+   "at": [
+    1,
+    1
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 9,
+   "outline": 12,
+   "shadow": [
+    2,
+    2,
+    7
+   ]
+  },
+  {
+   "text": "메타 나이트 볼",
+   "at": [
+    109,
+    1
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 9,
+   "outline": 12,
+   "shadow": [
+    2,
+    2,
+    7
+   ]
+  },
+  {
+   "text": "지브러의 무지개",
+   "at": [
+    241,
+    1
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 9,
+   "outline": 12,
+   "shadow": [
+    2,
+    2,
+    7
+   ],
+   "spacing": -1
+  },
+  {
+   "text": "비즈의 무지개",
+   "at": [
+    333,
+    1
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 9,
+   "outline": 12,
+   "shadow": [
+    2,
+    2,
+    7
+   ]
+  },
+  {
+   "text": "트로피컬의 무지개",
+   "at": [
+    1,
+    21
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 9,
+   "outline": 12,
+   "shadow": [
+    2,
+    2,
+    7
+   ]
+  },
+  {
+   "text": "스페셜 코스",
+   "at": [
+    125,
+    21
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 9,
+   "outline": 12,
+   "shadow": [
+    2,
+    2,
+    7
+   ],
+   "spacing": -1
+  },
+  {
+   "text": "1",
+   "at": [
+    192,
+    21
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 9,
+   "outline": 12,
+   "shadow": [
+    2,
+    2,
+    7
+   ]
+  },
+  {
+   "text": "스페셜 코스",
+   "at": [
+    271,
+    21
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 9,
+   "outline": 12,
+   "shadow": [
+    2,
+    2,
+    7
+   ],
+   "spacing": -1
+  },
+  {
+   "text": "2",
+   "at": [
+    336,
+    21
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 9,
+   "outline": 12,
+   "shadow": [
+    2,
+    2,
+    7
+   ]
+  },
+  {
+   "text": "스페셜 코스",
+   "at": [
+    1,
+    41
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 9,
+   "outline": 12,
+   "shadow": [
+    2,
+    2,
+    7
+   ],
+   "spacing": -1
+  },
+  {
+   "text": "3",
+   "at": [
+    66,
+    41
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 9,
+   "outline": 12,
+   "shadow": [
+    2,
+    2,
+    7
+   ]
+  },
+  {
+   "text": "스페셜 코스",
+   "at": [
+    147,
+    41
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 9,
+   "outline": 12,
+   "shadow": [
+    2,
+    2,
+    7
+   ],
+   "spacing": -1
+  },
+  {
+   "text": "4",
+   "at": [
+    212,
+    41
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 9,
+   "outline": 12,
+   "shadow": [
+    2,
+    2,
+    7
+   ]
+  },
+  {
+   "text": "스페셜 코스",
+   "at": [
+    293,
+    41
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 9,
+   "outline": 12,
+   "shadow": [
+    2,
+    2,
+    7
+   ],
+   "spacing": -1
+  },
+  {
+   "text": "5",
+   "at": [
+    358,
+    41
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 9,
+   "outline": 12,
+   "shadow": [
+    2,
+    2,
+    7
+   ]
+  },
+  {
+   "text": "스페셜 코스",
+   "at": [
+    1,
+    61
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 9,
+   "outline": 12,
+   "shadow": [
+    2,
+    2,
+    7
+   ],
+   "spacing": -1
+  },
+  {
+   "text": "6",
+   "at": [
+    66,
+    61
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 9,
+   "outline": 12,
+   "shadow": [
+    2,
+    2,
+    7
+   ]
+  },
+  {
+   "text": "스페셜 코스",
+   "at": [
+    147,
+    61
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 9,
+   "outline": 12,
+   "shadow": [
+    2,
+    2,
+    7
+   ],
+   "spacing": -1
+  },
+  {
+   "text": "7",
+   "at": [
+    212,
+    61
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 9,
+   "outline": 12,
+   "shadow": [
+    2,
+    2,
+    7
+   ]
+  },
+  {
+   "text": "스페셜 코스",
+   "at": [
+    293,
+    61
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 9,
+   "outline": 12,
+   "shadow": [
+    2,
+    2,
+    7
+   ],
+   "spacing": -1
+  },
+  {
+   "text": "8",
+   "at": [
+    358,
+    61
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 9,
+   "outline": 12,
+   "shadow": [
+    2,
+    2,
+    7
+   ]
+  },
+  {
+   "text": "추억의 곡",
+   "at": [
+    1,
+    81
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 9,
+   "outline": 12,
+   "shadow": [
+    2,
+    2,
+    7
+   ],
+   "spacing": 1
+  },
+  {
+   "text": "1",
+   "at": [
+    68,
+    81
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 9,
+   "outline": 12,
+   "shadow": [
+    2,
+    2,
+    7
+   ]
+  },
+  {
+   "text": "추억의 곡",
+   "at": [
+    117,
+    81
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 9,
+   "outline": 12,
+   "shadow": [
+    2,
+    2,
+    7
+   ],
+   "spacing": 1
+  },
+  {
+   "text": "2",
+   "at": [
+    182,
+    81
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 9,
+   "outline": 12,
+   "shadow": [
+    2,
+    2,
+    7
+   ]
+  },
+  {
+   "text": "추억의 곡",
+   "at": [
+    233,
+    81
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 9,
+   "outline": 12,
+   "shadow": [
+    2,
+    2,
+    7
+   ],
+   "spacing": 1
+  },
+  {
+   "text": "3",
+   "at": [
+    298,
+    81
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 9,
+   "outline": 12,
+   "shadow": [
+    2,
+    2,
+    7
+   ]
+  },
+  {
+   "text": "스테이지 이면곡",
+   "at": [
+    349,
+    81
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 9,
+   "outline": 12,
+   "shadow": [
+    2,
+    2,
+    7
+   ]
+  },
+  {
+   "text": "라이프 업",
+   "at": [
+    1,
+    101
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 9,
+   "outline": 12,
+   "shadow": [
+    2,
+    2,
+    7
+   ]
+  }
+ ]
+}

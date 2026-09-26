@@ -1,0 +1,107 @@
+{
+ "png": "bank07bin/chr_pipepanicinfoboss__scr_pipepanicinfoboss.png",
+ "ops": [
+  {
+   "fill": [
+    9,
+    8,
+    30,
+    7
+   ],
+   "idx": 2
+  },
+  {
+   "text": "문제",
+   "at": [
+    9,
+    7
+   ],
+   "font": "g7",
+   "fill": 5
+  },
+  {
+   "fill": [
+    33,
+    41,
+    46,
+    6
+   ],
+   "idx": 2
+  },
+  {
+   "text": "정답 수",
+   "at": [
+    33,
+    39
+   ],
+   "w": 46,
+   "align": "center",
+   "font": "g7",
+   "fill": 5
+  },
+  {
+   "fill": [
+    199,
+    31,
+    35,
+    8
+   ],
+   "idx": 14
+  },
+  {
+   "text": "빠르기",
+   "align": "center",
+   "font": "g7",
+   "at": [
+    201,
+    30
+   ],
+   "w": 31,
+   "bold": 2,
+   "fill": 15
+  },
+  {
+   "text": "빠르기",
+   "align": "center",
+   "font": "g7",
+   "at": [
+    201,
+    30
+   ],
+   "w": 30,
+   "fill": 5
+  },
+  {
+   "fill": [
+    183,
+    145,
+    64,
+    8
+   ],
+   "idx": 4
+  },
+  {
+   "text": "페인트 롤러",
+   "align": "center",
+   "font": "g7",
+   "at": [
+    184,
+    144
+   ],
+   "w": 63,
+   "bold": 2,
+   "fill": 3
+  },
+  {
+   "text": "페인트 롤러",
+   "align": "center",
+   "font": "g7",
+   "at": [
+    184,
+    144
+   ],
+   "w": 62,
+   "fill": 5
+  }
+ ]
+}

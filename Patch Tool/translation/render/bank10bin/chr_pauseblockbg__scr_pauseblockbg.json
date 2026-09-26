@@ -1,0 +1,164 @@
+{
+ "png": "bank10bin/chr_pauseblockbg__scr_pauseblockbg.png",
+ "ops": [
+  {
+   "fill": [
+    23,
+    7,
+    132,
+    17
+   ],
+   "idx": 0
+  },
+  {
+   "fill": [
+    16,
+    32,
+    223,
+    16
+   ],
+   "idx": 0
+  },
+  {
+   "fill": [
+    15,
+    56,
+    220,
+    16
+   ],
+   "idx": 0
+  },
+  {
+   "fill": [
+    24,
+    8,
+    15,
+    15
+   ],
+   "idx": 2
+  },
+  {
+   "text": "블",
+   "at": [
+    24,
+    0
+   ],
+   "w": 15,
+   "align": "center",
+   "valign_box": [
+    9,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 15
+  },
+  {
+   "fill": [
+    41,
+    8,
+    15,
+    15
+   ],
+   "idx": 2
+  },
+  {
+   "text": "록",
+   "at": [
+    41,
+    0
+   ],
+   "w": 15,
+   "align": "center",
+   "valign_box": [
+    9,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 15
+  },
+  {
+   "fill": [
+    65,
+    8,
+    15,
+    15
+   ],
+   "idx": 2
+  },
+  {
+   "text": "어",
+   "at": [
+    65,
+    0
+   ],
+   "w": 15,
+   "align": "center",
+   "valign_box": [
+    9,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 15
+  },
+  {
+   "fill": [
+    82,
+    8,
+    15,
+    15
+   ],
+   "idx": 2
+  },
+  {
+   "text": "택",
+   "at": [
+    82,
+    0
+   ],
+   "w": 15,
+   "align": "center",
+   "valign_box": [
+    9,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 15
+  },
+  {
+   "text": "라켓으로 커비를 쳐요",
+   "at": [
+    17,
+    0
+   ],
+   "valign_box": [
+    33,
+    14
+   ],
+   "fill": 2,
+   "w": 235,
+   "font": "g14",
+   "bold": 1,
+   "spacing": 1
+  },
+  {
+   "text": "적을 물리치면 다음 스테이지로!",
+   "at": [
+    17,
+    0
+   ],
+   "valign_box": [
+    57,
+    14
+   ],
+   "fill": 2,
+   "w": 235,
+   "font": "g14",
+   "bold": 1,
+   "spacing": 1
+  }
+ ]
+}

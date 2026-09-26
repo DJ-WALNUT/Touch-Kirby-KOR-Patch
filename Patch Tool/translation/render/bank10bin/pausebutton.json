@@ -1,0 +1,437 @@
+{
+ "png": "bank10bin/pausebutton.png",
+ "ops": [
+  {
+   "fill": [
+    1,
+    1,
+    78,
+    22
+   ],
+   "idx": 5
+  },
+  {
+   "text": "계속하기",
+   "at": [
+    0,
+    0
+   ],
+   "w": 80,
+   "align": "center",
+   "valign_box": [
+    4,
+    15
+   ],
+   "fill": 4,
+   "outline": 2,
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2
+  },
+  {
+   "fill": [
+    87,
+    1,
+    78,
+    22
+   ],
+   "idx": 5
+  },
+  {
+   "text": "계속하기",
+   "at": [
+    86,
+    0
+   ],
+   "w": 80,
+   "align": "center",
+   "valign_box": [
+    4,
+    15
+   ],
+   "fill": 4,
+   "outline": 2,
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2
+  },
+  {
+   "fill": [
+    171,
+    1,
+    78,
+    22
+   ],
+   "idx": 21
+  },
+  {
+   "text": "계속하기",
+   "at": [
+    170,
+    0
+   ],
+   "w": 80,
+   "align": "center",
+   "valign_box": [
+    4,
+    15
+   ],
+   "fill": 20,
+   "outline": 18,
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2
+  },
+  {
+   "fill": [
+    255,
+    1,
+    78,
+    22
+   ],
+   "idx": 21
+  },
+  {
+   "text": "계속하기",
+   "at": [
+    254,
+    0
+   ],
+   "w": 80,
+   "align": "center",
+   "valign_box": [
+    4,
+    15
+   ],
+   "fill": 20,
+   "outline": 18,
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2
+  },
+  {
+   "fill": [
+    341,
+    1,
+    78,
+    22
+   ],
+   "idx": 6
+  },
+  {
+   "text": "그만두기",
+   "at": [
+    340,
+    0
+   ],
+   "w": 80,
+   "align": "center",
+   "valign_box": [
+    4,
+    15
+   ],
+   "fill": 4,
+   "outline": 2,
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2
+  },
+  {
+   "fill": [
+    427,
+    1,
+    78,
+    22
+   ],
+   "idx": 6
+  },
+  {
+   "text": "그만두기",
+   "at": [
+    426,
+    0
+   ],
+   "w": 80,
+   "align": "center",
+   "valign_box": [
+    4,
+    15
+   ],
+   "fill": 4,
+   "outline": 2,
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2
+  },
+  {
+   "fill": [
+    1,
+    39,
+    78,
+    22
+   ],
+   "idx": 22
+  },
+  {
+   "text": "그만두기",
+   "at": [
+    0,
+    0
+   ],
+   "w": 80,
+   "align": "center",
+   "valign_box": [
+    42,
+    15
+   ],
+   "fill": 20,
+   "outline": 18,
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2
+  },
+  {
+   "fill": [
+    85,
+    39,
+    78,
+    22
+   ],
+   "idx": 22
+  },
+  {
+   "text": "그만두기",
+   "at": [
+    84,
+    0
+   ],
+   "w": 80,
+   "align": "center",
+   "valign_box": [
+    42,
+    15
+   ],
+   "fill": 20,
+   "outline": 18,
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2
+  },
+  {
+   "fill": [
+    171,
+    39,
+    78,
+    22
+   ],
+   "idx": 5
+  },
+  {
+   "text": "다시하기",
+   "at": [
+    170,
+    0
+   ],
+   "w": 80,
+   "align": "center",
+   "valign_box": [
+    42,
+    15
+   ],
+   "fill": 4,
+   "outline": 2,
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2
+  },
+  {
+   "fill": [
+    257,
+    39,
+    78,
+    22
+   ],
+   "idx": 5
+  },
+  {
+   "text": "다시하기",
+   "at": [
+    256,
+    0
+   ],
+   "w": 80,
+   "align": "center",
+   "valign_box": [
+    42,
+    15
+   ],
+   "fill": 4,
+   "outline": 2,
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2
+  },
+  {
+   "fill": [
+    341,
+    39,
+    78,
+    22
+   ],
+   "idx": 21
+  },
+  {
+   "text": "다시하기",
+   "at": [
+    340,
+    0
+   ],
+   "w": 80,
+   "align": "center",
+   "valign_box": [
+    42,
+    15
+   ],
+   "fill": 20,
+   "outline": 18,
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2
+  },
+  {
+   "fill": [
+    425,
+    39,
+    78,
+    22
+   ],
+   "idx": 21
+  },
+  {
+   "text": "다시하기",
+   "at": [
+    424,
+    0
+   ],
+   "w": 80,
+   "align": "center",
+   "valign_box": [
+    42,
+    15
+   ],
+   "fill": 20,
+   "outline": 18,
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2
+  },
+  {
+   "fill": [
+    1,
+    85,
+    78,
+    22
+   ],
+   "idx": 5
+  },
+  {
+   "text": "돌아가기",
+   "at": [
+    0,
+    0
+   ],
+   "w": 80,
+   "align": "center",
+   "valign_box": [
+    88,
+    15
+   ],
+   "fill": 4,
+   "outline": 2,
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2
+  },
+  {
+   "fill": [
+    87,
+    85,
+    78,
+    22
+   ],
+   "idx": 5
+  },
+  {
+   "text": "돌아가기",
+   "at": [
+    86,
+    0
+   ],
+   "w": 80,
+   "align": "center",
+   "valign_box": [
+    88,
+    15
+   ],
+   "fill": 4,
+   "outline": 2,
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2
+  },
+  {
+   "fill": [
+    171,
+    85,
+    78,
+    22
+   ],
+   "idx": 21
+  },
+  {
+   "text": "돌아가기",
+   "at": [
+    170,
+    0
+   ],
+   "w": 80,
+   "align": "center",
+   "valign_box": [
+    88,
+    15
+   ],
+   "fill": 20,
+   "outline": 18,
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2
+  },
+  {
+   "fill": [
+    255,
+    85,
+    78,
+    22
+   ],
+   "idx": 21
+  },
+  {
+   "text": "돌아가기",
+   "at": [
+    254,
+    0
+   ],
+   "w": 80,
+   "align": "center",
+   "valign_box": [
+    88,
+    15
+   ],
+   "fill": 20,
+   "outline": 18,
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2
+  }
+ ]
+}

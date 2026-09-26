@@ -1,0 +1,232 @@
+{
+ "png": "bank07bin/pipebutton.png",
+ "ops": [
+  {
+   "fill": [
+    0,
+    35,
+    139,
+    17
+   ],
+   "idx": 0
+  },
+  {
+   "text": "빛나는 버튼을 터치!",
+   "at": [
+    2,
+    0
+   ],
+   "w": 134,
+   "align": "center",
+   "valign_box": [
+    39,
+    12
+   ],
+   "font": "g11b", "bold": 0, "spacing": 2,
+   "fill": 92,
+   "outline": 92
+  },
+  {
+   "text": "빛나는 버튼을 터치!",
+   "at": [
+    1,
+    0
+   ],
+   "w": 134,
+   "align": "center",
+   "valign_box": [
+    37,
+    12
+   ],
+   "font": "g11b", "bold": 0, "spacing": 2,
+   "fill": 96,
+   "outline": 92
+  },
+  {
+   "fill": [
+    196,
+    28,
+    31,
+    8
+   ],
+   "idx": 0
+  },
+  {
+   "text": "보너스",
+   "at": [
+    197,
+    0
+   ],
+   "w": 30,
+   "align": "center",
+   "valign_box": [
+    28,
+    7
+   ],
+   "font": "g7",
+   "fill": 96,
+   "outline": 92
+  },
+  {
+   "fill": [
+    257,
+    33,
+    14,
+    7
+   ],
+   "idx": 0
+  },
+  {
+   "text": "점",
+   "at": [
+    258,
+    0
+   ],
+   "valign_box": [
+    32,
+    7
+   ],
+   "font": "g7",
+   "fill": 96,
+   "outline": 92
+  },
+  {
+   "fill": [
+    309,
+    33,
+    14,
+    7
+   ],
+   "idx": 0
+  },
+  {
+   "text": "점",
+   "at": [
+    310,
+    0
+   ],
+   "valign_box": [
+    32,
+    7
+   ],
+   "font": "g7",
+   "fill": 96,
+   "outline": 92
+  },
+  {
+   "fill": [
+    361,
+    33,
+    14,
+    7
+   ],
+   "idx": 0
+  },
+  {
+   "text": "점",
+   "at": [
+    362,
+    0
+   ],
+   "valign_box": [
+    32,
+    7
+   ],
+   "font": "g7",
+   "fill": 96,
+   "outline": 92
+  },
+  {
+   "fill": [
+    413,
+    33,
+    14,
+    7
+   ],
+   "idx": 0
+  },
+  {
+   "text": "점",
+   "at": [
+    414,
+    0
+   ],
+   "valign_box": [
+    32,
+    7
+   ],
+   "font": "g7",
+   "fill": 96,
+   "outline": 92
+  },
+  {
+   "fill": [
+    465,
+    33,
+    14,
+    7
+   ],
+   "idx": 0
+  },
+  {
+   "text": "점",
+   "at": [
+    466,
+    0
+   ],
+   "valign_box": [
+    32,
+    7
+   ],
+   "font": "g7",
+   "fill": 96,
+   "outline": 92
+  },
+  {
+   "fill": [
+    33,
+    61,
+    14,
+    7
+   ],
+   "idx": 0
+  },
+  {
+   "text": "점",
+   "at": [
+    34,
+    0
+   ],
+   "valign_box": [
+    60,
+    7
+   ],
+   "font": "g7",
+   "fill": 96,
+   "outline": 92
+  },
+  {
+   "fill": [
+    77,
+    61,
+    14,
+    7
+   ],
+   "idx": 0
+  },
+  {
+   "text": "점",
+   "at": [
+    78,
+    0
+   ],
+   "valign_box": [
+    60,
+    7
+   ],
+   "font": "g7",
+   "fill": 96,
+   "outline": 92
+  }
+ ]
+}

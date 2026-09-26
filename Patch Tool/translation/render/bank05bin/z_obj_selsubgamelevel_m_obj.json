@@ -1,0 +1,455 @@
+{
+ "png": "bank05bin/z_obj_selsubgamelevel_m_obj.png",
+ "ops": [
+  {
+   "fill": [
+    4,
+    8,
+    66,
+    20
+   ],
+   "idx": 20
+  },
+  {
+   "fill": [
+    35,
+    8,
+    3,
+    20
+   ],
+   "idx": 17
+  },
+  {
+   "text": "레",
+   "at": [
+    4,
+    0
+   ],
+   "font": "g14",
+   "fill": 21,
+   "w": 31,
+   "align": "center",
+   "valign_box": [
+    10,
+    16
+   ],
+   "bold": 2
+  },
+  {
+   "text": "벨",
+   "at": [
+    38,
+    0
+   ],
+   "font": "g14",
+   "fill": 21,
+   "w": 32,
+   "align": "center",
+   "valign_box": [
+    10,
+    16
+   ],
+   "bold": 2
+  },
+  {
+   "fill": [
+    122,
+    8,
+    66,
+    20
+   ],
+   "idx": 20
+  },
+  {
+   "fill": [
+    153,
+    8,
+    3,
+    20
+   ],
+   "idx": 17
+  },
+  {
+   "text": "레",
+   "at": [
+    122,
+    0
+   ],
+   "font": "g14",
+   "fill": 21,
+   "w": 31,
+   "align": "center",
+   "valign_box": [
+    10,
+    16
+   ],
+   "bold": 2
+  },
+  {
+   "text": "벨",
+   "at": [
+    156,
+    0
+   ],
+   "font": "g14",
+   "fill": 21,
+   "w": 32,
+   "align": "center",
+   "valign_box": [
+    10,
+    16
+   ],
+   "bold": 2
+  },
+  {
+   "fill": [
+    238,
+    8,
+    66,
+    20
+   ],
+   "idx": 36
+  },
+  {
+   "fill": [
+    269,
+    8,
+    3,
+    20
+   ],
+   "idx": 33
+  },
+  {
+   "text": "레",
+   "at": [
+    238,
+    0
+   ],
+   "font": "g14",
+   "fill": 37,
+   "w": 31,
+   "align": "center",
+   "valign_box": [
+    10,
+    16
+   ],
+   "bold": 2
+  },
+  {
+   "text": "벨",
+   "at": [
+    272,
+    0
+   ],
+   "font": "g14",
+   "fill": 37,
+   "w": 32,
+   "align": "center",
+   "valign_box": [
+    10,
+    16
+   ],
+   "bold": 2
+  },
+  {
+   "fill": [
+    354,
+    8,
+    66,
+    20
+   ],
+   "idx": 20
+  },
+  {
+   "fill": [
+    385,
+    8,
+    3,
+    20
+   ],
+   "idx": 18
+  },
+  {
+   "text": "레",
+   "at": [
+    354,
+    0
+   ],
+   "font": "g14",
+   "fill": 26,
+   "w": 31,
+   "align": "center",
+   "valign_box": [
+    10,
+    16
+   ],
+   "bold": 2
+  },
+  {
+   "text": "벨",
+   "at": [
+    388,
+    0
+   ],
+   "font": "g14",
+   "fill": 26,
+   "w": 32,
+   "align": "center",
+   "valign_box": [
+    10,
+    16
+   ],
+   "bold": 2
+  },
+  {
+   "fill": [
+    4,
+    46,
+    66,
+    20
+   ],
+   "idx": 20
+  },
+  {
+   "fill": [
+    35,
+    46,
+    3,
+    20
+   ],
+   "idx": 18
+  },
+  {
+   "text": "레",
+   "at": [
+    4,
+    0
+   ],
+   "font": "g14",
+   "fill": 26,
+   "w": 31,
+   "align": "center",
+   "valign_box": [
+    48,
+    16
+   ],
+   "bold": 2
+  },
+  {
+   "text": "벨",
+   "at": [
+    38,
+    0
+   ],
+   "font": "g14",
+   "fill": 26,
+   "w": 32,
+   "align": "center",
+   "valign_box": [
+    48,
+    16
+   ],
+   "bold": 2
+  },
+  {
+   "fill": [
+    120,
+    46,
+    66,
+    20
+   ],
+   "idx": 36
+  },
+  {
+   "fill": [
+    151,
+    46,
+    3,
+    20
+   ],
+   "idx": 34
+  },
+  {
+   "text": "레",
+   "at": [
+    120,
+    0
+   ],
+   "font": "g14",
+   "fill": 42,
+   "w": 31,
+   "align": "center",
+   "valign_box": [
+    48,
+    16
+   ],
+   "bold": 2
+  },
+  {
+   "text": "벨",
+   "at": [
+    154,
+    0
+   ],
+   "font": "g14",
+   "fill": 42,
+   "w": 32,
+   "align": "center",
+   "valign_box": [
+    48,
+    16
+   ],
+   "bold": 2
+  },
+  {
+   "fill": [
+    236,
+    46,
+    66,
+    20
+   ],
+   "idx": 20
+  },
+  {
+   "fill": [
+    267,
+    46,
+    3,
+    20
+   ],
+   "idx": 19
+  },
+  {
+   "text": "레",
+   "at": [
+    236,
+    0
+   ],
+   "font": "g14",
+   "fill": 29,
+   "w": 31,
+   "align": "center",
+   "valign_box": [
+    48,
+    16
+   ],
+   "bold": 2
+  },
+  {
+   "text": "벨",
+   "at": [
+    270,
+    0
+   ],
+   "font": "g14",
+   "fill": 29,
+   "w": 32,
+   "align": "center",
+   "valign_box": [
+    48,
+    16
+   ],
+   "bold": 2
+  },
+  {
+   "fill": [
+    354,
+    46,
+    66,
+    20
+   ],
+   "idx": 20
+  },
+  {
+   "fill": [
+    385,
+    46,
+    3,
+    20
+   ],
+   "idx": 19
+  },
+  {
+   "text": "레",
+   "at": [
+    354,
+    0
+   ],
+   "font": "g14",
+   "fill": 29,
+   "w": 31,
+   "align": "center",
+   "valign_box": [
+    48,
+    16
+   ],
+   "bold": 2
+  },
+  {
+   "text": "벨",
+   "at": [
+    388,
+    0
+   ],
+   "font": "g14",
+   "fill": 29,
+   "w": 32,
+   "align": "center",
+   "valign_box": [
+    48,
+    16
+   ],
+   "bold": 2
+  },
+  {
+   "fill": [
+    4,
+    84,
+    66,
+    20
+   ],
+   "idx": 36
+  },
+  {
+   "fill": [
+    35,
+    84,
+    3,
+    20
+   ],
+   "idx": 35
+  },
+  {
+   "text": "레",
+   "at": [
+    4,
+    0
+   ],
+   "font": "g14",
+   "fill": 45,
+   "w": 31,
+   "align": "center",
+   "valign_box": [
+    86,
+    16
+   ],
+   "bold": 2
+  },
+  {
+   "text": "벨",
+   "at": [
+    38,
+    0
+   ],
+   "font": "g14",
+   "fill": 45,
+   "w": 32,
+   "align": "center",
+   "valign_box": [
+    86,
+    16
+   ],
+   "bold": 2
+  }
+ ]
+}

@@ -1,0 +1,150 @@
+{
+ "png": "bank05bin/z_chr_lesson00_0.png",
+ "ops": [
+  {
+   "clear": [
+    0,
+    0,
+    128,
+    152
+   ],
+   "keep": [
+    1,
+    0
+   ],
+   "idx": 1
+  },
+  {
+   "text": "이 게임은",
+   "at": [
+    1,
+    11
+   ],
+   "w": 76,
+   "align": "left",
+   "font": "g11b",
+   "fill": 15
+  },
+  {
+   "text": "「터치",
+   "at": [
+    64,
+    27
+   ],
+   "w": 63,
+   "align": "right",
+   "font": "g11b",
+   "fill": 11
+  },
+  {
+   "text": "펜만」",
+   "at": [
+    1,
+    43
+   ],
+   "w": 44,
+   "align": "left",
+   "font": "g11b",
+   "fill": 11
+  },
+  {
+   "text": "을",
+   "at": [
+    55,
+    43
+   ],
+   "w": 11,
+   "align": "left",
+   "font": "g11b",
+   "fill": 15
+  },
+  {
+   "text": "사용해",
+   "at": [
+    89,
+    59
+   ],
+   "w": 38,
+   "align": "right",
+   "font": "g11b",
+   "fill": 15
+  },
+  {
+   "text": "요 자,",
+   "at": [
+    1,
+    75
+   ],
+   "w": 40,
+   "align": "left",
+   "font": "g11b",
+   "fill": 15
+  },
+  {
+   "text": "터치펜을",
+   "at": [
+    64,
+    91
+   ],
+   "w": 63,
+   "align": "right",
+   "font": "g11b",
+   "fill": 15
+  },
+  {
+   "text": "손에 들고",
+   "at": [
+    1,
+    107
+   ],
+   "w": 77,
+   "align": "left",
+   "font": "g11b",
+   "fill": 15
+  },
+  {
+   "text": "트",
+   "at": [
+    115,
+    107
+   ],
+   "w": 12,
+   "align": "right",
+   "font": "g11b",
+   "fill": 15
+  },
+  {
+   "text": "레이닝을",
+   "at": [
+    1,
+    123
+   ],
+   "w": 73,
+   "align": "left",
+   "font": "g11b",
+   "fill": 15
+  },
+  {
+   "text": "시작해",
+   "at": [
+    84,
+    123
+   ],
+   "w": 43,
+   "align": "right",
+   "font": "g11b",
+   "fill": 15
+  },
+  {
+   "text": "요",
+   "at": [
+    1,
+    139
+   ],
+   "w": 31,
+   "align": "left",
+   "font": "g11b",
+   "fill": 15
+  }
+ ]
+}

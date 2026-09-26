@@ -1,0 +1,47 @@
+{
+ "png": "bank07bin/chr_truckranking__scr_truckranking.png",
+ "ops": [
+  {
+   "fill": [
+    72,
+    172,
+    72,
+    8
+   ],
+   "idx": 113
+  },
+  {
+   "text": "트로코 체이스",
+   "at": [
+    72,
+    172
+   ],
+   "w": 72,
+   "align": "center",
+   "font": "g7",
+   "fill": 117,
+   "spacing": 2
+  },
+  {
+   "fill": [
+    152,
+    172,
+    32,
+    8
+   ],
+   "idx": 113
+  },
+  {
+   "text": "레벨",
+   "at": [
+    152,
+    172
+   ],
+   "w": 32,
+   "align": "center",
+   "font": "g7",
+   "fill": 117,
+   "spacing": 0
+  }
+ ]
+}

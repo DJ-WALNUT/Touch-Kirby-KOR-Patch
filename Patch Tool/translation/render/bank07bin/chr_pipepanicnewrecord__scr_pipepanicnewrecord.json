@@ -1,0 +1,46 @@
+{
+ "png": "bank07bin/chr_pipepanicnewrecord__scr_pipepanicnewrecord.png",
+ "ops": [
+  {
+   "fill": [
+    175,
+    86,
+    81,
+    19
+   ],
+   "idx": 15
+  },
+  {
+   "text": "달성!",
+   "at": [
+    181,
+    0
+   ],
+   "valign_box": [
+    90,
+    12
+   ],
+   "font": "g14",
+   "bold": 1,
+   "spacing": 1,
+   "fill": 3,
+   "outline": 3
+  },
+  {
+   "text": "달성!",
+   "at": [
+    179,
+    0
+   ],
+   "valign_box": [
+    88,
+    12
+   ],
+   "font": "g14",
+   "bold": 1,
+   "spacing": 1,
+   "fill": 2,
+   "outline": 3
+  }
+ ]
+}

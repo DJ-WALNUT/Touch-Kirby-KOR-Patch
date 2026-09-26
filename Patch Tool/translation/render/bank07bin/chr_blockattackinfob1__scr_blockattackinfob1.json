@@ -1,0 +1,92 @@
+{
+ "png": "bank07bin/chr_blockattackinfob1__scr_blockattackinfob1.png",
+ "ops": [
+  {
+   "clear": [
+    10,
+    16,
+    34,
+    9
+   ],
+   "keep": [
+    12
+   ],
+   "idx": 12
+  },
+  {
+   "text": "스테이지",
+   "at": [
+    11,
+    0
+   ],
+   "font": "g7",
+   "fill": 15,
+   "valign_box": [
+    16,
+    7
+   ],
+   "shadow": [
+    1,
+    1,
+    7
+   ]
+  },
+  {
+   "clear": [
+    11,
+    39,
+    32,
+    8
+   ],
+   "keep": [
+    8
+   ],
+   "idx": 8
+  },
+  {
+   "text": "크랙코",
+   "at": [
+    12,
+    0
+   ],
+   "font": "g7",
+   "fill": 15,
+   "valign_box": [
+    39,
+    7
+   ]
+  },
+  {
+   "clear": [
+    116,
+    156,
+    112,
+    9
+   ],
+   "keep": [
+    13
+   ],
+   "idx": 13
+  },
+  {
+   "text": "그릴 수 있는 라켓 길이",
+   "at": [
+    117,
+    0
+   ],
+   "font": "g7",
+   "fill": 15,
+   "valign_box": [
+    156,
+    7
+   ],
+   "shadow": [
+    1,
+    1,
+    9
+   ],
+   "w": 108,
+   "align": "center"
+  }
+ ]
+}

@@ -1,0 +1,221 @@
+{
+ "png": "bank04bin/allerasefilebutton.png",
+ "ops": [
+  {
+   "clear": [
+    1,
+    1,
+    62,
+    22
+   ],
+   "keep": [],
+   "idx": 3
+  },
+  {
+   "text": "예",
+   "at": [
+    1,
+    0
+   ],
+   "w": 62,
+   "align": "center",
+   "valign_box": [
+    1,
+    22
+   ],
+   "font": "g14",
+   "bold": 2,
+   "fill": 8,
+   "outline": 2
+  },
+  {
+   "clear": [
+    71,
+    1,
+    62,
+    22
+   ],
+   "keep": [],
+   "idx": 3
+  },
+  {
+   "text": "예",
+   "at": [
+    71,
+    0
+   ],
+   "w": 62,
+   "align": "center",
+   "valign_box": [
+    1,
+    22
+   ],
+   "font": "g14",
+   "bold": 2,
+   "fill": 8,
+   "outline": 2
+  },
+  {
+   "clear": [
+    139,
+    1,
+    62,
+    22
+   ],
+   "keep": [],
+   "idx": 19
+  },
+  {
+   "text": "예",
+   "at": [
+    139,
+    0
+   ],
+   "w": 62,
+   "align": "center",
+   "valign_box": [
+    1,
+    22
+   ],
+   "font": "g14",
+   "bold": 2,
+   "fill": 24,
+   "outline": 18
+  },
+  {
+   "clear": [
+    207,
+    1,
+    62,
+    22
+   ],
+   "keep": [],
+   "idx": 19
+  },
+  {
+   "text": "예",
+   "at": [
+    207,
+    0
+   ],
+   "w": 62,
+   "align": "center",
+   "valign_box": [
+    1,
+    22
+   ],
+   "font": "g14",
+   "bold": 2,
+   "fill": 24,
+   "outline": 18
+  },
+  {
+   "clear": [
+    277,
+    1,
+    62,
+    22
+   ],
+   "keep": [],
+   "idx": 4
+  },
+  {
+   "text": "아니요",
+   "at": [
+    277,
+    0
+   ],
+   "w": 62,
+   "align": "center",
+   "valign_box": [
+    1,
+    22
+   ],
+   "font": "g14",
+   "bold": 2,
+   "fill": 8,
+   "outline": 2
+  },
+  {
+   "clear": [
+    347,
+    1,
+    62,
+    22
+   ],
+   "keep": [],
+   "idx": 4
+  },
+  {
+   "text": "아니요",
+   "at": [
+    347,
+    0
+   ],
+   "w": 62,
+   "align": "center",
+   "valign_box": [
+    1,
+    22
+   ],
+   "font": "g14",
+   "bold": 2,
+   "fill": 8,
+   "outline": 2
+  },
+  {
+   "clear": [
+    415,
+    1,
+    62,
+    22
+   ],
+   "keep": [],
+   "idx": 20
+  },
+  {
+   "text": "아니요",
+   "at": [
+    415,
+    0
+   ],
+   "w": 62,
+   "align": "center",
+   "valign_box": [
+    1,
+    22
+   ],
+   "font": "g14",
+   "bold": 2,
+   "fill": 24,
+   "outline": 18
+  },
+  {
+   "clear": [
+    1,
+    39,
+    62,
+    22
+   ],
+   "keep": [],
+   "idx": 20
+  },
+  {
+   "text": "아니요",
+   "at": [
+    1,
+    0
+   ],
+   "w": 62,
+   "align": "center",
+   "valign_box": [
+    39,
+    22
+   ],
+   "font": "g14",
+   "bold": 2,
+   "fill": 24,
+   "outline": 18
+  }
+ ]
+}

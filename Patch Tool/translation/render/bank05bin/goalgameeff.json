@@ -1,0 +1,56 @@
+{
+ "png": "bank05bin/goalgameeff.png",
+ "ops": [
+  {
+   "fill": [
+    0,
+    94,
+    88,
+    17
+   ],
+   "idx": 0
+  },
+  {
+   "text": "@L102",
+   "at": [
+    4,
+    98
+   ],
+   "font": "g9",
+   "spacing": 1,
+   "fill": 83,
+   "outline": 83
+  },
+  {
+   "text": "@L102",
+   "at": [
+    5,
+    99
+   ],
+   "font": "g9",
+   "spacing": 1,
+   "fill": 83,
+   "outline": 83
+  },
+  {
+   "text": "@L102",
+   "at": [
+    5,
+    99
+   ],
+   "font": "g9",
+   "spacing": 1,
+   "fill": 82
+  },
+  {
+   "text": "@L102",
+   "at": [
+    4,
+    98
+   ],
+   "font": "g9",
+   "spacing": 1,
+   "fill": 84
+  }
+ ]
+}

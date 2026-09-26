@@ -1,0 +1,189 @@
+{
+ "png": "bank05bin/z_chr_ed04f__z_scr_ed04af.png",
+ "ops": [
+  {
+   "fill": [
+    0,
+    0,
+    512,
+    256
+   ],
+   "idx": 0
+  },
+  {
+   "text": "정신을 차려 보니",
+   "at": [
+    10,
+    20
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 2,
+   "outline": 2
+  },
+  {
+   "text": "그곳은 푸푸푸 랜드",
+   "at": [
+    10,
+    52
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 2,
+   "outline": 2
+  },
+  {
+   "text": "땅도 하늘도 커비도",
+   "at": [
+    10,
+    116
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 2,
+   "outline": 2
+  },
+  {
+   "text": "원래 모습으로 돌아와 있었어요",
+   "at": [
+    10,
+    148
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 2,
+   "outline": 2
+  },
+  {
+   "text": "푸푸푸 랜드에 다시",
+   "at": [
+    266,
+    20
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 2,
+   "outline": 2
+  },
+  {
+   "text": "평화로운 시간이",
+   "at": [
+    266,
+    53
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 2,
+   "outline": 2
+  },
+  {
+   "text": "찾아온 거예요",
+   "at": [
+    266,
+    84
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 2,
+   "outline": 2
+  },
+  {
+   "text": "정신을 차려 보니",
+   "at": [
+    9,
+    18
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 1,
+   "outline": 2,
+   "w": 239
+  },
+  {
+   "text": "그곳은 푸푸푸 랜드",
+   "at": [
+    9,
+    50
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 1,
+   "outline": 2,
+   "w": 239
+  },
+  {
+   "text": "땅도 하늘도 커비도",
+   "at": [
+    9,
+    114
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 1,
+   "outline": 2,
+   "w": 239
+  },
+  {
+   "text": "원래 모습으로 돌아와 있었어요",
+   "at": [
+    9,
+    146
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 1,
+   "outline": 2,
+   "w": 239
+  },
+  {
+   "text": "푸푸푸 랜드에 다시",
+   "at": [
+    265,
+    18
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 1,
+   "outline": 2,
+   "w": 239
+  },
+  {
+   "text": "평화로운 시간이",
+   "at": [
+    265,
+    51
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 1,
+   "outline": 2,
+   "w": 239
+  },
+  {
+   "text": "찾아온 거예요",
+   "at": [
+    265,
+    82
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 1,
+   "outline": 2,
+   "w": 239
+  }
+ ]
+}

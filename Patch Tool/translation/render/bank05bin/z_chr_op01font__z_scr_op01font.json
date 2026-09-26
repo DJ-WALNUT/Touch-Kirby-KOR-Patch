@@ -1,0 +1,134 @@
+{
+ "png": "bank05bin/z_chr_op01font__z_scr_op01font.png",
+ "ops": [
+  {
+   "fill": [
+    0,
+    0,
+    512,
+    256
+   ],
+   "idx": 0
+  },
+  {
+   "text": "여기는",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    11,
+    18
+   ],
+   "fill": 2
+  },
+  {
+   "text": "여기는",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    9,
+    16
+   ],
+   "fill": 1
+  },
+  {
+   "text": "평화로운 낙원",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    11,
+    50
+   ],
+   "fill": 2
+  },
+  {
+   "text": "평화로운 낙원",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    9,
+    48
+   ],
+   "fill": 1
+  },
+  {
+   "text": "푸푸푸 랜드.",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    11,
+    82
+   ],
+   "fill": 2
+  },
+  {
+   "text": "푸푸푸 랜드.",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    9,
+    80
+   ],
+   "fill": 1
+  },
+  {
+   "text": "오늘도 태평하게",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    11,
+    154
+   ],
+   "fill": 2
+  },
+  {
+   "text": "오늘도 태평하게",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    9,
+    152
+   ],
+   "fill": 1
+  },
+  {
+   "text": "산책 중인 커비...",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    11,
+    186
+   ],
+   "fill": 2
+  },
+  {
+   "text": "산책 중인 커비...",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    9,
+    184
+   ],
+   "fill": 1
+  }
+ ]
+}

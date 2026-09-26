@@ -1,0 +1,314 @@
+{
+ "png": "bank05bin/z_chr_ed03f__z_scr_ed03f.png",
+ "ops": [
+  {
+   "fill": [
+    0,
+    0,
+    512,
+    256
+   ],
+   "idx": 0
+  },
+  {
+   "text": "갑자기 빛나기 시작한",
+   "at": [
+    10,
+    23
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 2,
+   "outline": 2
+  },
+  {
+   "text": "마법의 붓은",
+   "at": [
+    10,
+    54
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 2,
+   "outline": 2
+  },
+  {
+   "text": "원래 세계로 가는 문을",
+   "at": [
+    10,
+    86
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 2,
+   "outline": 2
+  },
+  {
+   "text": "그려 주었어요",
+   "at": [
+    10,
+    117
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 2,
+   "outline": 2
+  },
+  {
+   "text": "커비는",
+   "at": [
+    10,
+    181
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 2,
+   "outline": 2
+  },
+  {
+   "text": "마법의 붓과의",
+   "at": [
+    10,
+    214
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 2,
+   "outline": 2
+  },
+  {
+   "text": "이별을 아쉬워하듯",
+   "at": [
+    10,
+    243
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 2,
+   "outline": 2
+  },
+  {
+   "text": "문 안으로...",
+   "at": [
+    266,
+    21
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 2,
+   "outline": 2
+  },
+  {
+   "text": "무사히 역할을 마친",
+   "at": [
+    266,
+    126
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 2,
+   "outline": 2
+  },
+  {
+   "text": "마법의 붓은",
+   "at": [
+    266,
+    158
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 2,
+   "outline": 2
+  },
+  {
+   "text": "눈부신 빛에 감싸여",
+   "at": [
+    266,
+    189
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 2,
+   "outline": 2
+  },
+  {
+   "text": "사라지고 말았어요",
+   "at": [
+    266,
+    221
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 2,
+   "outline": 2
+  },
+  {
+   "text": "갑자기 빛나기 시작한",
+   "at": [
+    9,
+    21
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 1,
+   "outline": 2,
+   "w": 239
+  },
+  {
+   "text": "마법의 붓은",
+   "at": [
+    9,
+    52
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 1,
+   "outline": 2,
+   "w": 239
+  },
+  {
+   "text": "원래 세계로 가는 문을",
+   "at": [
+    9,
+    84
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 1,
+   "outline": 2,
+   "w": 239
+  },
+  {
+   "text": "그려 주었어요",
+   "at": [
+    9,
+    115
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 1,
+   "outline": 2,
+   "w": 239
+  },
+  {
+   "text": "커비는",
+   "at": [
+    9,
+    179
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 1,
+   "outline": 2,
+   "w": 239
+  },
+  {
+   "text": "마법의 붓과의",
+   "at": [
+    9,
+    212
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 1,
+   "outline": 2,
+   "w": 239
+  },
+  {
+   "text": "이별을 아쉬워하듯",
+   "at": [
+    9,
+    241
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 1,
+   "outline": 2,
+   "w": 239
+  },
+  {
+   "text": "문 안으로...",
+   "at": [
+    265,
+    19
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 1,
+   "outline": 2,
+   "w": 239
+  },
+  {
+   "text": "무사히 역할을 마친",
+   "at": [
+    265,
+    124
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 1,
+   "outline": 2,
+   "w": 239
+  },
+  {
+   "text": "마법의 붓은",
+   "at": [
+    265,
+    156
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 1,
+   "outline": 2,
+   "w": 239
+  },
+  {
+   "text": "눈부신 빛에 감싸여",
+   "at": [
+    265,
+    187
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 1,
+   "outline": 2,
+   "w": 239
+  },
+  {
+   "text": "사라지고 말았어요",
+   "at": [
+    265,
+    219
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 1,
+   "fill": 1,
+   "outline": 2,
+   "w": 239
+  }
+ ]
+}

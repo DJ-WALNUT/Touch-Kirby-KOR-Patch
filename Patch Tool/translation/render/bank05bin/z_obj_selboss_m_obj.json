@@ -1,0 +1,80 @@
+{
+ "png": "bank05bin/z_obj_selboss_m_obj.png",
+ "ops": [
+  {
+   "fill": [
+    457,
+    149,
+    50,
+    14
+   ],
+   "idx": 156
+  },
+  {
+   "text": "설명",
+   "at": [
+    457,
+    0
+   ],
+   "font": "g11b",
+   "fill": 149,
+   "w": 50,
+   "align": "center",
+   "valign_box": [
+    150,
+    12
+   ],
+   "spacing": 3
+  },
+  {
+   "fill": [
+    421,
+    297,
+    50,
+    14
+   ],
+   "idx": 172
+  },
+  {
+   "text": "설명",
+   "at": [
+    421,
+    0
+   ],
+   "font": "g11b",
+   "fill": 166,
+   "w": 50,
+   "align": "center",
+   "valign_box": [
+    298,
+    12
+   ],
+   "spacing": 3
+  },
+  {
+   "fill": [
+    61,
+    501,
+    50,
+    14
+   ],
+   "idx": 162
+  },
+  {
+   "text": "설명",
+   "at": [
+    61,
+    0
+   ],
+   "font": "g11b",
+   "fill": 172,
+   "w": 50,
+   "align": "center",
+   "valign_box": [
+    502,
+    12
+   ],
+   "spacing": 3
+  }
+ ]
+}

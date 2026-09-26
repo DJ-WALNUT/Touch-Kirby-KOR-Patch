@@ -1,0 +1,230 @@
+{
+ "png": "bank05bin/z_chr_op04font__z_scr_op04font_00.png",
+ "ops": [
+  {
+   "fill": [
+    0,
+    0,
+    512,
+    256
+   ],
+   "idx": 0
+  },
+  {
+   "text": "그곳은",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    11,
+    18
+   ],
+   "fill": 2
+  },
+  {
+   "text": "그곳은",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    9,
+    16
+   ],
+   "fill": 1
+  },
+  {
+   "text": "그림의 세계였습니다.",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    11,
+    50
+   ],
+   "fill": 2
+  },
+  {
+   "text": "그림의 세계였습니다.",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    9,
+    48
+   ],
+   "fill": 1
+  },
+  {
+   "text": "커비는 용기를 갖고",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    11,
+    114
+   ],
+   "fill": 2
+  },
+  {
+   "text": "커비는 용기를 갖고",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    9,
+    112
+   ],
+   "fill": 1
+  },
+  {
+   "text": "마녀에게 맞서지만",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    11,
+    146
+   ],
+   "fill": 2
+  },
+  {
+   "text": "마녀에게 맞서지만",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    9,
+    144
+   ],
+   "fill": 1
+  },
+  {
+   "text": "이상한 마법에 의해",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    11,
+    178
+   ],
+   "fill": 2
+  },
+  {
+   "text": "이상한 마법에 의해",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    9,
+    176
+   ],
+   "fill": 1
+  },
+  {
+   "text": "둥근 볼의 모습으로!",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    11,
+    210
+   ],
+   "fill": 2
+  },
+  {
+   "text": "둥근 볼의 모습으로!",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    9,
+    208
+   ],
+   "fill": 1
+  },
+  {
+   "text": "날아가는 마녀를 그저",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    267,
+    66
+   ],
+   "fill": 2
+  },
+  {
+   "text": "날아가는 마녀를 그저",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    265,
+    64
+   ],
+   "fill": 1
+  },
+  {
+   "text": "볼의 모습인 채로",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    267,
+    98
+   ],
+   "fill": 2
+  },
+  {
+   "text": "볼의 모습인 채로",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    265,
+    96
+   ],
+   "fill": 1
+  },
+  {
+   "text": "쳐다보기만 하는 커비...",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    267,
+    130
+   ],
+   "fill": 2
+  },
+  {
+   "text": "쳐다보기만 하는 커비...",
+   "font": "g11b",
+   "bold": 0,
+   "spacing": 2,
+   "outline": 2,
+   "at": [
+    265,
+    128
+   ],
+   "fill": 1
+  }
+ ]
+}

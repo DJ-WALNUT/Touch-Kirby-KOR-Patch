@@ -1,0 +1,67 @@
+{
+ "png": "bank07bin/chr_blockattackbest__scr_blockattackbest.png",
+ "ops": [
+  {
+   "fill": [
+    54,
+    86,
+    150,
+    20
+   ],
+   "idx": 143
+  },
+  {
+   "text": "랭킹 갱신!",
+   "at": [
+    54,
+    0
+   ],
+   "font": "g14",
+   "fill": 131,
+   "outline": 131,
+   "valign_box": [
+    89,
+    14
+   ],
+   "w": 148,
+   "align": "center",
+   "bold": 2,
+   "spacing": 2
+  },
+  {
+   "text": "랭킹 갱신!",
+   "at": [
+    55,
+    0
+   ],
+   "font": "g14",
+   "fill": 131,
+   "outline": 131,
+   "valign_box": [
+    90,
+    14
+   ],
+   "w": 148,
+   "align": "center",
+   "bold": 2,
+   "spacing": 2
+  },
+  {
+   "text": "랭킹 갱신!",
+   "at": [
+    54,
+    0
+   ],
+   "font": "g14",
+   "fill": 130,
+   "valign_box": [
+    89,
+    14
+   ],
+   "w": 148,
+   "align": "center",
+   "bold": 2,
+   "spacing": 2
+  }
+ ]
+}

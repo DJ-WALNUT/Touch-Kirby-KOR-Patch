@@ -1,0 +1,58 @@
+{
+ "png": "bank07bin/chr_pipepanicmedal__scr_pipepanicmedal.png",
+ "ops": [
+  {
+   "fill": [
+    0,
+    48,
+    256,
+    54
+   ],
+   "idx": 15
+  },
+  {
+   "text": "페인트 패닉!",
+   "font": "g11b",
+   "spacing": 2,
+   "outline": 3,
+   "at": [
+    89,
+    58
+   ],
+   "fill": 3
+  },
+  {
+   "text": "페인트 패닉!",
+   "font": "g11b",
+   "spacing": 2,
+   "outline": 3,
+   "at": [
+    87,
+    56
+   ],
+   "fill": 2
+  },
+  {
+   "text": "메달 획득",
+   "font": "g11b",
+   "spacing": 2,
+   "outline": 3,
+   "at": [
+    99,
+    82
+   ],
+   "fill": 3
+  },
+  {
+   "text": "메달 획득",
+   "font": "g11b",
+   "spacing": 2,
+   "outline": 3,
+   "at": [
+    97,
+    80
+   ],
+   "fill": 2
+  }
+ ]
+}

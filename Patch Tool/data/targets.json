@@ -1,0 +1,3037 @@
+[
+ {
+  "file": "/romdir/bank00bin/z_touchpan.bin",
+  "group": "/romdir/bank00bin/z_touchpan.bin",
+  "kind": "c05",
+  "cat": "C",
+  "note": "터치펜 아이콘",
+  "group_cat": "C"
+ },
+ {
+  "file": "/romdir/bank04bin/allerasefilebutton.bin",
+  "group": "/romdir/bank04bin/allerasefilebutton.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "はい / いいえ",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank04bin/chgmedalhelpmsg.bin",
+  "group": "/romdir/bank04bin/chgmedalhelpmsg.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "메달 체인저 설명문 (えらんだプレートを…)",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank04bin/chgmedalprizeicon.bin",
+  "group": "/romdir/bank04bin/chgmedalprizeicon.bin",
+  "kind": "c05",
+  "cat": "C",
+  "note": "상품 아이콘",
+  "group_cat": "C"
+ },
+ {
+  "file": "/romdir/bank04bin/chgmedalprizelist.bin",
+  "group": "/romdir/bank04bin/chgmedalprizelist.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "상품명 (デデデボール メタナイトボール…)",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank04bin/chr_allerase_filebg.bin",
+  "group": "/romdir/bank04bin/chr_allerase_filebg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "すべてのデータを消してもいいですか?",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank04bin/chr_chgmedalframebg.bin",
+  "group": "/romdir/bank04bin/chr_chgmedalframebg.bin",
+  "kind": "sheet",
+  "cat": "A",
+  "note": "메달 체인저 프레임 소문자",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank04bin/chr_chgmedaltopbgs.bin",
+  "group": "/romdir/bank04bin/chr_chgmedaltopbgs.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "메달 체인저 상단 BG 글자",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank04bin/chr_configframebg.bin",
+  "group": "/romdir/bank04bin/chr_configframebg.bin",
+  "kind": "bg",
+  "cat": "B",
+  "note": "SETUP",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank04bin/chr_configpagebg.bin",
+  "group": "/romdir/bank04bin/chr_configpagebg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "설정 페이지 설명 문구",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank04bin/chr_erasefileframebg.bin",
+  "group": "/romdir/bank04bin/chr_erasefileframebg.bin",
+  "kind": "bg",
+  "cat": "B",
+  "note": "FILE ERASE",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank04bin/chr_logonintendobg.bin",
+  "group": "/romdir/bank04bin/chr_logonintendobg.bin",
+  "kind": "bg",
+  "cat": "C",
+  "note": "Nintendo 로고",
+  "group_cat": "C"
+ },
+ {
+  "file": "/romdir/bank04bin/chr_optionframebg.bin",
+  "group": "/romdir/bank04bin/chr_optionframebg.bin",
+  "kind": "bg",
+  "cat": "B",
+  "note": "OPTION",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank04bin/chr_sellvltablebg0.bin",
+  "group": "/romdir/bank04bin/chr_sellvltablebg0.bin",
+  "kind": "bg",
+  "cat": "B",
+  "note": "레벨 선택 원형 문자 (GAME MAIN)",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank04bin/chr_sellvltablebg1.bin",
+  "group": "/romdir/bank04bin/chr_sellvltablebg1.bin",
+  "kind": "bg",
+  "cat": "B",
+  "note": "레벨 선택 원형 문자 (TRIAL)",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank04bin/chr_seltriallowframebg.bin",
+  "group": "/romdir/bank04bin/chr_seltriallowframebg.bin",
+  "kind": "bg",
+  "cat": "B",
+  "note": "RAINBOW TRIAL",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank04bin/chr_seltrialtopcommonbg.bin",
+  "group": "/romdir/bank04bin/chr_seltrialtopcommonbg.bin",
+  "kind": "sheet",
+  "cat": "B",
+  "note": "RAINBOW TRIAL",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank04bin/chr_title.bin",
+  "group": "/romdir/bank04bin/chr_title.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "타이틀 로고 タッチ!カービィ",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank04bin/chr_trresultlowbg.bin",
+  "group": "/romdir/bank04bin/chr_trresultlowbg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "メダルボーナス",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank04bin/chr_trresulttoplinebg.bin",
+  "group": "/romdir/bank04bin/chr_trresulttoplinebg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "スコア / ハイスコア / カウントメダル",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank04bin/chr_trresulttoptimebg.bin",
+  "group": "/romdir/bank04bin/chr_trresulttoptimebg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "タイム / ベストタイム",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank04bin/col_logonintendobg.bin",
+  "group": "/romdir/bank04bin/col_logonintendobg.bin",
+  "kind": "pal",
+  "cat": "P",
+  "note": "팔레트",
+  "group_cat": "P"
+ },
+ {
+  "file": "/romdir/bank04bin/col_sellvltablebg0.bin",
+  "group": "/romdir/bank04bin/col_sellvltablebg0.bin",
+  "kind": "pal",
+  "cat": "P",
+  "note": "팔레트",
+  "group_cat": "P"
+ },
+ {
+  "file": "/romdir/bank04bin/col_sellvltablebg1.bin",
+  "group": "/romdir/bank04bin/col_sellvltablebg1.bin",
+  "kind": "pal",
+  "cat": "P",
+  "note": "팔레트",
+  "group_cat": "P"
+ },
+ {
+  "file": "/romdir/bank04bin/col_title.bin",
+  "group": "/romdir/bank04bin/col_title.bin",
+  "kind": "pal",
+  "cat": "P",
+  "note": "팔레트",
+  "group_cat": "P"
+ },
+ {
+  "file": "/romdir/bank04bin/col_title1.bin",
+  "group": "/romdir/bank04bin/col_title1.bin",
+  "kind": "pal",
+  "cat": "P",
+  "note": "팔레트",
+  "group_cat": "P"
+ },
+ {
+  "file": "/romdir/bank04bin/configlinename.bin",
+  "group": "/romdir/bank04bin/configlinename.bin",
+  "kind": "c05",
+  "cat": "B",
+  "note": "Rainbow Zebra Beads Tropical",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank04bin/configselpicto.bin",
+  "group": "/romdir/bank04bin/configselpicto.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "ピクトチャットをさがす",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank04bin/configselsound.bin",
+  "group": "/romdir/bank04bin/configselsound.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "ノーマル / オールドスタイル / ステレオ / モノラル / ヘッドホン / サラウンド",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank04bin/configswitch.bin",
+  "group": "/romdir/bank04bin/configswitch.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "ラインタイプ / サウンド / ピクトチャット",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank04bin/configtext.bin",
+  "group": "/romdir/bank04bin/configtext.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "설정 설명문 (いつもの曲でプレイします…)",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank04bin/erasefileerased.bin",
+  "group": "/romdir/bank04bin/erasefileerased.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "ファイルを消しました",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank04bin/erasefileselbox.bin",
+  "group": "/romdir/bank04bin/erasefileselbox.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "このファイルを消しますか? / ほんとうに… / はい / いいえ",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank04bin/fileinfofilebox.bin",
+  "group": "/romdir/bank04bin/fileinfofilebox.bin",
+  "kind": "c05",
+  "cat": "B",
+  "note": "File 1 2 3",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank04bin/gameoverobj.bin",
+  "group": "/romdir/bank04bin/gameoverobj.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "つづける / やめる",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank04bin/menucommonreturn.bin",
+  "group": "/romdir/bank04bin/menucommonreturn.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "もどる",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank04bin/menucommontext.bin",
+  "group": "/romdir/bank04bin/menucommontext.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "プレイ時間 / メダル / クリア / データがありません",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank04bin/menulevelname.bin",
+  "group": "/romdir/bank04bin/menulevelname.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "레벨 이름 (영문) (레벨명 한글화: 나무위키)",
+  "group_cat": "A",
+  "force": true
+ },
+ {
+  "file": "/romdir/bank04bin/menuspcoursename.bin",
+  "group": "/romdir/bank04bin/menuspcoursename.bin",
+  "kind": "c05",
+  "cat": "B",
+  "note": "스페셜 코스 이름 (영문)",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank04bin/menustagename1.bin",
+  "group": "/romdir/bank04bin/menustagename1.bin",
+  "kind": "c05",
+  "cat": "B",
+  "note": "스테이지 이름 (영문)",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank04bin/menustagename2.bin",
+  "group": "/romdir/bank04bin/menustagename2.bin",
+  "kind": "c05",
+  "cat": "B",
+  "note": "스테이지 이름 (영문)",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank04bin/menustagename4.bin",
+  "group": "/romdir/bank04bin/menustagename4.bin",
+  "kind": "c05",
+  "cat": "B",
+  "note": "스테이지 이름 (영문)",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank04bin/noticeobj.bin",
+  "group": "/romdir/bank04bin/noticeobj.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "「○○」が 使えるようになります / 追加されます",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank04bin/optionselbox.bin",
+  "group": "/romdir/bank04bin/optionselbox.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "セットアップ / トレーニング / ファイル消去 / サウンドテスト",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank04bin/scr_allerase_filebg_0.bin",
+  "group": "/romdir/bank04bin/chr_allerase_filebg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "すべてのデータを消してもいいですか?",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank04bin/scr_allerase_filebg_1.bin",
+  "group": "/romdir/bank04bin/chr_allerase_filebg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "いちど消したデータは もとにもどせません。ほんとうに消しますか?",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank04bin/scr_allerase_filebg_3.bin",
+  "group": "/romdir/bank04bin/chr_allerase_filebg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "すべてのデータを消しました。",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank04bin/scr_chgmedallowframebg.bin",
+  "group": "/romdir/bank04bin/scr_chgmedallowframebg.bin",
+  "kind": "skip",
+  "cat": "?",
+  "note": "미해석 포맷 (scr(chr없음))",
+  "group_cat": "?"
+ },
+ {
+  "file": "/romdir/bank04bin/scr_chgmedalmedalbgs.bin",
+  "group": "/romdir/bank04bin/scr_chgmedalmedalbgs.bin",
+  "kind": "skip",
+  "cat": "?",
+  "note": "미해석 포맷 (scr(chr없음))",
+  "group_cat": "?"
+ },
+ {
+  "file": "/romdir/bank04bin/scr_chgmedaltopframebg.bin",
+  "group": "/romdir/bank04bin/scr_chgmedaltopframebg.bin",
+  "kind": "skip",
+  "cat": "?",
+  "note": "미해석 포맷 (scr(chr없음))",
+  "group_cat": "?"
+ },
+ {
+  "file": "/romdir/bank04bin/scr_configbasebg.bin",
+  "group": "/romdir/bank04bin/scr_configbasebg.bin",
+  "kind": "skip",
+  "cat": "?",
+  "note": "미해석 포맷 (scr(chr없음))",
+  "group_cat": "?"
+ },
+ {
+  "file": "/romdir/bank04bin/scr_configframebg.bin",
+  "group": "/romdir/bank04bin/chr_configframebg.bin",
+  "kind": "bg",
+  "cat": "B",
+  "note": "SETUP",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank04bin/scr_configpictopagebg.bin",
+  "group": "/romdir/bank04bin/chr_configpagebg.bin",
+  "kind": "bg",
+  "cat": "?",
+  "note": "미해석 포맷 (scr(chr없음))",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank04bin/scr_erasefileframebg.bin",
+  "group": "/romdir/bank04bin/chr_erasefileframebg.bin",
+  "kind": "bg",
+  "cat": "B",
+  "note": "FILE ERASE",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank04bin/scr_logonintendobg.bin",
+  "group": "/romdir/bank04bin/chr_logonintendobg.bin",
+  "kind": "bg",
+  "cat": "C",
+  "note": "Nintendo 로고",
+  "group_cat": "C"
+ },
+ {
+  "file": "/romdir/bank04bin/scr_optionframebg.bin",
+  "group": "/romdir/bank04bin/chr_optionframebg.bin",
+  "kind": "bg",
+  "cat": "B",
+  "note": "OPTION",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank04bin/scr_sellvltablebg0.bin",
+  "group": "/romdir/bank04bin/chr_sellvltablebg0.bin",
+  "kind": "bg",
+  "cat": "B",
+  "note": "레벨 선택 원형 문자 (GAME MAIN)",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank04bin/scr_sellvltablebg1.bin",
+  "group": "/romdir/bank04bin/chr_sellvltablebg1.bin",
+  "kind": "bg",
+  "cat": "B",
+  "note": "레벨 선택 원형 문자 (TRIAL)",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank04bin/scr_seltriallowframebg.bin",
+  "group": "/romdir/bank04bin/chr_seltriallowframebg.bin",
+  "kind": "bg",
+  "cat": "B",
+  "note": "RAINBOW TRIAL",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank04bin/scr_seltrialtopframebg.bin",
+  "group": "/romdir/bank04bin/scr_seltrialtopframebg.bin",
+  "kind": "skip",
+  "cat": "?",
+  "note": "미해석 포맷 (scr(chr없음))",
+  "group_cat": "?"
+ },
+ {
+  "file": "/romdir/bank04bin/scr_title.bin",
+  "group": "/romdir/bank04bin/chr_title.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "타이틀 로고 タッチ!カービィ",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank04bin/scr_trresulttoplinebg.bin",
+  "group": "/romdir/bank04bin/chr_trresulttoplinebg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "スコア / ハイスコア / カウントメダル",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank04bin/scr_trresulttoptimebg.bin",
+  "group": "/romdir/bank04bin/chr_trresulttoptimebg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "タイム / ベストタイム",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank04bin/screentouch.bin",
+  "group": "/romdir/bank04bin/screentouch.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "画面をタッチ!",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank04bin/selfilefilebox.bin",
+  "group": "/romdir/bank04bin/selfilefilebox.bin",
+  "kind": "c05",
+  "cat": "B",
+  "note": "File1~3",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank04bin/selfilemsgbar.bin",
+  "group": "/romdir/bank04bin/selfilemsgbar.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "あたらしいファイルを作成しました",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank04bin/sellvletc.bin",
+  "group": "/romdir/bank04bin/sellvletc.bin",
+  "kind": "c05",
+  "cat": "B",
+  "note": "Level 1-8 / Special",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank04bin/sellvlname0.bin",
+  "group": "/romdir/bank04bin/sellvlname0.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "LEVEL.01 REDDY LAND (레벨명 한글화: 나무위키)",
+  "group_cat": "A",
+  "force": true
+ },
+ {
+  "file": "/romdir/bank04bin/sellvlname1.bin",
+  "group": "/romdir/bank04bin/sellvlname1.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "LEVEL + 월드 이름 (레벨명 한글화: 나무위키)",
+  "group_cat": "A",
+  "force": true
+ },
+ {
+  "file": "/romdir/bank04bin/selmodeready.bin",
+  "group": "/romdir/bank04bin/selmodeready.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "このファイルでのゲームをおわりますか? / はい / いいえ",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank04bin/selmodeselbox.bin",
+  "group": "/romdir/bank04bin/selmodeselbox.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "メインゲーム/レインボーライン/サブゲーム/メダルチェンジャー/オプション/ジャンプゲーム",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank04bin/selstgassist.bin",
+  "group": "/romdir/bank04bin/selstgassist.bin",
+  "kind": "c05",
+  "cat": "B",
+  "note": "Clear",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank04bin/selstgmsgbar.bin",
+  "group": "/romdir/bank04bin/selstgmsgbar.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "「レベル1」をクリアしていません",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank04bin/seltrialinfo.bin",
+  "group": "/romdir/bank04bin/seltrialinfo.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "タイムトライアル/ラインアタック + 설명문",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank04bin/seltrialpanel.bin",
+  "group": "/romdir/bank04bin/seltrialpanel.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "ベストタイム/ハイスコア/メダルボーナス",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank04bin/seltrialselbox.bin",
+  "group": "/romdir/bank04bin/seltrialselbox.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "タイムトライアル/ラインアタック",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank04bin/touchstart.bin",
+  "group": "/romdir/bank04bin/touchstart.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "画面をタッチ!",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank04bin/trresultlowtext.bin",
+  "group": "/romdir/bank04bin/trresultlowtext.bin",
+  "kind": "c05",
+  "cat": "C",
+  "note": "숫자",
+  "group_cat": "C"
+ },
+ {
+  "file": "/romdir/bank04bin/trresultselbox.bin",
+  "group": "/romdir/bank04bin/trresultselbox.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "リトライ/やめる",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank04bin/trresulttoptext.bin",
+  "group": "/romdir/bank04bin/trresulttoptext.bin",
+  "kind": "c05",
+  "cat": "C",
+  "note": "숫자/new!",
+  "group_cat": "C"
+ },
+ {
+  "file": "/romdir/bank05bin/col_bossdemo_title_drawcia.bin",
+  "group": "/romdir/bank05bin/col_bossdemo_title_drawcia.bin",
+  "kind": "pal",
+  "cat": "P",
+  "note": "팔레트",
+  "group_cat": "P"
+ },
+ {
+  "file": "/romdir/bank05bin/col_bossdemo_title_roller.bin",
+  "group": "/romdir/bank05bin/col_bossdemo_title_roller.bin",
+  "kind": "pal",
+  "cat": "P",
+  "note": "팔레트",
+  "group_cat": "P"
+ },
+ {
+  "file": "/romdir/bank05bin/col_compbgm.bin",
+  "group": "/romdir/bank05bin/col_compbgm.bin",
+  "kind": "pal",
+  "cat": "P",
+  "note": "팔레트",
+  "group_cat": "P"
+ },
+ {
+  "file": "/romdir/bank05bin/col_gghelp.bin",
+  "group": "/romdir/bank05bin/col_gghelp.bin",
+  "kind": "pal",
+  "cat": "P",
+  "note": "팔레트",
+  "group_cat": "P"
+ },
+ {
+  "file": "/romdir/bank05bin/col_nintenlogo.bin",
+  "group": "/romdir/bank05bin/col_nintenlogo.bin",
+  "kind": "pal",
+  "cat": "P",
+  "note": "팔레트",
+  "group_cat": "P"
+ },
+ {
+  "file": "/romdir/bank05bin/col_selboss_s_block.bin",
+  "group": "/romdir/bank05bin/col_selboss_s_block.bin",
+  "kind": "pal",
+  "cat": "P",
+  "note": "팔레트",
+  "group_cat": "P"
+ },
+ {
+  "file": "/romdir/bank05bin/col_selboss_s_paint.bin",
+  "group": "/romdir/bank05bin/col_selboss_s_paint.bin",
+  "kind": "pal",
+  "cat": "P",
+  "note": "팔레트",
+  "group_cat": "P"
+ },
+ {
+  "file": "/romdir/bank05bin/col_selboss_s_truck.bin",
+  "group": "/romdir/bank05bin/col_selboss_s_truck.bin",
+  "kind": "pal",
+  "cat": "P",
+  "note": "팔레트",
+  "group_cat": "P"
+ },
+ {
+  "file": "/romdir/bank05bin/col_selsubgame_s_block.bin",
+  "group": "/romdir/bank05bin/col_selsubgame_s_block.bin",
+  "kind": "pal",
+  "cat": "P",
+  "note": "팔레트",
+  "group_cat": "P"
+ },
+ {
+  "file": "/romdir/bank05bin/col_selsubgame_s_paint.bin",
+  "group": "/romdir/bank05bin/col_selsubgame_s_paint.bin",
+  "kind": "pal",
+  "cat": "P",
+  "note": "팔레트",
+  "group_cat": "P"
+ },
+ {
+  "file": "/romdir/bank05bin/col_selsubgame_s_title.bin",
+  "group": "/romdir/bank05bin/col_selsubgame_s_title.bin",
+  "kind": "pal",
+  "cat": "P",
+  "note": "팔레트",
+  "group_cat": "P"
+ },
+ {
+  "file": "/romdir/bank05bin/col_selsubgame_s_truck.bin",
+  "group": "/romdir/bank05bin/col_selsubgame_s_truck.bin",
+  "kind": "pal",
+  "cat": "P",
+  "note": "팔레트",
+  "group_cat": "P"
+ },
+ {
+  "file": "/romdir/bank05bin/col_trainingend.bin",
+  "group": "/romdir/bank05bin/col_trainingend.bin",
+  "kind": "pal",
+  "cat": "P",
+  "note": "팔레트",
+  "group_cat": "P"
+ },
+ {
+  "file": "/romdir/bank05bin/col_trainingend_s.bin",
+  "group": "/romdir/bank05bin/col_trainingend_s.bin",
+  "kind": "pal",
+  "cat": "P",
+  "note": "팔레트",
+  "group_cat": "P"
+ },
+ {
+  "file": "/romdir/bank05bin/goalgameeff.bin",
+  "group": "/romdir/bank05bin/goalgameeff.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "タッチしてスタート",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/kdscore.bin",
+  "group": "/romdir/bank05bin/kdscore.bin",
+  "kind": "c05",
+  "cat": "B",
+  "note": "SCORE 숫자",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_bossdemo_title_dedede.bin",
+  "group": "/romdir/bank05bin/z_chr_bossdemo_title_dedede.bin",
+  "kind": "bg",
+  "cat": "B",
+  "note": "King Dedede",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_bossdemo_title_drawcia.bin",
+  "group": "/romdir/bank05bin/z_chr_bossdemo_title_drawcia.bin",
+  "kind": "bg",
+  "cat": "B",
+  "note": "Drawcia",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_bossdemo_title_kracko.bin",
+  "group": "/romdir/bank05bin/z_chr_bossdemo_title_kracko.bin",
+  "kind": "bg",
+  "cat": "B",
+  "note": "Kracko",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_bossdemo_title_krackojr.bin",
+  "group": "/romdir/bank05bin/z_chr_bossdemo_title_krackojr.bin",
+  "kind": "bg",
+  "cat": "B",
+  "note": "Kracko Jr.",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_bossdemo_title_roller.bin",
+  "group": "/romdir/bank05bin/z_chr_bossdemo_title_roller.bin",
+  "kind": "bg",
+  "cat": "B",
+  "note": "Paint Roller",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_ed01f.bin",
+  "group": "/romdir/bank05bin/z_chr_ed01f.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "엔딩1 魔女の正体は 名もなき\"絵画\"でした",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_ed02f.bin",
+  "group": "/romdir/bank05bin/z_chr_ed02f.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "엔딩2 しかしドロシアが 予想外だったのは",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_ed03f.bin",
+  "group": "/romdir/bank05bin/z_chr_ed03f.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "엔딩3 役目を終えた 魔法の絵筆は",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_ed04f.bin",
+  "group": "/romdir/bank05bin/z_chr_ed04f.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "엔딩4",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_ed05e.bin",
+  "group": "/romdir/bank05bin/z_chr_ed05e.bin",
+  "kind": "bg",
+  "cat": "B",
+  "note": "FIN",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_gghelp.bin",
+  "group": "/romdir/bank05bin/z_chr_gghelp.bin",
+  "kind": "bg",
+  "cat": "C",
+  "note": "빈 그림",
+  "group_cat": "C"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_lesson00_0.bin",
+  "group": "/romdir/bank05bin/z_chr_lesson00_0.bin",
+  "kind": "sheet",
+  "cat": "A",
+  "note": "このゲームは「タッチペン」のみを使います",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_lesson11_0.bin",
+  "group": "/romdir/bank05bin/z_chr_lesson11_0.bin",
+  "kind": "sheet",
+  "cat": "A",
+  "note": "トレーニング・その1「タッチダッシュのほんのう」",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_lesson11_1.bin",
+  "group": "/romdir/bank05bin/z_chr_lesson11_1.bin",
+  "kind": "sheet",
+  "cat": "A",
+  "note": "前から敵が…!そんな時は…",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_lesson11_2.bin",
+  "group": "/romdir/bank05bin/z_chr_lesson11_2.bin",
+  "kind": "sheet",
+  "cat": "A",
+  "note": "敵をタッチ!しびれて動きを止めます",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_lesson11_3.bin",
+  "group": "/romdir/bank05bin/z_chr_lesson11_3.bin",
+  "kind": "sheet",
+  "cat": "A",
+  "note": "레슨 그림 페이지: 「しびれているテキ」は ぶつかっただけで たおせます (재검사에서 발견)",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_lesson11_4.bin",
+  "group": "/romdir/bank05bin/z_chr_lesson11_4.bin",
+  "kind": "sheet",
+  "cat": "A",
+  "note": "敵がいっぱいあらわれた!そんな時は…",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_lesson11_5.bin",
+  "group": "/romdir/bank05bin/z_chr_lesson11_5.bin",
+  "kind": "sheet",
+  "cat": "A",
+  "note": "레슨 그림 페이지 (문장+그림) (재검사에서 발견)",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_lesson11_6.bin",
+  "group": "/romdir/bank05bin/z_chr_lesson11_6.bin",
+  "kind": "sheet",
+  "cat": "A",
+  "note": "これで一度にまとめて倒すことができます",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_lesson11_7.bin",
+  "group": "/romdir/bank05bin/z_chr_lesson11_7.bin",
+  "kind": "sheet",
+  "cat": "A",
+  "note": "それでは「タッチダッシュ」の練習…",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_lesson21_0.bin",
+  "group": "/romdir/bank05bin/z_chr_lesson21_0.bin",
+  "kind": "sheet",
+  "cat": "A",
+  "note": "トレーニング・その2「タッチで進もう」",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_lesson21_1.bin",
+  "group": "/romdir/bank05bin/z_chr_lesson21_1.bin",
+  "kind": "sheet",
+  "cat": "A",
+  "note": "ブロックがジャマで進めません…",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_lesson21_2.bin",
+  "group": "/romdir/bank05bin/z_chr_lesson21_2.bin",
+  "kind": "sheet",
+  "cat": "A",
+  "note": "タッチしてブロックをこわしましょう",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_lesson21_3.bin",
+  "group": "/romdir/bank05bin/z_chr_lesson21_3.bin",
+  "kind": "sheet",
+  "cat": "A",
+  "note": "こまった時には「タッチ!」です…",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_lesson31_0.bin",
+  "group": "/romdir/bank05bin/z_chr_lesson31_0.bin",
+  "kind": "sheet",
+  "cat": "A",
+  "note": "トレーニング・その3「カービィは向きを変える」",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_lesson31_1.bin",
+  "group": "/romdir/bank05bin/z_chr_lesson31_1.bin",
+  "kind": "sheet",
+  "cat": "A",
+  "note": "このままではカービィが落ちてしまいます",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_lesson31_2.bin",
+  "group": "/romdir/bank05bin/z_chr_lesson31_2.bin",
+  "kind": "sheet",
+  "cat": "A",
+  "note": "레슨 그림 페이지 (문장+그림) (재검사에서 발견)",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_lesson31_3.bin",
+  "group": "/romdir/bank05bin/z_chr_lesson31_3.bin",
+  "kind": "sheet",
+  "cat": "A",
+  "note": "레슨 그림 페이지 (문장+그림) (재검사에서 발견)",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_lesson31_4.bin",
+  "group": "/romdir/bank05bin/z_chr_lesson31_4.bin",
+  "kind": "sheet",
+  "cat": "A",
+  "note": "向きが変わってゴールできました…",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_lesson41_0.bin",
+  "group": "/romdir/bank05bin/z_chr_lesson41_0.bin",
+  "kind": "sheet",
+  "cat": "A",
+  "note": "トレーニング・その4「虹のラインに乗ろう」",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_lesson41_1.bin",
+  "group": "/romdir/bank05bin/z_chr_lesson41_1.bin",
+  "kind": "sheet",
+  "cat": "A",
+  "note": "むこう岸に渡りたい!!そんな時には…",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_lesson41_2.bin",
+  "group": "/romdir/bank05bin/z_chr_lesson41_2.bin",
+  "kind": "sheet",
+  "cat": "A",
+  "note": "虹のラインで道を作りましょう",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_lesson41_3.bin",
+  "group": "/romdir/bank05bin/z_chr_lesson41_3.bin",
+  "kind": "sheet",
+  "cat": "A",
+  "note": "레슨 그림 페이지 (문장+그림) (재검사에서 발견)",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_lesson41_4.bin",
+  "group": "/romdir/bank05bin/z_chr_lesson41_4.bin",
+  "kind": "sheet",
+  "cat": "A",
+  "note": "ただし虹のラインはすぐ消えてしまうので…",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_lesson51_0.bin",
+  "group": "/romdir/bank05bin/z_chr_lesson51_0.bin",
+  "kind": "sheet",
+  "cat": "A",
+  "note": "トレーニング・その5「コピー能力の使用」",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_lesson51_1.bin",
+  "group": "/romdir/bank05bin/z_chr_lesson51_1.bin",
+  "kind": "sheet",
+  "cat": "A",
+  "note": "この敵はコピー能力を持っています…",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_lesson51_2.bin",
+  "group": "/romdir/bank05bin/z_chr_lesson51_2.bin",
+  "kind": "sheet",
+  "cat": "A",
+  "note": "能力をコピーしました",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_lesson51_3.bin",
+  "group": "/romdir/bank05bin/z_chr_lesson51_3.bin",
+  "kind": "sheet",
+  "cat": "A",
+  "note": "コピー能力はカービィをタッチで使うことができます",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_lesson51_4.bin",
+  "group": "/romdir/bank05bin/z_chr_lesson51_4.bin",
+  "kind": "sheet",
+  "cat": "A",
+  "note": "레슨 그림 페이지: また コピー能力をすてたい時は 下にある「ビーム」をタッチします (재검사에서 발견)",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_lesson51_5.bin",
+  "group": "/romdir/bank05bin/z_chr_lesson51_5.bin",
+  "kind": "sheet",
+  "cat": "A",
+  "note": "他にもいろんなコピー能力があります…",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_lesson61_0.bin",
+  "group": "/romdir/bank05bin/z_chr_lesson61_0.bin",
+  "kind": "sheet",
+  "cat": "A",
+  "note": "トレーニング・その6「虹のラインでカービィを守ろう」",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_lesson61_1.bin",
+  "group": "/romdir/bank05bin/z_chr_lesson61_1.bin",
+  "kind": "sheet",
+  "cat": "A",
+  "note": "下にはトゲ…が飛んでいます そんな時には…",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_lesson61_2.bin",
+  "group": "/romdir/bank05bin/z_chr_lesson61_2.bin",
+  "kind": "sheet",
+  "cat": "A",
+  "note": "레슨 그림 페이지 (문장+그림) (재검사에서 발견)",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_lesson61_3.bin",
+  "group": "/romdir/bank05bin/z_chr_lesson61_3.bin",
+  "kind": "sheet",
+  "cat": "A",
+  "note": "線のカベを…ゴールまで進めましょう",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_lesson61_4.bin",
+  "group": "/romdir/bank05bin/z_chr_lesson61_4.bin",
+  "kind": "sheet",
+  "cat": "A",
+  "note": "레슨 그림 페이지 (문장+그림) (재검사에서 발견)",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_lesson61_5.bin",
+  "group": "/romdir/bank05bin/z_chr_lesson61_5.bin",
+  "kind": "sheet",
+  "cat": "A",
+  "note": "挑戦…!",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_op01font.bin",
+  "group": "/romdir/bank05bin/z_chr_op01font.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "오프닝1 ここは 平和の国 プププランド…",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_op02font.bin",
+  "group": "/romdir/bank05bin/z_chr_op02font.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "오프닝2 すると 突然 世界の色が ゆがみだし…",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_op03font.bin",
+  "group": "/romdir/bank05bin/z_chr_op03font.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "오프닝3 カービィに 気づいた魔女は…",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_op04font.bin",
+  "group": "/romdir/bank05bin/z_chr_op04font.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "오프닝4 そこは 絵画の世界でした…",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_op05font.bin",
+  "group": "/romdir/bank05bin/z_chr_op05font.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "오프닝5 魔女の落とした「ふしぎな絵筆」…",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_selboss_s_block1.bin",
+  "group": "/romdir/bank05bin/z_chr_selboss_s_block1.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "보스게임 설명 ブロックアタック 1/3",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_selboss_s_block2.bin",
+  "group": "/romdir/bank05bin/z_chr_selboss_s_block2.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "보스게임 설명 ブロックアタック 2/3",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_selboss_s_block3.bin",
+  "group": "/romdir/bank05bin/z_chr_selboss_s_block3.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "보스게임 설명 ブロックアタック 3/3",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_selboss_s_paint1.bin",
+  "group": "/romdir/bank05bin/z_chr_selboss_s_paint1.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "보스게임 설명 ペイントパニック 1/3",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_selboss_s_paint2.bin",
+  "group": "/romdir/bank05bin/z_chr_selboss_s_paint2.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "보스게임 설명 ペイントパニック 2/3",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_selboss_s_paint3.bin",
+  "group": "/romdir/bank05bin/z_chr_selboss_s_paint3.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "보스게임 설명 ペイントパニック 3/3",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_selboss_s_title.bin",
+  "group": "/romdir/bank05bin/z_chr_selboss_s_title.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "ボスゲーム",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_selboss_s_truck1.bin",
+  "group": "/romdir/bank05bin/z_chr_selboss_s_truck1.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "보스게임 설명 トロッコチェイス 1/3",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_selboss_s_truck2.bin",
+  "group": "/romdir/bank05bin/z_chr_selboss_s_truck2.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "보스게임 설명 トロッコチェイス 2/3",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_selboss_s_truck3.bin",
+  "group": "/romdir/bank05bin/z_chr_selboss_s_truck3.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "보스게임 설명 トロッコチェイス 3/3",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_selsubgame_m_frame.bin",
+  "group": "/romdir/bank05bin/z_chr_selsubgame_m_frame.bin",
+  "kind": "bg",
+  "cat": "B",
+  "note": "SUB GAME",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_selsubgame_s_block1.bin",
+  "group": "/romdir/bank05bin/z_chr_selsubgame_s_block1.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "서브게임 설명 ブロックアタック 1/4",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_selsubgame_s_block2.bin",
+  "group": "/romdir/bank05bin/z_chr_selsubgame_s_block2.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "서브게임 설명 ブロックアタック 2/4",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_selsubgame_s_block3.bin",
+  "group": "/romdir/bank05bin/z_chr_selsubgame_s_block3.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "서브게임 설명 ブロックアタック 3/4",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_selsubgame_s_block4.bin",
+  "group": "/romdir/bank05bin/z_chr_selsubgame_s_block4.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "서브게임 설명 ブロックアタック 4/4 (점수표)",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_selsubgame_s_paint1.bin",
+  "group": "/romdir/bank05bin/z_chr_selsubgame_s_paint1.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "서브게임 설명 ペイントパニック 1/4",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_selsubgame_s_paint2.bin",
+  "group": "/romdir/bank05bin/z_chr_selsubgame_s_paint2.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "서브게임 설명 ペイントパニック 2/4",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_selsubgame_s_paint3.bin",
+  "group": "/romdir/bank05bin/z_chr_selsubgame_s_paint3.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "서브게임 설명 ペイントパニック 3/4",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_selsubgame_s_paint4.bin",
+  "group": "/romdir/bank05bin/z_chr_selsubgame_s_paint4.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "서브게임 설명 ペイントパニック 4/4 (점수표)",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_selsubgame_s_rankingframe.bin",
+  "group": "/romdir/bank05bin/z_chr_selsubgame_s_rankingframe.bin",
+  "kind": "bg",
+  "cat": "B",
+  "note": "RANKING TOP / LV1",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_selsubgame_s_title.bin",
+  "group": "/romdir/bank05bin/z_chr_selsubgame_s_title.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "サブゲーム",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_selsubgame_s_truck1.bin",
+  "group": "/romdir/bank05bin/z_chr_selsubgame_s_truck1.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "서브게임 설명 トロッコチェイス 1/4",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_selsubgame_s_truck2.bin",
+  "group": "/romdir/bank05bin/z_chr_selsubgame_s_truck2.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "서브게임 설명 トロッコチェイス 2/4",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_selsubgame_s_truck3.bin",
+  "group": "/romdir/bank05bin/z_chr_selsubgame_s_truck3.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "서브게임 설명 トロッコチェイス 3/4",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_selsubgame_s_truck4.bin",
+  "group": "/romdir/bank05bin/z_chr_selsubgame_s_truck4.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "서브게임 설명 トロッコチェイス 4/4 (점수표)",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_trainingend.bin",
+  "group": "/romdir/bank05bin/z_chr_trainingend.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "おまけ ~水中にもぐる~",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_chr_trainingend_s.bin",
+  "group": "/romdir/bank05bin/z_chr_trainingend_s.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "トレーニングおわり",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_obj_completes.bin",
+  "group": "/romdir/bank05bin/z_obj_completes.bin",
+  "kind": "c05",
+  "cat": "B",
+  "note": "MEDAL/COMPLETE 로고",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank05bin/z_obj_info.bin",
+  "group": "/romdir/bank05bin/z_obj_info.bin",
+  "kind": "c05",
+  "cat": "B",
+  "note": "TIME MEDAL COMPLETE",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank05bin/z_obj_medalget_logo.bin",
+  "group": "/romdir/bank05bin/z_obj_medalget_logo.bin",
+  "kind": "c05",
+  "cat": "B",
+  "note": "MEDAL GET!",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank05bin/z_obj_sc_charaname.bin",
+  "group": "/romdir/bank05bin/z_obj_sc_charaname.bin",
+  "kind": "c05",
+  "cat": "B",
+  "note": "적 이름 (영문)",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank05bin/z_obj_selboss_m_obj.bin",
+  "group": "/romdir/bank05bin/z_obj_selboss_m_obj.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "せつめい",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_obj_selsubgame_m_obj.bin",
+  "group": "/romdir/bank05bin/z_obj_selsubgame_m_obj.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "せつめい",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_obj_selsubgamelevel_m_obj.bin",
+  "group": "/romdir/bank05bin/z_obj_selsubgamelevel_m_obj.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "レベル1/2/3",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_obj_selsubgamelevel_s_obj.bin",
+  "group": "/romdir/bank05bin/z_obj_selsubgamelevel_s_obj.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "ランク",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_obj_training_m.bin",
+  "group": "/romdir/bank05bin/z_obj_training_m.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "トレーニングを プレイしますか? / 再プレイ / はい / いいえ",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_obj_trainingwarn.bin",
+  "group": "/romdir/bank05bin/z_obj_trainingwarn.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "ゴールドをめざせ! / おてほん / タッチしてスタート / コピー能力をつかおう!",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_real_sc_krackojr.bin",
+  "group": "/romdir/bank05bin/z_real_sc_krackojr.bin",
+  "kind": "c06",
+  "cat": "C",
+  "note": "크래코 Jr. 스프라이트",
+  "group_cat": "C"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_creditcopyright.bin",
+  "group": "/romdir/bank05bin/z_scr_creditcopyright.bin",
+  "kind": "skip",
+  "cat": "?",
+  "note": "미해석 포맷 (scr(chr없음))",
+  "group_cat": "?"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_ed01f.bin",
+  "group": "/romdir/bank05bin/z_chr_ed01f.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "엔딩1 魔女の正体は 名もなき\"絵画\"でした",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_ed02f.bin",
+  "group": "/romdir/bank05bin/z_chr_ed02f.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "엔딩2 しかしドロシアが 予想外だったのは",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_ed03f.bin",
+  "group": "/romdir/bank05bin/z_chr_ed03f.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "엔딩3 役目を終えた 魔法の絵筆は",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_ed04af.bin",
+  "group": "/romdir/bank05bin/z_chr_ed04f.bin",
+  "kind": "bg",
+  "cat": "?",
+  "note": "미해석 포맷 (scr(chr없음))",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_ed04bf.bin",
+  "group": "/romdir/bank05bin/z_chr_ed04f.bin",
+  "kind": "bg",
+  "cat": "?",
+  "note": "미해석 포맷 (scr(chr없음))",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_ed05e.bin",
+  "group": "/romdir/bank05bin/z_chr_ed05e.bin",
+  "kind": "bg",
+  "cat": "B",
+  "note": "FIN",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_gghelp.bin",
+  "group": "/romdir/bank05bin/z_chr_gghelp.bin",
+  "kind": "bg",
+  "cat": "C",
+  "note": "빈 그림",
+  "group_cat": "C"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_lesson11_3.bin",
+  "group": "/romdir/bank05bin/z_scr_lesson11_3.bin",
+  "kind": "skip",
+  "cat": "C",
+  "note": "레슨 그림 (텍스트 포함 여부 재확인 필요)",
+  "group_cat": "C"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_lesson11_5.bin",
+  "group": "/romdir/bank05bin/z_scr_lesson11_5.bin",
+  "kind": "skip",
+  "cat": "C",
+  "note": "레슨 그림 (재확인 필요)",
+  "group_cat": "C"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_lesson31_2.bin",
+  "group": "/romdir/bank05bin/z_scr_lesson31_2.bin",
+  "kind": "skip",
+  "cat": "C",
+  "note": "레슨 그림 (재확인 필요)",
+  "group_cat": "C"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_lesson31_3.bin",
+  "group": "/romdir/bank05bin/z_scr_lesson31_3.bin",
+  "kind": "skip",
+  "cat": "C",
+  "note": "레슨 그림 (재확인 필요)",
+  "group_cat": "C"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_lesson41_3.bin",
+  "group": "/romdir/bank05bin/z_scr_lesson41_3.bin",
+  "kind": "skip",
+  "cat": "C",
+  "note": "레슨 그림 (재확인 필요)",
+  "group_cat": "C"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_lesson51_4.bin",
+  "group": "/romdir/bank05bin/z_scr_lesson51_4.bin",
+  "kind": "skip",
+  "cat": "C",
+  "note": "레슨 그림 (재확인 필요)",
+  "group_cat": "C"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_lesson61_4.bin",
+  "group": "/romdir/bank05bin/z_scr_lesson61_4.bin",
+  "kind": "skip",
+  "cat": "C",
+  "note": "그림",
+  "group_cat": "C"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_op01font.bin",
+  "group": "/romdir/bank05bin/z_chr_op01font.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "오프닝1 ここは 平和の国 プププランド…",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_op02font.bin",
+  "group": "/romdir/bank05bin/z_chr_op02font.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "오프닝2 すると 突然 世界の色が ゆがみだし…",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_op03font.bin",
+  "group": "/romdir/bank05bin/z_chr_op03font.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "오프닝3 カービィに 気づいた魔女は…",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_op04font_00.bin",
+  "group": "/romdir/bank05bin/z_chr_op04font.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "오프닝4 そこは 絵画の世界でした…",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_op05font.bin",
+  "group": "/romdir/bank05bin/z_chr_op05font.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "오프닝5 魔女の落とした「ふしぎな絵筆」…",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_selboss_s_block1.bin",
+  "group": "/romdir/bank05bin/z_chr_selboss_s_block1.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "보스게임 설명 ブロックアタック 1/3",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_selboss_s_block2.bin",
+  "group": "/romdir/bank05bin/z_chr_selboss_s_block2.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "보스게임 설명 ブロックアタック 2/3",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_selboss_s_block3.bin",
+  "group": "/romdir/bank05bin/z_chr_selboss_s_block3.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "보스게임 설명 ブロックアタック 3/3",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_selboss_s_paint1.bin",
+  "group": "/romdir/bank05bin/z_chr_selboss_s_paint1.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "보스게임 설명 ペイントパニック 1/3",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_selboss_s_paint2.bin",
+  "group": "/romdir/bank05bin/z_chr_selboss_s_paint2.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "보스게임 설명 ペイントパニック 2/3",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_selboss_s_paint3.bin",
+  "group": "/romdir/bank05bin/z_chr_selboss_s_paint3.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "보스게임 설명 ペイントパニック 3/3",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_selboss_s_title.bin",
+  "group": "/romdir/bank05bin/z_chr_selboss_s_title.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "ボスゲーム",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_selboss_s_truck1.bin",
+  "group": "/romdir/bank05bin/z_chr_selboss_s_truck1.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "보스게임 설명 トロッコチェイス 1/3",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_selboss_s_truck2.bin",
+  "group": "/romdir/bank05bin/z_chr_selboss_s_truck2.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "보스게임 설명 トロッコチェイス 2/3",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_selboss_s_truck3.bin",
+  "group": "/romdir/bank05bin/z_chr_selboss_s_truck3.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "보스게임 설명 トロッコチェイス 3/3",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_selsubgame_m_frame.bin",
+  "group": "/romdir/bank05bin/z_chr_selsubgame_m_frame.bin",
+  "kind": "bg",
+  "cat": "B",
+  "note": "SUB GAME",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_selsubgame_s_block1.bin",
+  "group": "/romdir/bank05bin/z_chr_selsubgame_s_block1.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "서브게임 설명 ブロックアタック 1/4",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_selsubgame_s_block2.bin",
+  "group": "/romdir/bank05bin/z_chr_selsubgame_s_block2.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "서브게임 설명 ブロックアタック 2/4",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_selsubgame_s_block3.bin",
+  "group": "/romdir/bank05bin/z_chr_selsubgame_s_block3.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "서브게임 설명 ブロックアタック 3/4",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_selsubgame_s_block4.bin",
+  "group": "/romdir/bank05bin/z_chr_selsubgame_s_block4.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "서브게임 설명 ブロックアタック 4/4 (점수표)",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_selsubgame_s_paint1.bin",
+  "group": "/romdir/bank05bin/z_chr_selsubgame_s_paint1.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "서브게임 설명 ペイントパニック 1/4",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_selsubgame_s_paint2.bin",
+  "group": "/romdir/bank05bin/z_chr_selsubgame_s_paint2.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "서브게임 설명 ペイントパニック 2/4",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_selsubgame_s_paint3.bin",
+  "group": "/romdir/bank05bin/z_chr_selsubgame_s_paint3.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "서브게임 설명 ペイントパニック 3/4",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_selsubgame_s_paint4.bin",
+  "group": "/romdir/bank05bin/z_chr_selsubgame_s_paint4.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "서브게임 설명 ペイントパニック 4/4 (점수표)",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_selsubgame_s_rankingframe.bin",
+  "group": "/romdir/bank05bin/z_chr_selsubgame_s_rankingframe.bin",
+  "kind": "bg",
+  "cat": "B",
+  "note": "RANKING TOP / LV1",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_selsubgame_s_title.bin",
+  "group": "/romdir/bank05bin/z_chr_selsubgame_s_title.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "サブゲーム",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_selsubgame_s_truck1.bin",
+  "group": "/romdir/bank05bin/z_chr_selsubgame_s_truck1.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "서브게임 설명 トロッコチェイス 1/4",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_selsubgame_s_truck2.bin",
+  "group": "/romdir/bank05bin/z_chr_selsubgame_s_truck2.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "서브게임 설명 トロッコチェイス 2/4",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_selsubgame_s_truck3.bin",
+  "group": "/romdir/bank05bin/z_chr_selsubgame_s_truck3.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "서브게임 설명 トロッコチェイス 3/4",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_selsubgame_s_truck4.bin",
+  "group": "/romdir/bank05bin/z_chr_selsubgame_s_truck4.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "서브게임 설명 トロッコチェイス 4/4 (점수표)",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_training_bg211m.bin",
+  "group": "/romdir/bank05bin/z_scr_training_bg211m.bin",
+  "kind": "skip",
+  "cat": "?",
+  "note": "미해석 포맷 (scr(chr없음))",
+  "group_cat": "?"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_trainingend.bin",
+  "group": "/romdir/bank05bin/z_chr_trainingend.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "おまけ ~水中にもぐる~",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank05bin/z_scr_trainingend_s.bin",
+  "group": "/romdir/bank05bin/z_chr_trainingend_s.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "トレーニングおわり",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank06bin/bossinfo.bin",
+  "group": "/romdir/bank06bin/bossinfo.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "보스 이름 ドロシア ソーサレス ソウル",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/blockattackinfo.bin",
+  "group": "/romdir/bank07bin/blockattackinfo.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "ブロックアタック 정보 라벨",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/chr_blockattackbest.bin",
+  "group": "/romdir/bank07bin/chr_blockattackbest.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "RANKING更新!",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/chr_blockattackinfob1.bin",
+  "group": "/romdir/bank07bin/chr_blockattackinfob1.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "ステージ No. / クラッコ Jr. / ラケット ノ カケルナガサ",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/chr_blockattackinfob2.bin",
+  "group": "/romdir/bank07bin/chr_blockattackinfob2.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "ステージ No. / クラッコ / ラケット ノ カケルナガサ",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/chr_blockattackinfos.bin",
+  "group": "/romdir/bank07bin/chr_blockattackinfos.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "ステージ No. / ノコリジカン / トクテン",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/chr_blockattackmedal.bin",
+  "group": "/romdir/bank07bin/chr_blockattackmedal.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "ブロック アタック! メダルゲット",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/chr_blockattackranking.bin",
+  "group": "/romdir/bank07bin/chr_blockattackranking.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "ブロック アタック / レベル",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/chr_blockattackrecode.bin",
+  "group": "/romdir/bank07bin/chr_blockattackrecode.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "NEW RECORDでました! (재검사에서 발견)",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/chr_blockattackresult.bin",
+  "group": "/romdir/bank07bin/chr_blockattackresult.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "トクテン / テキ× / トクテン ゴウケイ / ヒョウカ",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/chr_pipepanicinfo.bin",
+  "group": "/romdir/bank07bin/chr_pipepanicinfo.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "モンダイ No. / セイカクサ / セイカイスウ / スバヤサ / トクテン",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/chr_pipepanicinfoboss.bin",
+  "group": "/romdir/bank07bin/chr_pipepanicinfoboss.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "モンダイ No. / セイカイスウ / スバヤサ / ペイントローラー",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/chr_pipepanicmedal.bin",
+  "group": "/romdir/bank07bin/chr_pipepanicmedal.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "ペイント パニック! メダルゲット",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/chr_pipepanicnewranking.bin",
+  "group": "/romdir/bank07bin/chr_pipepanicnewranking.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "RANKING更新!",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/chr_pipepanicnewrecord.bin",
+  "group": "/romdir/bank07bin/chr_pipepanicnewrecord.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "NEW RECORDでました!",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/chr_pipepanicresult.bin",
+  "group": "/romdir/bank07bin/chr_pipepanicresult.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "トクテン / セイカイスウ / ヒョウカ",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/chr_pipepanicresult1.bin",
+  "group": "/romdir/bank07bin/chr_pipepanicresult1.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "トクテン / セイカイスウ / ヒョウカ",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/chr_sgranking.bin",
+  "group": "/romdir/bank07bin/chr_sgranking.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "ペイント パニック / レベル",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/chr_truckmedal.bin",
+  "group": "/romdir/bank07bin/chr_truckmedal.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "トロッコ チェイス! メダルゲット",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/chr_truckranking.bin",
+  "group": "/romdir/bank07bin/chr_truckranking.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "トロッコ チェイス / レベル",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/chr_truckresult.bin",
+  "group": "/romdir/bank07bin/chr_truckresult.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "トクテン / ノコリジカン×50 / タイム / トップ タイム / ヒョウカ",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/chr_truckupinfob.bin",
+  "group": "/romdir/bank07bin/chr_truckupinfob.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "コース No. / デデデ大王",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/chr_truckupinfos1.bin",
+  "group": "/romdir/bank07bin/chr_truckupinfos1.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "コース No. / タイム / ノコリ ジカン / トクテン",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/chr_truckupinfos2.bin",
+  "group": "/romdir/bank07bin/chr_truckupinfos2.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "コース No. / タイム / ノコリ ジカン / トクテン",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/pipebutton.bin",
+  "group": "/romdir/bank07bin/pipebutton.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "光るボタンをタッチ! / ボーナス / +50てん",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/pipeinfo.bin",
+  "group": "/romdir/bank07bin/pipeinfo.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "ペイントパニック 정보 라벨",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/scr_blockattackbest.bin",
+  "group": "/romdir/bank07bin/chr_blockattackbest.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "RANKING更新!",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/scr_blockattackinfob1.bin",
+  "group": "/romdir/bank07bin/chr_blockattackinfob1.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "ステージ No. / クラッコ Jr. / ラケット ノ カケルナガサ",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/scr_blockattackinfob2.bin",
+  "group": "/romdir/bank07bin/chr_blockattackinfob2.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "ステージ No. / クラッコ / ラケット ノ カケルナガサ",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/scr_blockattackinfos.bin",
+  "group": "/romdir/bank07bin/chr_blockattackinfos.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "ステージ No. / ノコリジカン / トクテン",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/scr_blockattackmedal.bin",
+  "group": "/romdir/bank07bin/chr_blockattackmedal.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "ブロック アタック! メダルゲット",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/scr_blockattackranking.bin",
+  "group": "/romdir/bank07bin/chr_blockattackranking.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "ブロック アタック / レベル",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/scr_blockattackrecode.bin",
+  "group": "/romdir/bank07bin/chr_blockattackrecode.bin",
+  "kind": "bg",
+  "cat": "C",
+  "note": "색만 다름",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/scr_blockattackresult.bin",
+  "group": "/romdir/bank07bin/chr_blockattackresult.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "トクテン / テキ× / トクテン ゴウケイ / ヒョウカ",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/scr_pipepanicinfo.bin",
+  "group": "/romdir/bank07bin/chr_pipepanicinfo.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "モンダイ No. / セイカクサ / セイカイスウ / スバヤサ / トクテン",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/scr_pipepanicinfoboss.bin",
+  "group": "/romdir/bank07bin/chr_pipepanicinfoboss.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "モンダイ No. / セイカイスウ / スバヤサ / ペイントローラー",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/scr_pipepanicmedal.bin",
+  "group": "/romdir/bank07bin/chr_pipepanicmedal.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "ペイント パニック! メダルゲット",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/scr_pipepanicnewranking.bin",
+  "group": "/romdir/bank07bin/chr_pipepanicnewranking.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "RANKING更新!",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/scr_pipepanicnewrecord.bin",
+  "group": "/romdir/bank07bin/chr_pipepanicnewrecord.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "NEW RECORDでました!",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/scr_pipepanicresult.bin",
+  "group": "/romdir/bank07bin/chr_pipepanicresult.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "トクテン / セイカイスウ / ヒョウカ",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/scr_pipepanicresult1.bin",
+  "group": "/romdir/bank07bin/chr_pipepanicresult1.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "トクテン / セイカイスウ / ヒョウカ",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/scr_sgranking.bin",
+  "group": "/romdir/bank07bin/chr_sgranking.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "ペイント パニック / レベル",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/scr_truckmedal.bin",
+  "group": "/romdir/bank07bin/chr_truckmedal.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "トロッコ チェイス! メダルゲット",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/scr_truckranking.bin",
+  "group": "/romdir/bank07bin/chr_truckranking.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "トロッコ チェイス / レベル",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/scr_truckresult.bin",
+  "group": "/romdir/bank07bin/chr_truckresult.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "トクテン / ノコリジカン×50 / タイム / トップ タイム / ヒョウカ",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/scr_truckupinfob.bin",
+  "group": "/romdir/bank07bin/chr_truckupinfob.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "コース No. / デデデ大王",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/scr_truckupinfos1.bin",
+  "group": "/romdir/bank07bin/chr_truckupinfos1.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "コース No. / タイム / ノコリ ジカン / トクテン",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/scr_truckupinfos2.bin",
+  "group": "/romdir/bank07bin/chr_truckupinfos2.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "コース No. / タイム / ノコリ ジカン / トクテン",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/sgrank.bin",
+  "group": "/romdir/bank07bin/sgrank.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "랭크 칭호 (スゴーイ!! 등)",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/sgranking.bin",
+  "group": "/romdir/bank07bin/sgranking.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "ランク",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/truckcenter.bin",
+  "group": "/romdir/bank07bin/truckcenter.bin",
+  "kind": "c06",
+  "cat": "B",
+  "note": "RACE START / NICE RUN",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank07bin/trucknuminfo.bin",
+  "group": "/romdir/bank07bin/trucknuminfo.bin",
+  "kind": "c05",
+  "cat": "C",
+  "note": "시간 기호",
+  "group_cat": "C"
+ },
+ {
+  "file": "/romdir/bank07bin/truckranking.bin",
+  "group": "/romdir/bank07bin/truckranking.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "ランク / New",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank07bin/truckupinfo.bin",
+  "group": "/romdir/bank07bin/truckupinfo.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "レベル / コイン / スピード",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank09bin/bmp_goalkinkei.bin",
+  "group": "/romdir/bank09bin/bmp_goalkinkei.bin",
+  "kind": "bmp",
+  "cat": "A",
+  "note": "ダッシュ!ジャンプ (골 게임 앞 배경)",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank09bin/bmp_machineL7S2s3.bin",
+  "group": "/romdir/bank09bin/bmp_machineL7S2s3.bin",
+  "kind": "skip",
+  "cat": "?",
+  "note": "미해석 포맷 (bmp)",
+  "group_cat": "?"
+ },
+ {
+  "file": "/romdir/bank09bin/bmp_ravineL5S3s1.bin",
+  "group": "/romdir/bank09bin/bmp_ravineL5S3s1.bin",
+  "kind": "skip",
+  "cat": "?",
+  "note": "미해석 포맷 (bmp)",
+  "group_cat": "?"
+ },
+ {
+  "file": "/romdir/bank09bin/bmp_retroL1S2s2.bin",
+  "group": "/romdir/bank09bin/bmp_retroL1S2s2.bin",
+  "kind": "skip",
+  "cat": "?",
+  "note": "미해석 포맷 (bmp)",
+  "group_cat": "?"
+ },
+ {
+  "file": "/romdir/bank09bin/map_L3S2s2_020101.bin",
+  "group": "/romdir/bank09bin/map_L3S2s2_020101.bin",
+  "kind": "skip",
+  "cat": "?",
+  "note": "미해석 포맷 (map)",
+  "group_cat": "?"
+ },
+ {
+  "file": "/romdir/bank09bin/map_L3S3s3_020202.bin",
+  "group": "/romdir/bank09bin/map_L3S3s3_020202.bin",
+  "kind": "skip",
+  "cat": "?",
+  "note": "미해석 포맷 (map)",
+  "group_cat": "?"
+ },
+ {
+  "file": "/romdir/bank09bin/map_L4S1s2_030001.bin",
+  "group": "/romdir/bank09bin/map_L4S1s2_030001.bin",
+  "kind": "skip",
+  "cat": "?",
+  "note": "미해석 포맷 (map)",
+  "group_cat": "?"
+ },
+ {
+  "file": "/romdir/bank09bin/map_L5S1s2_040001.bin",
+  "group": "/romdir/bank09bin/map_L5S1s2_040001.bin",
+  "kind": "skip",
+  "cat": "?",
+  "note": "미해석 포맷 (map)",
+  "group_cat": "?"
+ },
+ {
+  "file": "/romdir/bank09bin/map_L5S1s3_040002.bin",
+  "group": "/romdir/bank09bin/map_L5S1s3_040002.bin",
+  "kind": "skip",
+  "cat": "?",
+  "note": "미해석 포맷 (map)",
+  "group_cat": "?"
+ },
+ {
+  "file": "/romdir/bank09bin/map_L7S1s2_060001.bin",
+  "group": "/romdir/bank09bin/map_L7S1s2_060001.bin",
+  "kind": "skip",
+  "cat": "?",
+  "note": "미해석 포맷 (map)",
+  "group_cat": "?"
+ },
+ {
+  "file": "/romdir/bank10bin/ablpanelballoon.bin",
+  "group": "/romdir/bank10bin/ablpanelballoon.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "バルーン",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/ablpanelbeam.bin",
+  "group": "/romdir/bank10bin/ablpanelbeam.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "ビーム",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/ablpanelburning.bin",
+  "group": "/romdir/bank10bin/ablpanelburning.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "バーニング",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/ablpanelcrash.bin",
+  "group": "/romdir/bank10bin/ablpanelcrash.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "クラッシュ",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/ablpanelfreeze.bin",
+  "group": "/romdir/bank10bin/ablpanelfreeze.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "フリーズ",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/ablpanelmissile.bin",
+  "group": "/romdir/bank10bin/ablpanelmissile.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "ミサイル",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/ablpanelneedle.bin",
+  "group": "/romdir/bank10bin/ablpanelneedle.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "ニードル",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/ablpanelnormal.bin",
+  "group": "/romdir/bank10bin/ablpanelnormal.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "ノーマル",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/ablpanelspark.bin",
+  "group": "/romdir/bank10bin/ablpanelspark.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "スパーク",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/ablpanelstone.bin",
+  "group": "/romdir/bank10bin/ablpanelstone.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "ストーン",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/ablpaneltornado.bin",
+  "group": "/romdir/bank10bin/ablpaneltornado.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "トルネイド",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/ablpanelwheel.bin",
+  "group": "/romdir/bank10bin/ablpanelwheel.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "ホイール",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/chr_infosubframeggrass.bin",
+  "group": "/romdir/bank10bin/chr_infosubframeggrass.bin",
+  "kind": "bg",
+  "cat": "B",
+  "note": "Growth Grass",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank10bin/chr_infosubframegground.bin",
+  "group": "/romdir/bank10bin/chr_infosubframegground.bin",
+  "kind": "bg",
+  "cat": "B",
+  "note": "Ghost Ground",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank10bin/chr_infosubframepplant.bin",
+  "group": "/romdir/bank10bin/chr_infosubframepplant.bin",
+  "kind": "bg",
+  "cat": "B",
+  "note": "Plain Plant",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank10bin/chr_infosubframeppolice.bin",
+  "group": "/romdir/bank10bin/chr_infosubframeppolice.bin",
+  "kind": "bg",
+  "cat": "B",
+  "note": "Palette Polis",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank10bin/chr_pauseballoonbg.bin",
+  "group": "/romdir/bank10bin/chr_pauseballoonbg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 バルーン",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/chr_pausebeambg.bin",
+  "group": "/romdir/bank10bin/chr_pausebeambg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 ビーム",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/chr_pauseblockbg.bin",
+  "group": "/romdir/bank10bin/chr_pauseblockbg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 ブロックアタック",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/chr_pausebossbg.bin",
+  "group": "/romdir/bank10bin/chr_pausebossbg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "VS ドロシア / 絵画世界を支配する ドロシア! / 最後の戦いが ついに始まる!! (재검사에서 발견)",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/chr_pauseburningbg.bin",
+  "group": "/romdir/bank10bin/chr_pauseburningbg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 バーニング",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/chr_pausecrashbg.bin",
+  "group": "/romdir/bank10bin/chr_pausecrashbg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 クラッシュ",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/chr_pausedededebg.bin",
+  "group": "/romdir/bank10bin/chr_pausedededebg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 デデデ大王",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/chr_pausefreezebg.bin",
+  "group": "/romdir/bank10bin/chr_pausefreezebg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 フリーズ",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/chr_pausekirbybg.bin",
+  "group": "/romdir/bank10bin/chr_pausekirbybg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 ノーマル",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/chr_pausemedalbg.bin",
+  "group": "/romdir/bank10bin/chr_pausemedalbg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 メダル",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/chr_pausemetaknightbg.bin",
+  "group": "/romdir/bank10bin/chr_pausemetaknightbg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 メタナイト",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/chr_pausemissilebg.bin",
+  "group": "/romdir/bank10bin/chr_pausemissilebg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 ミサイル",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/chr_pauseneedlebg.bin",
+  "group": "/romdir/bank10bin/chr_pauseneedlebg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 ニードル",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/chr_pausepanicbg.bin",
+  "group": "/romdir/bank10bin/chr_pausepanicbg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 ペイントパニック",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/chr_pausepicto.bin",
+  "group": "/romdir/bank10bin/chr_pausepicto.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "ピクトチャットを遊ぶために 電源を切ります。 / 現在のデータはセーブされません (재검사에서 발견)",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/chr_pausesparkbg.bin",
+  "group": "/romdir/bank10bin/chr_pausesparkbg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 スパーク",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/chr_pausestonebg.bin",
+  "group": "/romdir/bank10bin/chr_pausestonebg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 ストーン",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/chr_pausetornadobg.bin",
+  "group": "/romdir/bank10bin/chr_pausetornadobg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 トルネイド",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/chr_pausetrainingbg.bin",
+  "group": "/romdir/bank10bin/chr_pausetrainingbg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "トレーニング / 「オプション」に行けば いつでも プレイできます。 (재검사에서 발견)",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/chr_pausetrialbg.bin",
+  "group": "/romdir/bank10bin/chr_pausetrialbg.bin",
+  "kind": "bg",
+  "cat": "C",
+  "note": "그림만 다름",
+  "group_cat": "C"
+ },
+ {
+  "file": "/romdir/bank10bin/chr_pausetrialfont.bin",
+  "group": "/romdir/bank10bin/chr_pausetrialfont.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "タイムトライアル / ラインアタック",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/chr_pausetruckbg.bin",
+  "group": "/romdir/bank10bin/chr_pausetruckbg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 トロッコチェイス",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/chr_pausewaddledeebg.bin",
+  "group": "/romdir/bank10bin/chr_pausewaddledeebg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 ワドルディ",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/chr_pausewaddledoobg.bin",
+  "group": "/romdir/bank10bin/chr_pausewaddledoobg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 ワドルドゥ隊長",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/chr_pausewheelebg.bin",
+  "group": "/romdir/bank10bin/chr_pausewheelebg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 ホイール",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/col_pausepicto.bin",
+  "group": "/romdir/bank10bin/col_pausepicto.bin",
+  "kind": "pal",
+  "cat": "P",
+  "note": "팔레트",
+  "group_cat": "P"
+ },
+ {
+  "file": "/romdir/bank10bin/col_pausetrainingbg.bin",
+  "group": "/romdir/bank10bin/col_pausetrainingbg.bin",
+  "kind": "pal",
+  "cat": "P",
+  "note": "팔레트",
+  "group_cat": "P"
+ },
+ {
+  "file": "/romdir/bank10bin/col_pausetrialbg.bin",
+  "group": "/romdir/bank10bin/col_pausetrialbg.bin",
+  "kind": "pal",
+  "cat": "P",
+  "note": "팔레트",
+  "group_cat": "P"
+ },
+ {
+  "file": "/romdir/bank10bin/pausebutton.bin",
+  "group": "/romdir/bank10bin/pausebutton.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "つづける / やめる / リトライ / もどる",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/pausepowerbutton.bin",
+  "group": "/romdir/bank10bin/pausepowerbutton.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "はい / いいえ",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/scr_infosubframeggrass.bin",
+  "group": "/romdir/bank10bin/chr_infosubframeggrass.bin",
+  "kind": "bg",
+  "cat": "B",
+  "note": "Growth Grass",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank10bin/scr_infosubframegground.bin",
+  "group": "/romdir/bank10bin/chr_infosubframegground.bin",
+  "kind": "bg",
+  "cat": "B",
+  "note": "Ghost Ground",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank10bin/scr_infosubframepplant.bin",
+  "group": "/romdir/bank10bin/chr_infosubframepplant.bin",
+  "kind": "bg",
+  "cat": "B",
+  "note": "Plain Plant",
+  "group_cat": "B"
+ },
+ {
+  "file": "/romdir/bank10bin/scr_pauseballoonbg.bin",
+  "group": "/romdir/bank10bin/chr_pauseballoonbg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 バルーン",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/scr_pausebeambg.bin",
+  "group": "/romdir/bank10bin/chr_pausebeambg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 ビーム",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/scr_pauseblockbg.bin",
+  "group": "/romdir/bank10bin/chr_pauseblockbg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 ブロックアタック",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/scr_pausebossbg.bin",
+  "group": "/romdir/bank10bin/chr_pausebossbg.bin",
+  "kind": "bg",
+  "cat": "C",
+  "note": "확인 필요 (팔레트 없음)",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/scr_pauseburningbg.bin",
+  "group": "/romdir/bank10bin/chr_pauseburningbg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 バーニング",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/scr_pausecrashbg.bin",
+  "group": "/romdir/bank10bin/chr_pausecrashbg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 クラッシュ",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/scr_pausedededebg.bin",
+  "group": "/romdir/bank10bin/chr_pausedededebg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 デデデ大王",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/scr_pausefreezebg.bin",
+  "group": "/romdir/bank10bin/chr_pausefreezebg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 フリーズ",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/scr_pausekirbybg.bin",
+  "group": "/romdir/bank10bin/chr_pausekirbybg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 ノーマル",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/scr_pauselinebg.bin",
+  "group": "/romdir/bank10bin/chr_pausetrialfont.bin",
+  "kind": "bg",
+  "cat": "?",
+  "note": "미해석 포맷 (scr(chr없음))",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/scr_pausemedalbg.bin",
+  "group": "/romdir/bank10bin/chr_pausemedalbg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 メダル",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/scr_pausemetaknightbg.bin",
+  "group": "/romdir/bank10bin/chr_pausemetaknightbg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 メタナイト",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/scr_pausemissilebg.bin",
+  "group": "/romdir/bank10bin/chr_pausemissilebg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 ミサイル",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/scr_pauseneedlebg.bin",
+  "group": "/romdir/bank10bin/chr_pauseneedlebg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 ニードル",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/scr_pausepanicbg.bin",
+  "group": "/romdir/bank10bin/chr_pausepanicbg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 ペイントパニック",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/scr_pausepicto.bin",
+  "group": "/romdir/bank10bin/chr_pausepicto.bin",
+  "kind": "bg",
+  "cat": "C",
+  "note": "확인 필요 (팔레트 없음)",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/scr_pausesparkbg.bin",
+  "group": "/romdir/bank10bin/chr_pausesparkbg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 スパーク",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/scr_pausestonebg.bin",
+  "group": "/romdir/bank10bin/chr_pausestonebg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 ストーン",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/scr_pausetimebg.bin",
+  "group": "/romdir/bank10bin/chr_pausetrialfont.bin",
+  "kind": "bg",
+  "cat": "?",
+  "note": "미해석 포맷 (scr(chr없음))",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/scr_pausetornadobg.bin",
+  "group": "/romdir/bank10bin/chr_pausetornadobg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 トルネイド",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/scr_pausetrainingbg.bin",
+  "group": "/romdir/bank10bin/chr_pausetrainingbg.bin",
+  "kind": "bg",
+  "cat": "C",
+  "note": "확인 필요 (팔레트 없음)",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/scr_pausetruckbg.bin",
+  "group": "/romdir/bank10bin/chr_pausetruckbg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 トロッコチェイス",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/scr_pausewaddledeebg.bin",
+  "group": "/romdir/bank10bin/chr_pausewaddledeebg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 ワドルディ",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/scr_pausewaddledoobg.bin",
+  "group": "/romdir/bank10bin/chr_pausewaddledoobg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 ワドルドゥ隊長",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/scr_pausewheelebg.bin",
+  "group": "/romdir/bank10bin/chr_pausewheelebg.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "일시정지 설명 ホイール",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/trialmainmessage.bin",
+  "group": "/romdir/bank10bin/trialmainmessage.bin",
+  "kind": "c06",
+  "cat": "A",
+  "note": "タッチしてスタート",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/trialupinfo.bin",
+  "group": "/romdir/bank10bin/trialupinfo.bin",
+  "kind": "c05",
+  "cat": "A",
+  "note": "트라이얼 정보 라벨",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/z_chr_trialline.bin",
+  "group": "/romdir/bank10bin/z_chr_trialline.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "ハイスコア / スコア (라벨) (재검사에서 발견)",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/z_chr_trialtime.bin",
+  "group": "/romdir/bank10bin/z_chr_trialtime.bin",
+  "kind": "bg",
+  "cat": "A",
+  "note": "ベストタイム / タイム (라벨) (재검사에서 발견)",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/z_scr_trialline.bin",
+  "group": "/romdir/bank10bin/z_chr_trialline.bin",
+  "kind": "bg",
+  "cat": "C",
+  "note": "틀",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank10bin/z_scr_trialtime.bin",
+  "group": "/romdir/bank10bin/z_chr_trialtime.bin",
+  "kind": "bg",
+  "cat": "C",
+  "note": "틀",
+  "group_cat": "A"
+ },
+ {
+  "file": "/romdir/bank11bin/scr_minimapl3s3s3.bin",
+  "group": "/romdir/bank11bin/scr_minimapl3s3s3.bin",
+  "kind": "skip",
+  "cat": "?",
+  "note": "미해석 포맷 (scr(chr없음))",
+  "group_cat": "?"
+ },
+ {
+  "file": "/romdir/bank11bin/scr_minimapl3s3s4.bin",
+  "group": "/romdir/bank11bin/scr_minimapl3s3s4.bin",
+  "kind": "skip",
+  "cat": "?",
+  "note": "미해석 포맷 (scr(chr없음))",
+  "group_cat": "?"
+ }
+]

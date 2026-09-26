@@ -1,0 +1,317 @@
+{
+ "png": "bank05bin/z_obj_selsubgamelevel_s_obj.png",
+ "ops": [
+  {
+   "fill": [
+    41,
+    21,
+    22,
+    6
+   ],
+   "idx": 0
+  },
+  {
+   "text": "랭크",
+   "at": [
+    41,
+    0
+   ],
+   "font": "g7",
+   "fill": 12,
+   "w": 22,
+   "align": "center",
+   "valign_box": [
+    20,
+    7
+   ]
+  },
+  {
+   "fill": [
+    101,
+    21,
+    22,
+    6
+   ],
+   "idx": 0
+  },
+  {
+   "text": "랭크",
+   "at": [
+    101,
+    0
+   ],
+   "font": "g7",
+   "fill": 12,
+   "w": 22,
+   "align": "center",
+   "valign_box": [
+    20,
+    7
+   ]
+  },
+  {
+   "fill": [
+    153,
+    21,
+    22,
+    6
+   ],
+   "idx": 0
+  },
+  {
+   "text": "랭크",
+   "at": [
+    153,
+    0
+   ],
+   "font": "g7",
+   "fill": 12,
+   "w": 22,
+   "align": "center",
+   "valign_box": [
+    20,
+    7
+   ]
+  },
+  {
+   "fill": [
+    197,
+    21,
+    22,
+    6
+   ],
+   "idx": 0
+  },
+  {
+   "text": "랭크",
+   "at": [
+    197,
+    0
+   ],
+   "font": "g7",
+   "fill": 15,
+   "w": 22,
+   "align": "center",
+   "valign_box": [
+    20,
+    7
+   ]
+  },
+  {
+   "fill": [
+    241,
+    21,
+    22,
+    6
+   ],
+   "idx": 0
+  },
+  {
+   "text": "랭크",
+   "at": [
+    241,
+    0
+   ],
+   "font": "g7",
+   "fill": 15,
+   "w": 22,
+   "align": "center",
+   "valign_box": [
+    20,
+    7
+   ]
+  },
+  {
+   "fill": [
+    285,
+    21,
+    22,
+    6
+   ],
+   "idx": 0
+  },
+  {
+   "text": "랭크",
+   "at": [
+    285,
+    0
+   ],
+   "font": "g7",
+   "fill": 15,
+   "w": 22,
+   "align": "center",
+   "valign_box": [
+    20,
+    7
+   ]
+  },
+  {
+   "fill": [
+    329,
+    21,
+    22,
+    6
+   ],
+   "idx": 0
+  },
+  {
+   "text": "랭크",
+   "at": [
+    329,
+    0
+   ],
+   "font": "g7",
+   "fill": 14,
+   "w": 22,
+   "align": "center",
+   "valign_box": [
+    20,
+    7
+   ]
+  },
+  {
+   "fill": [
+    373,
+    21,
+    22,
+    6
+   ],
+   "idx": 0
+  },
+  {
+   "text": "랭크",
+   "at": [
+    373,
+    0
+   ],
+   "font": "g7",
+   "fill": 14,
+   "w": 22,
+   "align": "center",
+   "valign_box": [
+    20,
+    7
+   ]
+  },
+  {
+   "fill": [
+    417,
+    21,
+    22,
+    6
+   ],
+   "idx": 0
+  },
+  {
+   "text": "랭크",
+   "at": [
+    417,
+    0
+   ],
+   "font": "g7",
+   "fill": 14,
+   "w": 22,
+   "align": "center",
+   "valign_box": [
+    20,
+    7
+   ]
+  },
+  {
+   "fill": [
+    461,
+    21,
+    22,
+    6
+   ],
+   "idx": 0
+  },
+  {
+   "text": "랭크",
+   "at": [
+    461,
+    0
+   ],
+   "font": "g7",
+   "fill": 13,
+   "w": 22,
+   "align": "center",
+   "valign_box": [
+    20,
+    7
+   ]
+  },
+  {
+   "fill": [
+    1,
+    41,
+    22,
+    6
+   ],
+   "idx": 0
+  },
+  {
+   "text": "랭크",
+   "at": [
+    1,
+    0
+   ],
+   "font": "g7",
+   "fill": 13,
+   "w": 22,
+   "align": "center",
+   "valign_box": [
+    40,
+    7
+   ]
+  },
+  {
+   "fill": [
+    45,
+    41,
+    22,
+    6
+   ],
+   "idx": 0
+  },
+  {
+   "text": "랭크",
+   "at": [
+    45,
+    0
+   ],
+   "font": "g7",
+   "fill": 13,
+   "w": 22,
+   "align": "center",
+   "valign_box": [
+    40,
+    7
+   ]
+  },
+  {
+   "fill": [
+    89,
+    41,
+    22,
+    6
+   ],
+   "idx": 0
+  },
+  {
+   "text": "랭크",
+   "at": [
+    89,
+    0
+   ],
+   "font": "g7",
+   "fill": 1,
+   "w": 22,
+   "align": "center",
+   "valign_box": [
+    40,
+    7
+   ]
+  }
+ ]
+}

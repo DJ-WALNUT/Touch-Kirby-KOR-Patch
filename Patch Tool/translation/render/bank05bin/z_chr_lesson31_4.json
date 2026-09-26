@@ -1,0 +1,87 @@
+{
+ "png": "bank05bin/z_chr_lesson31_4.png",
+ "ops": [
+  {
+   "clear": [
+    0,
+    0,
+    128,
+    152
+   ],
+   "keep": [
+    1,
+    0
+   ],
+   "idx": 1
+  },
+  {
+   "text": "방향이 바뀌어서",
+   "at": [
+    1,
+    11
+   ],
+   "w": 89,
+   "align": "left",
+   "font": "g11b",
+   "fill": 15
+  },
+  {
+   "text": "골",
+   "at": [
+    112,
+    27
+   ],
+   "w": 16,
+   "align": "right",
+   "font": "g11b",
+   "fill": 15
+  },
+  {
+   "text": "인했어요",
+   "at": [
+    1,
+    43
+   ],
+   "w": 84,
+   "align": "left",
+   "font": "g11b",
+   "fill": 15
+  },
+  {
+   "text": "그럼",
+   "at": [
+    17,
+    72
+   ],
+   "w": 44,
+   "align": "left",
+   "font": "g14",
+   "fill": 11,
+   "bold": 1
+  },
+  {
+   "text": "해",
+   "at": [
+    96,
+    104
+   ],
+   "w": 31,
+   "align": "right",
+   "font": "g14",
+   "fill": 11,
+   "bold": 1
+  },
+  {
+   "text": " 볼까요!",
+   "at": [
+    1,
+    120
+   ],
+   "w": 127,
+   "align": "left",
+   "font": "g14",
+   "fill": 11,
+   "bold": 1
+  }
+ ]
+}

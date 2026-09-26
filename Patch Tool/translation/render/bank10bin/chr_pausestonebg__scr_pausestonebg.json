@@ -1,0 +1,114 @@
+{
+ "png": "bank10bin/chr_pausestonebg__scr_pausestonebg.png",
+ "ops": [
+  {
+   "fill": [
+    16,
+    10,
+    64,
+    17
+   ],
+   "idx": 0
+  },
+  {
+   "fill": [
+    24,
+    32,
+    192,
+    16
+   ],
+   "idx": 0
+  },
+  {
+   "fill": [
+    23,
+    47,
+    209,
+    17
+   ],
+   "idx": 0
+  },
+  {
+   "fill": [
+    17,
+    11,
+    14,
+    15
+   ],
+   "idx": 31
+  },
+  {
+   "text": "스",
+   "at": [
+    17,
+    0
+   ],
+   "w": 14,
+   "align": "center",
+   "valign_box": [
+    12,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 24
+  },
+  {
+   "fill": [
+    33,
+    11,
+    14,
+    15
+   ],
+   "idx": 31
+  },
+  {
+   "text": "톤",
+   "at": [
+    33,
+    0
+   ],
+   "w": 14,
+   "align": "center",
+   "valign_box": [
+    12,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 24
+  },
+  {
+   "text": "터치로 돌멩이 무적이에요",
+   "at": [
+    25,
+    0
+   ],
+   "valign_box": [
+    33,
+    14
+   ],
+   "fill": 31,
+   "w": 227,
+   "font": "g14",
+   "bold": 1,
+   "spacing": 1
+  },
+  {
+   "text": "비탈에서 데굴데굴 굴러요",
+   "at": [
+    25,
+    0
+   ],
+   "valign_box": [
+    48,
+    15
+   ],
+   "fill": 31,
+   "w": 227,
+   "font": "g14",
+   "bold": 1,
+   "spacing": 1
+  }
+ ]
+}

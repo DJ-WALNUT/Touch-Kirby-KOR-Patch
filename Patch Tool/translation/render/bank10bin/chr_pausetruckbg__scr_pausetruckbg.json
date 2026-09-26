@@ -1,0 +1,214 @@
+{
+ "png": "bank10bin/chr_pausetruckbg__scr_pausetruckbg.png",
+ "ops": [
+  {
+   "fill": [
+    23,
+    7,
+    136,
+    17
+   ],
+   "idx": 0
+  },
+  {
+   "fill": [
+    17,
+    32,
+    231,
+    16
+   ],
+   "idx": 0
+  },
+  {
+   "fill": [
+    16,
+    55,
+    227,
+    17
+   ],
+   "idx": 0
+  },
+  {
+   "fill": [
+    24,
+    8,
+    15,
+    15
+   ],
+   "idx": 2
+  },
+  {
+   "text": "트",
+   "at": [
+    24,
+    0
+   ],
+   "w": 15,
+   "align": "center",
+   "valign_box": [
+    9,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 15
+  },
+  {
+   "fill": [
+    41,
+    8,
+    15,
+    15
+   ],
+   "idx": 2
+  },
+  {
+   "text": "로",
+   "at": [
+    41,
+    0
+   ],
+   "w": 15,
+   "align": "center",
+   "valign_box": [
+    9,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 15
+  },
+  {
+   "fill": [
+    58,
+    8,
+    15,
+    15
+   ],
+   "idx": 2
+  },
+  {
+   "text": "코",
+   "at": [
+    58,
+    0
+   ],
+   "w": 15,
+   "align": "center",
+   "valign_box": [
+    9,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 15
+  },
+  {
+   "fill": [
+    82,
+    8,
+    15,
+    15
+   ],
+   "idx": 2
+  },
+  {
+   "text": "체",
+   "at": [
+    82,
+    0
+   ],
+   "w": 15,
+   "align": "center",
+   "valign_box": [
+    9,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 15
+  },
+  {
+   "fill": [
+    99,
+    8,
+    15,
+    15
+   ],
+   "idx": 2
+  },
+  {
+   "text": "이",
+   "at": [
+    99,
+    0
+   ],
+   "w": 15,
+   "align": "center",
+   "valign_box": [
+    9,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 15
+  },
+  {
+   "fill": [
+    116,
+    8,
+    15,
+    15
+   ],
+   "idx": 2
+  },
+  {
+   "text": "스",
+   "at": [
+    116,
+    0
+   ],
+   "w": 15,
+   "align": "center",
+   "valign_box": [
+    9,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 15
+  },
+  {
+   "text": "레일을 만들어 디디디와 레이스",
+   "at": [
+    17,
+    0
+   ],
+   "valign_box": [
+    33,
+    14
+   ],
+   "fill": 2,
+   "w": 235,
+   "font": "g14",
+   "bold": 1,
+   "spacing": 1
+  },
+  {
+   "text": "음식을 먹으면 스피드 UP!",
+   "at": [
+    17,
+    0
+   ],
+   "valign_box": [
+    56,
+    15
+   ],
+   "fill": 2,
+   "w": 235,
+   "font": "g14",
+   "bold": 1,
+   "spacing": 1
+  }
+ ]
+}

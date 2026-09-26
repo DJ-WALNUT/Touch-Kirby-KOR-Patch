@@ -1,0 +1,34 @@
+{
+ "png": "bank04bin/chr_configpagebg__scr_configpictopagebg.png",
+ "ops": [
+  {
+   "clear": [
+    12,
+    138,
+    232,
+    15
+   ],
+   "keep": [
+    29
+   ],
+   "idx": 29
+  },
+  {
+   "text": "이 설정은 저장되지 않아요",
+   "at": [
+    12,
+    0
+   ],
+   "w": 232,
+   "align": "center",
+   "valign_box": [
+    139,
+    13
+   ],
+   "font": "g11b",
+   "fill": 18,
+   "outline": 17,
+   "outline8": true
+  }
+ ]
+}

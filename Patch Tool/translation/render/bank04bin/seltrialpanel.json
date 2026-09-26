@@ -1,0 +1,65 @@
+{
+ "png": "bank04bin/seltrialpanel.png",
+ "ops": [
+  {
+   "fill": [
+    180,
+    0,
+    200,
+    16
+   ],
+   "idx": 0
+  },
+  {
+   "text": "베스트 타임",
+   "at": [
+    180,
+    0
+   ],
+   "w": 63,
+   "align": "center",
+   "valign_box": [
+    3,
+    11
+   ],
+   "font": "g9",
+   "bold": 0,
+   "fill": 8,
+   "outline": 1
+  },
+  {
+   "text": "하이스코어",
+   "at": [
+    248,
+    0
+   ],
+   "w": 63,
+   "align": "center",
+   "valign_box": [
+    3,
+    11
+   ],
+   "font": "g9",
+   "bold": 0,
+   "fill": 8,
+   "outline": 1
+  },
+  {
+   "text": "메달 보너스",
+   "at": [
+    316,
+    0
+   ],
+   "w": 63,
+   "align": "center",
+   "valign_box": [
+    3,
+    11
+   ],
+   "font": "g9",
+   "bold": 0,
+   "fill": 8,
+   "outline": 1
+  }
+ ]
+}

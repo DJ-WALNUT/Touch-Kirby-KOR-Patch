@@ -1,0 +1,189 @@
+{
+ "png": "bank10bin/chr_pausepanicbg__scr_pausepanicbg.png",
+ "ops": [
+  {
+   "fill": [
+    23,
+    7,
+    133,
+    17
+   ],
+   "idx": 0
+  },
+  {
+   "fill": [
+    16,
+    31,
+    224,
+    17
+   ],
+   "idx": 0
+  },
+  {
+   "fill": [
+    15,
+    55,
+    228,
+    17
+   ],
+   "idx": 0
+  },
+  {
+   "fill": [
+    24,
+    8,
+    15,
+    15
+   ],
+   "idx": 2
+  },
+  {
+   "text": "페",
+   "at": [
+    24,
+    0
+   ],
+   "w": 15,
+   "align": "center",
+   "valign_box": [
+    9,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 15
+  },
+  {
+   "fill": [
+    41,
+    8,
+    15,
+    15
+   ],
+   "idx": 2
+  },
+  {
+   "text": "인",
+   "at": [
+    41,
+    0
+   ],
+   "w": 15,
+   "align": "center",
+   "valign_box": [
+    9,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 15
+  },
+  {
+   "fill": [
+    58,
+    8,
+    15,
+    15
+   ],
+   "idx": 2
+  },
+  {
+   "text": "트",
+   "at": [
+    58,
+    0
+   ],
+   "w": 15,
+   "align": "center",
+   "valign_box": [
+    9,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 15
+  },
+  {
+   "fill": [
+    82,
+    8,
+    15,
+    15
+   ],
+   "idx": 2
+  },
+  {
+   "text": "패",
+   "at": [
+    82,
+    0
+   ],
+   "w": 15,
+   "align": "center",
+   "valign_box": [
+    9,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 15
+  },
+  {
+   "fill": [
+    99,
+    8,
+    15,
+    15
+   ],
+   "idx": 2
+  },
+  {
+   "text": "닉",
+   "at": [
+    99,
+    0
+   ],
+   "w": 15,
+   "align": "center",
+   "valign_box": [
+    9,
+    13
+   ],
+   "font": "g11b",
+   "bold": 0,
+   "fill": 15
+  },
+  {
+   "text": "견본대로 라인을 그려요",
+   "at": [
+    17,
+    0
+   ],
+   "valign_box": [
+    32,
+    15
+   ],
+   "fill": 2,
+   "w": 235,
+   "font": "g14",
+   "bold": 1,
+   "spacing": 1
+  },
+  {
+   "text": "서두르지 않으면 봄버가...!!",
+   "at": [
+    17,
+    0
+   ],
+   "valign_box": [
+    56,
+    15
+   ],
+   "fill": 2,
+   "w": 235,
+   "font": "g14",
+   "bold": 1,
+   "spacing": 1
+  }
+ ]
+}

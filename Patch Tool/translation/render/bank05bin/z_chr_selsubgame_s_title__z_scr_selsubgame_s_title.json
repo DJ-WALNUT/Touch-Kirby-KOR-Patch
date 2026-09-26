@@ -1,0 +1,110 @@
+{
+ "png": "bank05bin/z_chr_selsubgame_s_title__z_scr_selsubgame_s_title.png",
+ "ops": [
+  {
+   "fill": [
+    85,
+    118,
+    12,
+    12
+   ],
+   "idx": 182
+  },
+  {
+   "text": "서",
+   "at": [
+    85,
+    0
+   ],
+   "font": "g9",
+   "fill": 185,
+   "w": 12,
+   "align": "center",
+   "valign_box": [
+    119,
+    10
+   ]
+  },
+  {
+   "fill": [
+    103,
+    118,
+    12,
+    12
+   ],
+   "idx": 183
+  },
+  {
+   "text": "브",
+   "at": [
+    103,
+    0
+   ],
+   "font": "g9",
+   "fill": 182,
+   "w": 12,
+   "align": "center",
+   "valign_box": [
+    119,
+    10
+   ]
+  },
+  {
+   "fill": [
+    121,
+    118,
+    12,
+    12
+   ],
+   "idx": 182
+  },
+  {
+   "fill": [
+    139,
+    118,
+    12,
+    12
+   ],
+   "idx": 184
+  },
+  {
+   "text": "게",
+   "at": [
+    139,
+    0
+   ],
+   "font": "g9",
+   "fill": 192,
+   "w": 12,
+   "align": "center",
+   "valign_box": [
+    119,
+    10
+   ]
+  },
+  {
+   "fill": [
+    157,
+    118,
+    12,
+    12
+   ],
+   "idx": 182
+  },
+  {
+   "text": "임",
+   "at": [
+    157,
+    0
+   ],
+   "font": "g9",
+   "fill": 187,
+   "w": 12,
+   "align": "center",
+   "valign_box": [
+    119,
+    10
+   ]
+  }
+ ]
+}

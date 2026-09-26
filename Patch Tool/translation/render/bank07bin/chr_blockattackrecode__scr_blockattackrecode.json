@@ -1,0 +1,46 @@
+{
+ "png": "bank07bin/chr_blockattackrecode__scr_blockattackrecode.png",
+ "ops": [
+  {
+   "fill": [
+    175,
+    86,
+    81,
+    19
+   ],
+   "idx": 143
+  },
+  {
+   "text": "달성!",
+   "at": [
+    181,
+    0
+   ],
+   "valign_box": [
+    90,
+    12
+   ],
+   "font": "g14",
+   "bold": 1,
+   "spacing": 1,
+   "fill": 131,
+   "outline": 131
+  },
+  {
+   "text": "달성!",
+   "at": [
+    179,
+    0
+   ],
+   "valign_box": [
+    88,
+    12
+   ],
+   "font": "g14",
+   "bold": 1,
+   "spacing": 1,
+   "fill": 130,
+   "outline": 131
+  }
+ ]
+}

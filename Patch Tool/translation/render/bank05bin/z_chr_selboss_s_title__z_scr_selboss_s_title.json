@@ -1,0 +1,114 @@
+{
+ "png": "bank05bin/z_chr_selboss_s_title__z_scr_selboss_s_title.png",
+ "ops": [
+  {
+   "fill": [
+    86,
+    118,
+    12,
+    12
+   ],
+   "idx": 111
+  },
+  {
+   "text": "보",
+   "at": [
+    86,
+    0
+   ],
+   "w": 12,
+   "align": "center",
+   "valign_box": [
+    119,
+    10
+   ],
+   "font": "g9",
+   "bold": 1,
+   "fill": 112
+  },
+  {
+   "fill": [
+    104,
+    118,
+    12,
+    12
+   ],
+   "idx": 111
+  },
+  {
+   "text": "스",
+   "at": [
+    104,
+    0
+   ],
+   "w": 12,
+   "align": "center",
+   "valign_box": [
+    119,
+    10
+   ],
+   "font": "g9",
+   "bold": 1,
+   "fill": 112
+  },
+  {
+   "fill": [
+    122,
+    118,
+    12,
+    12
+   ],
+   "idx": 111
+  },
+  {
+   "fill": [
+    140,
+    118,
+    12,
+    12
+   ],
+   "idx": 111
+  },
+  {
+   "text": "게",
+   "at": [
+    140,
+    0
+   ],
+   "w": 12,
+   "align": "center",
+   "valign_box": [
+    119,
+    10
+   ],
+   "font": "g9",
+   "bold": 1,
+   "fill": 112
+  },
+  {
+   "fill": [
+    158,
+    118,
+    12,
+    12
+   ],
+   "idx": 111
+  },
+  {
+   "text": "임",
+   "at": [
+    158,
+    0
+   ],
+   "w": 12,
+   "align": "center",
+   "valign_box": [
+    119,
+    10
+   ],
+   "font": "g9",
+   "bold": 1,
+   "fill": 112
+  }
+ ]
+}
