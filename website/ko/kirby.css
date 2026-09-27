@@ -1,0 +1,20 @@
+.ssmall {font-size: 10px; line-height: 14px; }
+.small {font-size: 12px; line-height: 16px; }
+.normal {font-size: 14px; line-height: 20px; }
+
+.about_s {font-size: 12px; font-weight: bold; line-height: 16px;}
+
+
+A:link    {
+	text-decoration:underline; color: #CC3300;
+}
+A:visited { 
+	text-decoration:underline; color: #0033FF;
+}
+A:active  { 
+	text-decoration:underline; 
+}
+A:hover   { 
+	text-decoration:underline; color: #CC0000; 
+}
+

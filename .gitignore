@@ -16,3 +16,8 @@ Patch Tool/out/
 __pycache__/
 *.pyc
 .DS_Store
+
+# 홈페이지 한글화 작업 부산물
+website/.venv/
+website/_sheets/
+website/_shots/
